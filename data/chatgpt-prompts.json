@@ -2,13 +2,121 @@
   "source": "https://opennana.com/awesome-prompt-gallery?model=ChatGPT",
   "api_base": "https://api.opennana.com/api/prompts",
   "model": "ChatGPT",
-  "fetched_at": "2026-05-03T16:45:47.111Z",
-  "total_reported": 567,
+  "fetched_at": "2026-05-04T17:29:08.811Z",
+  "total_reported": 575,
   "total_pages": 29,
-  "total_archived": 567,
+  "total_archived": 575,
   "total_failed": 0,
   "failed": [],
   "items": [
+    {
+      "id": 13969,
+      "slug": "ultra-realistic-3d-character-disassembly-fashion-poster",
+      "title": "超写实3D角色拆解时尚海报",
+      "description": "",
+      "model": "ChatGPT",
+      "media_type": "image",
+      "source_name": "@msjiaozhu",
+      "source_url": "https://x.com/msjiaozhu/status/2051248243871498700",
+      "tags": [],
+      "prompts": [
+        {
+          "text": "基于用户提供的参考图片，创作一张超高品质、照片级写实的3D角色拆解艺术海报。将人物转换为Unreal Engine 5 (Metahuman) 级别的超写实数字人，并将其极具个人魅力的私人物品以严谨的\"Knolling\"风格进行布局展示。\n\n画面比例：16:9 横版\n艺术风格核心：时尚超写实主义 (Fashion Hyper-realism) — 极致的皮肤质感、奢华的材质表现、诱惑的电影氛围。\n质量标杆：对标 Tom Ford/Gucci 的时尚广告大片、赛博朋克2077的高端角色建模、Vogue 摄影作品。\n\n📷 物品布局 (Item Layout) - Knolling 放射式构图\n总物品数：25-30件，围绕角色呈放射状排列，注重留白与呼吸感。\n\n分类1：高定穿搭 (Haute Couture) - 深红丝绒标签\n- 主服装拆解：\n  - 如果是女性：黑色丝绸吊带裙（展现丝滑垂坠感）、极细高跟鞋（红底）、蕾丝内衬细节、透明黑丝袜（展现透肤度和光泽）。\n  - 如果是男性：解开领口的丝质衬衫、定制西装马甲、手工皮鞋（镜面光泽）。\n- 材质重点：重点表现丝绸的流光、皮革的纹理、肌肤与布料接触的压痕。\n\n分类2：私密美妆 (Intimate Beauty) - 香槟金标签\n- 妆容细节：口红（膏体带水润光泽，管身留有指纹）、眼影盘（碎钻闪粉质感）、昂贵的复古香水瓶（琥珀色液体）。\n- 氛围道具：一支燃烧了一半的香薰蜡烛（带烟雾）、一杯红酒（挂杯细节清晰）。\n*示例：口红盖子打开，旁边有一张印着吻痕的餐巾纸。*\n\n分类3：奢华配饰 (Luxury Accessories) - 铂金标签\n- 珠宝：钻石项链（强烈的色散火彩）、蛇形手镯、机械腕表（透视机芯）。\n- 随身物：真皮手包（细腻的荔枝纹）、金属烟盒或雪茄剪、豪华跑车钥匙。\n\n分类4：欲望符号 (Symbols of Desire) - 霓虹紫标签\n- 道具：一副复古墨镜、胶片相机、一本未读完的时尚杂志、黑胶唱片。\n- 暗示性物品：散落的珍珠、一朵红玫瑰（花瓣带露珠）。\n\n📷 角色呈现 (Character Presentation)\n- 姿态：不再是标准的站立，而是略带慵懒、自信的姿势（如坐在隐形的高脚椅上，眼神直视镜头，带有强烈的吸引力）。\n- 皮肤细节：必须展现真实的毛孔、细微的汗毛、嘴唇的纹理、锁骨的阴影。皮肤要有“微出汗”的光泽感(Dewy Skin)。\n\n📷 爆炸视图技术 (Exploded View Technique)\n- 连接线：极细的金色激光线，带有极简的科技感。\n- 引导设计：不再使用普通箭头，而是使用光晕引导视线。\n- 技术注释：字体极小且锐利，类似于高端医学美容或时尚杂志的分析图。\n\n📷 视觉包装 · THE AESTHETICS OF ALLURE 📷\n- 字体：Didot 或 Bodoni（经典的时尚衬线体），极细字重，白色或金色。\n- 副标题 (手写体)：\"Elegance is an attitude / 优雅即是态度\"\n- 色彩方案：\n  - 深邃暗调：午夜蓝(#000033) + 勃艮第红(#800020) + 香槟金(#D4AF37)。\n  - 赛博魅惑：黑色背景 + 霓虹紫(#B026FF) + 电光蓝(#00FFFF)。\n\n📷 背景与氛围 (Background & Atmosphere)\n- 光影设计 (Lighting)：\n  - **伦勃朗光 (Rembrandt Lighting)**：在面部形成戏剧性的三角光区。\n  - **轮廓光 (Rim Light)**：强烈的背光勾勒出角色的身体曲线和发丝边缘。\n- 背景：深色背景，带有焦散光斑(Caustics)或模糊的城市夜景灯光(City Bokeh)。\n- 特效：轻微的烟雾缭绕，增加神秘感和空气感。\n\n📷 技术规格 (Technical Specifications)\n- 渲染引擎：Octane Render 或 Unreal Engine 5。\n- 物理材质 (PBR)：\n  - **皮肤**：真实的人类皮肤着色器，包含次表面散射(SSS)和微量油脂层。\n  - **布料**：丝绸必须有各向异性(Anisotropic)反光；丝袜要有半透明Alpha通道处理。\n  - **金属**：高反射，带指纹污渍的真实感。\n- 摄影机：85mm 人像焦段，大光圈 (f/1.8) 虚化背景，焦点锐利地锁定在角色眼睛和关键物品上。\n\n📷 后期处理 (Post-Processing)\n- 色调：电影感调色 (Teal & Orange 或 Black & Gold)。\n- 辉光：高光处添加明显的柔光滤镜效果 (Pro-Mist Filter look)，让皮肤看起来更梦幻。\n- 锐化：强化眼部和珠宝的锐度。\n\n📷 质量基准：\n画面必须摆脱“塑料感”和“模型感”，达到甚至超越 8K 摄影照片的质感。角色必须具有灵魂和性张力，眼神能穿透屏幕。",
+          "type": "zh",
+          "label": "中文提示词"
+        }
+      ],
+      "images": [
+        "https://img.opennana.com/prompts/assets/202605/1777905180150-qk4y430x-1777905197725-1.jpeg"
+      ],
+      "video_urls": [],
+      "thumbnail": "pthumbs/prompts/assets/202605/1777905180150-qk4y430x-1777905197725-1-480.jpg",
+      "url": "https://opennana.com/awesome-prompt-gallery/ultra-realistic-3d-character-disassembly-fashion-poster",
+      "reviewed_at": "2026-05-04T14:36:01.933Z",
+      "created_at": "2026-05-04T14:34:13.511Z",
+      "updated_at": "2026-05-04T14:40:54.836Z"
+    },
+    {
+      "id": 13968,
+      "slug": "han-tang-court-dance-16-grid-storyboard",
+      "title": "汉唐宫廷舞16宫格分镜图",
+      "description": "",
+      "model": "ChatGPT",
+      "media_type": "image",
+      "source_name": "@MrLarus",
+      "source_url": "https://x.com/MrLarus/status/2051001567906599037",
+      "tags": [],
+      "prompts": [
+        {
+          "text": "请创作一张高完成度、高清晰度的「汉唐宫廷舞 / 霓裳羽衣舞 · 16宫格分镜图」。\n\n【整体定位】\n这不是普通古风写真，也不是单纯舞蹈教学图，而是一张融合「汉唐宫廷舞」「霓裳羽衣舞」「真实宫苑空间」「电影分镜感」「16步动作编排」的高完成度分镜海报。\n整体要像一段盛唐宫廷舞的完整编舞被拆解成16个关键画面，每一格既清晰独立，又有连续流动感，方便后续用于视频生成。\n\n【场景设定】\n不要舞台，不要空黑背景，不要现代摄影棚。\n场景必须是一个真实、立体、优美、符合汉唐时代气质的盛唐宫苑空间：\n- 傍晚金蓝时刻，宫灯初上\n- 朱红宫柱\n- 金色宫灯\n- 宫廷回廊 / 大殿外庭院\n- 石阶、栏杆、轻纱帷幔\n- 远处可见层叠殿宇与宫苑深景\n- 空间有明确前景、中景、后景，具有真实纵深感\n- 整体氛围华美、通透、盛世感强，不要乌漆麻黑，不要浑浊，不要色斑\n\n【人物设定】\n主角是一位年轻中国女舞者，带有盛唐宫廷舞者气质，端庄、华美、优雅、克制。\n她在16格中必须保持同一张脸、同一人物身份、同一气质、同一套服装体系，不要每格都像换了一个人。\n\n【服装与妆造】\n服装为汉唐宫廷舞服 / 霓裳羽衣风格：\n- 高腰长裙\n- 大袖\n- 轻纱披帛\n- 精致发髻\n- 金色发饰、步摇\n- 少量花钿或唐风妆感\n- 裙摆、披帛、大袖都要有真实动态\n推荐配色：\n- 胭脂粉\n- 象牙白\n- 香槟金\n- 淡石青\n整体华丽但不俗艳。\n\n【版式要求】\n- 画面采用 4×4 的16宫格分镜排版\n- 每格都有明显编号 1-16\n- 每格都有中文动作标题\n- 每格可有简洁中文说明或短句提示\n- 每格都要像一个独立镜头画面\n- 适当加入动作方向箭头或轨迹线，增强分镜感\n- 整体清晰、工整、信息完整，但不要过度拥挤\n- 分辨率要非常高清，线条清楚，人物和背景都清晰，不要糊，不要脏，不要有色斑\n\n【动作分镜顺序】\n1. 宫苑亮相  \n舞者站在宫苑中央，微侧身，长裙曳地，一手轻提大袖，一手自然垂落，建立盛唐气场。\n2. 起袖迎风  \n双臂缓缓抬起，大袖与披帛轻轻被带起，像乐声初起。\n3. 拈花侧行  \n舞者缓步前行，一手做拈花或兰花指，一手大袖舒展在身后，动作优雅。\n4. 开袖成云  \n双袖向两侧大幅展开，形成对称而华丽的大开构图，像云气铺开。\n5. 回眸转廊  \n舞者经过宫柱或回廊边缘，身体转向侧背，再缓缓回眸。\n6. 环步绕帛  \n脚下走环步，披帛绕身形成流动轨迹，双臂一前一后，动作圆润。\n7. 旋裙开宴  \n原地或小范围旋转，长裙与披帛打开，形成华丽旋舞。\n8. 折腰扬袖  \n身体轻折，一袖高扬，一袖下垂，形成斜向张力构图。\n9. 低身献礼  \n半蹲或单膝低位，双手托袖向前，动作像宫廷献礼，具有礼乐仪式感。\n10. 仰身拂云  \n从低位起身，上半身轻微后仰，双袖向上扬起，披帛向后飞，动作华美但真人可完成。\n11. 飞步掠庭  \n向侧前方做一个轻盈掠步，大袖和披帛向后带出，形成位移动线。\n12. 盛唐大旋  \n最华丽的一次大旋转，长裙、披帛、大袖同时打开，是整套最强高潮之一。\n13. 回身收袖  \n从大旋中自然回身，双袖由外向内慢慢收回，动作从大开转向收束。\n14. 托月举袖  \n一手高举如托月，一手横于胸前，身体向上拉长，披帛在身侧形成弧线，仪式感强。\n15. 合袖礼成  \n双袖缓缓合拢至胸前，形成“礼成”动作，神情宁静庄重。\n16. 霓裳定格  \n最终大定格，一袖高扬，一袖低垂，身体优雅扭转，长裙铺开，端庄华美地完成收尾。\n\n【重点要求】\n- 必须突出真实空间感与时代感\n- 必须保持同一舞者一致性\n- 必须有完整的大袖、披帛、长裙动态\n- 必须适合后续作为视频分镜参考\n- 每一格动作都要明显不同，不能过于重复\n- 画面整体要华丽、优美、清晰、通透\n- 不要黑压压，不要脏，不要模糊，不要色斑，不要廉价古风感",
+          "type": "zh",
+          "label": "中文提示词"
+        }
+      ],
+      "images": [
+        "https://img.opennana.com/prompts/assets/202605/1777905033497-pxzgu5nq-1777905039152-1.jpeg"
+      ],
+      "video_urls": [],
+      "thumbnail": "pthumbs/prompts/assets/202605/1777905033497-pxzgu5nq-1777905039152-1-480.jpg",
+      "url": "https://opennana.com/awesome-prompt-gallery/han-tang-court-dance-16-grid-storyboard",
+      "reviewed_at": "2026-05-04T14:35:48.965Z",
+      "created_at": "2026-05-04T14:32:20.281Z",
+      "updated_at": "2026-05-04T14:40:56.409Z"
+    },
+    {
+      "id": 13967,
+      "slug": "live-action-cosplay-swimsuit-fashion-mag",
+      "title": "真人cosplay泳衣时尚杂志",
+      "description": "",
+      "model": "ChatGPT",
+      "media_type": "image",
+      "source_name": "@underwoodxie96",
+      "source_url": "https://x.com/underwoodxie96/status/2051150649581269487",
+      "tags": [],
+      "prompts": [
+        {
+          "text": "Please create an approximately 4-page swimsuit fashion magazine featuring a live-action cosplay of 【Name】 as the main character.  Outfits & Styling: Have her wear a variety of swimsuits in different colors, patterns, and shapes, and give her different hairstyles as well.  Expressions & Poses: Use a wide range of expressions, such as shy, seductively biting her lip, confident, and a longing expression with her tongue out. The poses should also be intentionally varied to avoid repetition.  Layout Elements: Please include magazine-style catchphrases (catchcopy) and titles. A personal profile section is not needed.  Visual Style:  Effects Control: Do not overuse glitter, grain, or scattered light effects. Only use them sparingly in areas where they are truly needed.  Image Stability: Be careful not to let the image fall apart due to overly detailed rendering (such as distorted limbs or structural issues). Maintain a high level of detail while ensuring the overall image remains harmonious and well-balanced.",
+          "type": "en",
+          "label": "英文提示词"
+        }
+      ],
+      "images": [
+        "https://img.opennana.com/prompts/assets/202605/1777904948882-ubroeefo-1777904952280-1.jpeg"
+      ],
+      "video_urls": [],
+      "thumbnail": "pthumbs/prompts/assets/202605/1777904948882-ubroeefo-1777904952280-1-480.jpg",
+      "url": "https://opennana.com/awesome-prompt-gallery/live-action-cosplay-swimsuit-fashion-mag",
+      "reviewed_at": "2026-05-04T14:36:00.129Z",
+      "created_at": "2026-05-04T14:30:05.361Z",
+      "updated_at": "2026-05-04T14:36:00.129Z"
+    },
+    {
+      "id": 13966,
+      "slug": "elon-musk-poster-design",
+      "title": "极简工业风马斯克海报设计",
+      "description": "",
+      "model": "ChatGPT",
+      "media_type": "image",
+      "source_name": "@ponyodong",
+      "source_url": "https://x.com/ponyodong/status/2051156389029101948",
+      "tags": [],
+      "prompts": [
+        {
+          "text": "9:16 vertical premium concept poster of Elon Musk, not a normal celebrity portrait, but a visual translation of his spirit: relentless forward momentum, engineering will, risk, isolation, breaking gravity and reality’s resistance, forcing the future into existence.\nMinimal industrial graphic poster style, warm off-white paper background, deep graphite black and charcoal gray structures, tiny hot-orange accent only. Museum-quality print design, subtle paper grain, strong negative space, restrained, modern, powerful.\nGiant title text: “MUSK”. The letters are huge, bold, monolithic, like industrial walls, launch towers, or a gate to the future. The text must be part of the physical space, not pasted on top.\n\nOne realistic but refined Elon Musk figure, walking forward toward the right / upper right, body slightly leaning into resistance, calm and determined, solitary, not posing, not speaking, not waving.\nBottom of the image: a clean horizontal carrier surface, like a launch platform, industrial runway, metallic horizon, or future ground plane, anchoring the figure and giving direction.\n\nThe figure, letters, and ground plane must interlock: Musk walking in front of or between the letters, with occlusion, pressure, scale contrast, and a sense of breakthrough. Add one precise upward orange rocket trajectory / slash of light cutting through the composition.\nOptional tiny text: “FORWARD IS THE ONLY DIRECTION”.\n\nAvoid: ordinary portrait, keynote poster, logos, piles of rockets/cars/satellites, clutter, neon cyberpunk, over-glow, motivational template, text merely pasted on background.",
+          "type": "en",
+          "label": "英文提示词"
+        }
+      ],
+      "images": [
+        "https://img.opennana.com/prompts/assets/202605/1777904835836-sj8o2syc-1777904838344-1.jpeg"
+      ],
+      "video_urls": [],
+      "thumbnail": "pthumbs/prompts/assets/202605/1777904835836-sj8o2syc-1777904838344-1-480.jpg",
+      "url": "https://opennana.com/awesome-prompt-gallery/elon-musk-poster-design",
+      "reviewed_at": "2026-05-04T14:35:11.860Z",
+      "created_at": "2026-05-04T14:27:34.482Z",
+      "updated_at": "2026-05-04T14:35:11.860Z"
+    },
     {
       "id": 13965,
       "slug": "coffee-poster-creative-design",
@@ -303,6 +411,44 @@
       "reviewed_at": "2026-05-02T15:33:38.141Z",
       "created_at": "2026-05-01T16:39:16.593Z",
       "updated_at": "2026-05-02T15:33:38.141Z"
+    },
+    {
+      "id": 13956,
+      "slug": "future-minimal-sportswear",
+      "title": "未来感极简运动装大片",
+      "description": "",
+      "model": "ChatGPT",
+      "media_type": "image",
+      "source_name": "@iamsofiaijaz",
+      "source_url": "https://x.com/iamsofiaijaz/status/2050144215137726964",
+      "tags": [
+        "未来感",
+        "运动装",
+        "极简风",
+        "大片感",
+        "街头潮"
+      ],
+      "prompts": [
+        {
+          "text": "High-fashion futuristic sportswear editorial poster, full-body female model in dynamic wide-leg stance, oversized white minimalist sweatshirt with voluminous sleeves, glossy translucent parachute pants, chunky white-orange athletic sneakers, sleek messy updo hairstyle, gold statement earrings, soft natural makeup, confident editorial expression, studio fashion photography, centered composition, smooth neutral beige gradient background with large abstract glossy red-pink organic 3D inflatable blob shapes behind model, bold oversized white typography “just” partially behind subject, premium athletic brand campaign aesthetic, ultra-clean lighting, soft diffused studio shadows, luxury streetwear advertisement, contemporary magazine cover design, minimalist layout, subtle futuristic graphic microtext, highly polished commercial fashion retouching, sharp focus, cinematic soft contrast, photorealistic, high detail, 8k",
+          "type": "en",
+          "label": "英文提示词"
+        },
+        {
+          "text": "高级时尚未来感运动装社论海报，动态宽腿站姿的全身女性模特，带有庞大袖子的超大白色极简连帽衫，光滑半透明的降落伞裤，厚重的白橙相间运动鞋，时尚凌乱的盘发发型，金色抢眼耳环，柔和自然的妆容，自信的社论表情，影棚时尚摄影，居中构图，模特身后带有大型抽象光滑红粉色有机3D充气软体形状的平滑中性米色渐变背景，粗体超大白色字体“just”部分位于拍摄对象身后，高级运动品牌广告活动美学，超洁净的照明，柔和漫反射的影棚阴影，奢华街头服饰广告，当代杂志封面设计，极简主义排版，微妙的未来感图形微文本，高度精修的商业时尚后期修图，锐利对焦，电影级柔和对比度，照片写实，高细节，8k",
+          "type": "zh",
+          "label": "中文提示词"
+        }
+      ],
+      "images": [
+        "https://img.opennana.com/prompts/assets/202605/1777653392240-xi1de37c-1777653393433-1.jpeg"
+      ],
+      "video_urls": [],
+      "thumbnail": "pthumbs/prompts/assets/202605/1777653392240-xi1de37c-1777653393433-1-480.jpg",
+      "url": "https://opennana.com/awesome-prompt-gallery/future-minimal-sportswear",
+      "reviewed_at": "2026-05-04T14:35:58.187Z",
+      "created_at": "2026-05-01T16:39:12.123Z",
+      "updated_at": "2026-05-04T14:35:58.187Z"
     },
     {
       "id": 13955,
@@ -723,6 +869,82 @@
       "updated_at": "2026-05-03T16:37:38.416Z"
     },
     {
+      "id": 13944,
+      "slug": "thrilling-skydive-storyboard",
+      "title": "惊险跳伞电影分镜稿",
+      "description": "",
+      "model": "ChatGPT",
+      "media_type": "image",
+      "source_name": "@saniaspeaks_",
+      "source_url": "https://x.com/saniaspeaks_/status/2050105275215180170",
+      "tags": [
+        "分镜",
+        "跳伞",
+        "直升机",
+        "素描",
+        "战术风"
+      ],
+      "prompts": [
+        {
+          "text": "Create a professional cinematic storyboard sheet with 6 panels \nfor the following scene:\n\nSCENE TITLE: \"The Jump\"\n\nPANEL 1 — ESTABLISHING SHOT\nWide exterior shot of a military helicopter flying over \nrugged mountain terrain. Golden hour lighting. Clouds below.\n\nPANEL 2 — INTERIOR MEDIUM SHOT\nInside helicopter. Young woman in tactical jumpsuit and \nparachute harness sits near the open door. Wind blowing \nher hair. Determined expression. Looking down.\n\nPANEL 3 — CLOSE-UP\nExtreme close-up of her eyes. Focused. Fearless. \nReflection of sky visible in her goggles.\n\nPANEL 4 — ACTION SHOT (SLOW MOTION)\nShe leaps from the helicopter. Body mid-air, arms spread, \nhelicopter visible above. Wide dramatic angle from below.\n\nPANEL 5 — PARACHUTE DEPLOYS\nParachute snaps open with force. Silk canopy fills the frame \nagainst a bright blue and orange sky. Dynamic upward angle.\n\nPANEL 6 — DESCENT WIDE SHOT\nShe floats gracefully downward. Mountains, clouds, and \nvast landscape visible below. Peaceful yet powerful. \nEpic wide angle shot.\n\nStyle: Professional film storyboard, pencil sketch with \nlight gray shading, aspect ratio 16:9 per panel, \ncamera direction notes below each panel.",
+          "type": "en",
+          "label": "英文提示词"
+        },
+        {
+          "text": "创建一张包含6个画格的专业电影分镜表，\n用于以下场景：\n\n场景标题：\"纵身一跃\"\n\n画格1 — 建立镜头\n军用直升机在崎岖的山地地形上空飞行的宽泛外景镜头。黄金时刻光照。云层在下方。\n\n画格2 — 室内中景镜头\n直升机内部。穿着战术跳伞服和降落伞背带的年轻女子坐在敞开的门边。风吹动她的头发。坚定的表情。向下看。\n\n画格3 — 特写镜头\n她眼睛的极度特写。专注。无畏。护目镜上可见天空的倒影。\n\n画格4 — 动作镜头（慢动作）\n她从直升机上跃下。身体在半空中，双臂张开，上方可见直升机。从下方拍摄的宽泛戏剧性角度。\n\n画格5 — 降落伞展开\n降落伞猛然用力张开。丝绸伞盖充满画面，背景是明亮的蓝色和橙色天空。动态仰拍角度。\n\n画格6 — 下降全景镜头\n她优雅地向下漂浮。下方可见山脉、云层和广阔的风景。宁静而有力。史诗般的全景镜头。\n\n风格：专业电影分镜，铅笔素描加上浅灰色阴影，每个画格宽高比16:9，每个画格下方有摄影机方向注释。",
+          "type": "zh",
+          "label": "中文提示词"
+        }
+      ],
+      "images": [
+        "https://img.opennana.com/prompts/assets/202605/1777652449073-5mjew0n5-1777652451523-1.jpeg"
+      ],
+      "video_urls": [],
+      "thumbnail": "pthumbs/prompts/assets/202605/1777652449073-5mjew0n5-1777652451523-1-480.jpg",
+      "url": "https://opennana.com/awesome-prompt-gallery/thrilling-skydive-storyboard",
+      "reviewed_at": "2026-05-04T14:35:08.972Z",
+      "created_at": "2026-05-01T16:22:05.024Z",
+      "updated_at": "2026-05-04T14:35:08.972Z"
+    },
+    {
+      "id": 13943,
+      "slug": "hyper-realistic-casual-short-hair-girl",
+      "title": "超写实随性短发少女特写",
+      "description": "",
+      "model": "ChatGPT",
+      "media_type": "image",
+      "source_name": "@Kashberg_0",
+      "source_url": "https://x.com/Kashberg_0/status/2050040716475408875",
+      "tags": [
+        "超写实",
+        "波波头",
+        "伪素颜",
+        "玻璃肌",
+        "自拍风"
+      ],
+      "prompts": [
+        {
+          "text": "A hyper-realistic close-up portrait of a young woman (use my face) with warm, soft indoor lighting. The composition is a half-body shot (chest to head), with a slightly low and tilted camera angle, creating a casual, selfie-like feel.\nThe main focus is on the face and hair.\nThe face features bright, glass-like skin with realistic texture (no over-smoothing). Brown eyes with a calm, slightly melancholic expression, looking directly at the camera. Lips are natural pink with a berry tint in the inner area, slightly parted with a soft, moist finish. Makeup is a natural “no-makeup” look.\nHair MUST be highly accurate: Short hair above the shoulders (short bob), with an uneven, choppy cut and soft layers. Natural dark brown color with subtle warm undertones. The texture looks soft and slightly messy, not overly neat.\nThe front has long bangs, parted asymmetrically, with some strands falling over parts of the eyes and cheeks. Fine strands are scattered around the face, creating an effortless and natural effect. The ends of the hair curve slightly inward and outward irregularly, giving light volume and an airy feel. The hair is not too voluminous but has natural movement, as if gently blown by a breeze.",
+          "type": "en",
+          "label": "英文提示词"
+        },
+        {
+          "text": "一个年轻女子的超写实特写肖像（使用我的脸），带有温暖柔和的室内光线。构图是半身照（胸部到头部），带有轻微的低角度和倾斜的相机角度，营造出一种随意的、像自拍一样的感觉。\n主要焦点在脸部和头发上。\n脸部具有明亮、玻璃般的肌肤，具有真实的纹理（没有过度平滑）。棕色的眼睛，带着平静、略带忧郁的表情，直视镜头。嘴唇是自然的粉色，内侧区域带有浆果色调，微微张开，带有柔软、湿润的质感。妆容是自然的“伪素颜”妆。\n头发必须高度准确：肩膀以上的短发（短波波头），具有不平整的、层次分明的剪裁和柔和的层次。自然的深棕色，带有微妙的暖色调。质感看起来柔软且略显凌乱，不过分整洁。\n前面有长长的刘海，不对称分开，有些发丝落在眼睛和脸颊的部分区域。细碎的发丝散落在脸部周围，营造出一种毫不费力且自然的效果。发尾不规则地向内和向外微微弯曲，带来轻盈的蓬松感和空气感。头发不是过于蓬松，而是具有自然的动感，仿佛被微风吹拂。",
+          "type": "zh",
+          "label": "中文提示词"
+        }
+      ],
+      "images": [
+        "https://img.opennana.com/prompts/assets/202605/1777652059856-aqjaluet-1777652061295-1.jpeg"
+      ],
+      "video_urls": [],
+      "thumbnail": "pthumbs/prompts/assets/202605/1777652059856-aqjaluet-1777652061295-1-480.jpg",
+      "url": "https://opennana.com/awesome-prompt-gallery/hyper-realistic-casual-short-hair-girl",
+      "reviewed_at": "2026-05-04T14:35:43.868Z",
+      "created_at": "2026-05-01T16:16:55.732Z",
+      "updated_at": "2026-05-04T14:35:43.868Z"
+    },
+    {
       "id": 13942,
       "slug": "rolex-luxury-architecture-poster",
       "title": "劳力士奢华建筑概念海报",
@@ -873,6 +1095,44 @@
       "reviewed_at": "2026-05-01T16:17:48.573Z",
       "created_at": "2026-05-01T16:12:23.737Z",
       "updated_at": "2026-05-01T16:20:58.913Z"
+    },
+    {
+      "id": 13938,
+      "slug": "premium-jewelry-layering-guide",
+      "title": "高级珠宝叠戴视觉指南",
+      "description": "",
+      "model": "ChatGPT",
+      "media_type": "image",
+      "source_name": "@Dheepanratnam",
+      "source_url": "https://x.com/Dheepanratnam/status/2050139651617227038",
+      "tags": [
+        "珠宝",
+        "叠戴",
+        "分镜",
+        "高级感",
+        "杂志风"
+      ],
+      "prompts": [
+        {
+          "text": "FORMAT: 4:5 vertical storyboard collage, 1080×1350, 8-frame or 16-frame grid, high-resolution\n\nCONCEPT: Jewelry Layering Storyboard\n\nLAYOUT: Clean margins, symmetrical composition, strong visual hierarchy, minimal clutter, polished editorial finish.\n\nFRAMES / VISUAL BEATS: 1. base item 2. layering 3. fit adjustment 4. mirror check 5. detail close-up 6. accessory add 7. movement test 8. final look\n\nVISUAL STYLE: Premium, Pinterest-saveable, soft natural or studio light, subtle shadows, cohesive color palette, high detail, realistic textures.\n\nTYPOGRAPHY: Minimal serif or modern sans-serif. Use short labels only when helpful. Keep text clean and legible.\n\nOUTPUT: A polished source image designed to be animated into a short image-to-video clip.",
+          "type": "en",
+          "label": "英文提示词"
+        },
+        {
+          "text": "格式：4:5竖版分镜拼贴，1080×1350，8格或16格网格，高分辨率\n\n概念：珠宝叠戴分镜\n\n布局：干净的边距，对称构图，强烈的视觉层级，极少的杂乱，精致的杂志感效果。\n\n帧 / 视觉节拍：1. 基础单品 2. 叠加 3. 佩戴调整 4. 镜前检查 5. 细节特写 6. 添加配饰 7. 动态测试 8. 最终造型\n\n视觉风格：高级，值得收藏于Pinterest，柔和自然光或影棚光，微妙的阴影，统一的调色板，高细节，逼真的纹理。\n\n排版：极简衬线体或现代无衬线体。仅在有帮助时使用简短标签。保持文字干净清晰。\n\n输出：一张精致的源图像，旨在被制作成短视频图生视频片段。",
+          "type": "zh",
+          "label": "中文提示词"
+        }
+      ],
+      "images": [
+        "https://img.opennana.com/prompts/assets/202605/1777651874779-8082e4ox-1777651875470-1.jpeg"
+      ],
+      "video_urls": [],
+      "thumbnail": "pthumbs/prompts/assets/202605/1777651874779-8082e4ox-1777651875470-1-480.jpg",
+      "url": "https://opennana.com/awesome-prompt-gallery/premium-jewelry-layering-guide",
+      "reviewed_at": "2026-05-04T14:35:38.857Z",
+      "created_at": "2026-05-01T16:11:24.030Z",
+      "updated_at": "2026-05-04T14:35:38.857Z"
     },
     {
       "id": 13937,
@@ -2756,7 +3016,7 @@
       "url": "https://opennana.com/awesome-prompt-gallery/premium-beard-analysis-poster",
       "reviewed_at": "2026-04-27T17:20:58.742Z",
       "created_at": "2026-04-27T13:36:39.354Z",
-      "updated_at": "2026-04-27T17:20:58.742Z"
+      "updated_at": "2026-05-04T06:30:17.351Z"
     },
     {
       "id": 13886,
@@ -2870,7 +3130,7 @@
       "url": "https://opennana.com/awesome-prompt-gallery/luxury-magazine-editorial",
       "reviewed_at": "2026-04-27T17:21:03.959Z",
       "created_at": "2026-04-27T13:30:45.956Z",
-      "updated_at": "2026-04-27T17:21:03.959Z"
+      "updated_at": "2026-05-04T08:56:48.199Z"
     },
     {
       "id": 13883,
@@ -2909,7 +3169,7 @@
       "url": "https://opennana.com/awesome-prompt-gallery/hand-drawn-sticker-art",
       "reviewed_at": "2026-04-27T17:21:05.323Z",
       "created_at": "2026-04-27T13:30:31.211Z",
-      "updated_at": "2026-04-27T17:21:05.323Z"
+      "updated_at": "2026-05-04T13:45:31.963Z"
     },
     {
       "id": 13882,
@@ -2947,7 +3207,7 @@
       "url": "https://opennana.com/awesome-prompt-gallery/lost-in-japan-poster",
       "reviewed_at": "2026-04-27T17:21:07.589Z",
       "created_at": "2026-04-27T13:29:26.519Z",
-      "updated_at": "2026-04-27T17:21:07.589Z"
+      "updated_at": "2026-05-04T05:15:44.637Z"
     },
     {
       "id": 13881,
@@ -3002,7 +3262,7 @@
       "url": "https://opennana.com/awesome-prompt-gallery/create-modern-geometric-typography-concept-poster",
       "reviewed_at": "2026-04-27T17:23:44.258Z",
       "created_at": "2026-04-27T13:13:30.914Z",
-      "updated_at": "2026-04-27T17:23:44.258Z"
+      "updated_at": "2026-05-04T15:12:38.745Z"
     },
     {
       "id": 13879,
@@ -3067,7 +3327,7 @@
       "url": "https://opennana.com/awesome-prompt-gallery/got-dark-fantasy-grid",
       "reviewed_at": "2026-04-27T17:23:49.836Z",
       "created_at": "2026-04-27T13:05:45.986Z",
-      "updated_at": "2026-04-27T17:23:49.836Z"
+      "updated_at": "2026-05-03T16:44:34.994Z"
     },
     {
       "id": 13877,
@@ -3208,7 +3468,7 @@
       "url": "https://opennana.com/awesome-prompt-gallery/3d-french-student-character-sheet",
       "reviewed_at": "2026-04-27T17:24:00.027Z",
       "created_at": "2026-04-27T12:33:07.549Z",
-      "updated_at": "2026-04-27T17:24:00.027Z"
+      "updated_at": "2026-05-04T04:12:07.714Z"
     },
     {
       "id": 13873,
@@ -3387,7 +3647,7 @@
       "url": "https://opennana.com/awesome-prompt-gallery/trendy-puffer-poster",
       "reviewed_at": "2026-04-27T12:02:58.781Z",
       "created_at": "2026-04-27T11:55:30.278Z",
-      "updated_at": "2026-04-27T12:02:58.781Z"
+      "updated_at": "2026-05-03T14:43:38.899Z"
     },
     {
       "id": 13868,
@@ -3463,7 +3723,7 @@
       "url": "https://opennana.com/awesome-prompt-gallery/minimalist-educational-infographic",
       "reviewed_at": "2026-04-27T12:03:00.391Z",
       "created_at": "2026-04-27T11:47:35.238Z",
-      "updated_at": "2026-04-27T12:03:47.394Z"
+      "updated_at": "2026-05-04T04:52:23.723Z"
     },
     {
       "id": 13866,
@@ -3501,7 +3761,7 @@
       "url": "https://opennana.com/awesome-prompt-gallery/pixar-style-3d-portrait",
       "reviewed_at": "2026-04-27T12:03:02.443Z",
       "created_at": "2026-04-27T11:46:52.079Z",
-      "updated_at": "2026-04-27T12:03:02.443Z"
+      "updated_at": "2026-05-04T09:12:59.729Z"
     },
     {
       "id": 13865,
@@ -3539,7 +3799,7 @@
       "url": "https://opennana.com/awesome-prompt-gallery/visually-rich-character-infographic",
       "reviewed_at": "2026-04-27T12:03:59.521Z",
       "created_at": "2026-04-27T11:46:50.015Z",
-      "updated_at": "2026-04-27T12:03:59.521Z"
+      "updated_at": "2026-05-04T02:08:20.621Z"
     },
     {
       "id": 13864,
@@ -3577,7 +3837,7 @@
       "url": "https://opennana.com/awesome-prompt-gallery/avant-garde-luxury-beauty",
       "reviewed_at": "2026-04-27T12:04:00.564Z",
       "created_at": "2026-04-27T11:45:05.566Z",
-      "updated_at": "2026-04-27T12:04:00.564Z"
+      "updated_at": "2026-05-03T23:36:19.580Z"
     },
     {
       "id": 13863,
@@ -3653,7 +3913,7 @@
       "url": "https://opennana.com/awesome-prompt-gallery/gentle-silk-stumpwork-birds",
       "reviewed_at": "2026-04-27T12:03:07.469Z",
       "created_at": "2026-04-27T11:42:20.308Z",
-      "updated_at": "2026-04-27T12:03:07.469Z"
+      "updated_at": "2026-05-04T11:37:31.268Z"
     },
     {
       "id": 13861,
@@ -3691,7 +3951,7 @@
       "url": "https://opennana.com/awesome-prompt-gallery/ultimate-sporty-aesthetic",
       "reviewed_at": "2026-04-27T12:03:09.363Z",
       "created_at": "2026-04-27T11:40:56.076Z",
-      "updated_at": "2026-04-27T12:03:09.363Z"
+      "updated_at": "2026-05-03T07:12:38.427Z"
     },
     {
       "id": 13860,
@@ -3767,7 +4027,7 @@
       "url": "https://opennana.com/awesome-prompt-gallery/soft-80s-chinese-girl-storyboard",
       "reviewed_at": "2026-04-27T12:03:12.575Z",
       "created_at": "2026-04-27T11:38:57.949Z",
-      "updated_at": "2026-04-27T12:03:12.575Z"
+      "updated_at": "2026-05-04T08:07:20.486Z"
     },
     {
       "id": 13858,
@@ -3794,7 +4054,7 @@
       "url": "https://opennana.com/awesome-prompt-gallery/professional-hair-style",
       "reviewed_at": "2026-04-27T12:03:14.987Z",
       "created_at": "2026-04-26T15:42:00.567Z",
-      "updated_at": "2026-04-27T12:03:14.987Z"
+      "updated_at": "2026-05-04T08:19:14.943Z"
     },
     {
       "id": 13857,
@@ -3832,7 +4092,7 @@
       "url": "https://opennana.com/awesome-prompt-gallery/historical-ministers-calendar",
       "reviewed_at": "2026-04-27T01:42:04.198Z",
       "created_at": "2026-04-26T15:14:04.398Z",
-      "updated_at": "2026-04-27T01:42:04.198Z"
+      "updated_at": "2026-05-03T07:53:55.220Z"
     },
     {
       "id": 13856,
@@ -3908,7 +4168,7 @@
       "url": "https://opennana.com/awesome-prompt-gallery/pan-jinlian-didi-wu-song",
       "reviewed_at": "2026-04-27T01:40:16.614Z",
       "created_at": "2026-04-26T15:09:11.681Z",
-      "updated_at": "2026-04-27T01:40:16.614Z"
+      "updated_at": "2026-04-30T14:05:36.285Z"
     },
     {
       "id": 13854,
@@ -4098,7 +4358,7 @@
       "url": "https://opennana.com/awesome-prompt-gallery/thousand-li-rivers-silk-scarf",
       "reviewed_at": "2026-04-27T01:42:58.455Z",
       "created_at": "2026-04-26T15:04:54.195Z",
-      "updated_at": "2026-04-27T01:42:58.455Z"
+      "updated_at": "2026-05-03T16:32:54.796Z"
     },
     {
       "id": 13849,
@@ -4136,7 +4396,7 @@
       "url": "https://opennana.com/awesome-prompt-gallery/imperial-yang-guifei-peony",
       "reviewed_at": "2026-04-27T12:03:42.444Z",
       "created_at": "2026-04-26T15:04:38.173Z",
-      "updated_at": "2026-04-27T12:09:57.463Z"
+      "updated_at": "2026-05-04T05:31:25.738Z"
     },
     {
       "id": 13848,
@@ -4174,7 +4434,7 @@
       "url": "https://opennana.com/awesome-prompt-gallery/cixi-imperial-jadeite-necklace",
       "reviewed_at": "2026-04-27T12:03:41.050Z",
       "created_at": "2026-04-26T15:03:16.282Z",
-      "updated_at": "2026-04-27T12:03:41.050Z"
+      "updated_at": "2026-05-04T10:38:31.213Z"
     },
     {
       "id": 13847,
@@ -4212,7 +4472,7 @@
       "url": "https://opennana.com/awesome-prompt-gallery/ancient-dagger-reveal-ticket-stub",
       "reviewed_at": "2026-04-27T12:03:45.396Z",
       "created_at": "2026-04-26T15:03:07.121Z",
-      "updated_at": "2026-04-27T12:03:45.396Z"
+      "updated_at": "2026-05-03T09:15:24.740Z"
     },
     {
       "id": 13846,
@@ -4250,7 +4510,7 @@
       "url": "https://opennana.com/awesome-prompt-gallery/tang-dynasty-makeup-steps",
       "reviewed_at": "2026-04-27T01:40:25.095Z",
       "created_at": "2026-04-26T15:02:37.544Z",
-      "updated_at": "2026-04-27T01:40:25.095Z"
+      "updated_at": "2026-05-01T13:00:32.698Z"
     },
     {
       "id": 13845,
@@ -4288,7 +4548,7 @@
       "url": "https://opennana.com/awesome-prompt-gallery/momo-swipe-right-match-pan-jinlian-ximen-qing",
       "reviewed_at": "2026-04-27T01:43:06.449Z",
       "created_at": "2026-04-26T15:02:05.231Z",
-      "updated_at": "2026-04-27T01:43:06.449Z"
+      "updated_at": "2026-05-03T13:00:37.664Z"
     },
     {
       "id": 13843,
@@ -4402,7 +4662,7 @@
       "url": "https://opennana.com/awesome-prompt-gallery/dark-moody-phone-ad",
       "reviewed_at": "2026-04-27T12:03:51.268Z",
       "created_at": "2026-04-26T14:54:38.421Z",
-      "updated_at": "2026-04-27T12:03:51.268Z"
+      "updated_at": "2026-05-03T07:10:51.067Z"
     },
     {
       "id": 13840,
@@ -4440,7 +4700,7 @@
       "url": "https://opennana.com/awesome-prompt-gallery/five-elements-casual-workwear",
       "reviewed_at": "2026-04-27T17:21:26.985Z",
       "created_at": "2026-04-26T14:54:25.273Z",
-      "updated_at": "2026-04-27T17:21:26.985Z"
+      "updated_at": "2026-05-04T14:24:50.962Z"
     },
     {
       "id": 13838,
@@ -4516,7 +4776,7 @@
       "url": "https://opennana.com/awesome-prompt-gallery/poetic-layered-poetry-poster",
       "reviewed_at": "2026-04-27T01:40:33.216Z",
       "created_at": "2026-04-26T14:51:10.398Z",
-      "updated_at": "2026-04-27T01:40:33.216Z"
+      "updated_at": "2026-05-03T16:27:28.688Z"
     },
     {
       "id": 13836,
@@ -4593,7 +4853,7 @@
       "url": "https://opennana.com/awesome-prompt-gallery/realistic-sailor-moon-princess-serenity",
       "reviewed_at": "2026-04-27T17:21:38.732Z",
       "created_at": "2026-04-26T06:51:12.393Z",
-      "updated_at": "2026-04-27T17:21:38.732Z"
+      "updated_at": "2026-05-04T17:21:05.177Z"
     },
     {
       "id": 13833,
@@ -4821,7 +5081,7 @@
       "url": "https://opennana.com/awesome-prompt-gallery/rainy-night-bus-stop-girl",
       "reviewed_at": "2026-04-27T17:21:45.206Z",
       "created_at": "2026-04-26T06:04:04.528Z",
-      "updated_at": "2026-04-27T17:21:45.206Z"
+      "updated_at": "2026-05-04T15:01:38.564Z"
     },
     {
       "id": 13826,
@@ -4936,7 +5196,7 @@
       "url": "https://opennana.com/awesome-prompt-gallery/scroll-wrapped-chinese-girl",
       "reviewed_at": "2026-04-27T17:21:47.822Z",
       "created_at": "2026-04-26T05:59:34.415Z",
-      "updated_at": "2026-04-27T17:21:47.822Z"
+      "updated_at": "2026-05-04T09:10:37.129Z"
     },
     {
       "id": 13823,
@@ -5241,7 +5501,7 @@
       "url": "https://opennana.com/awesome-prompt-gallery/surreal-cartoon-fashion",
       "reviewed_at": "2026-04-27T17:21:49.216Z",
       "created_at": "2026-04-26T05:15:19.014Z",
-      "updated_at": "2026-04-27T17:21:49.216Z"
+      "updated_at": "2026-05-04T14:41:59.197Z"
     },
     {
       "id": 13814,
@@ -5279,7 +5539,7 @@
       "url": "https://opennana.com/awesome-prompt-gallery/cold-glamorous-mirror-reflection",
       "reviewed_at": "2026-04-27T17:22:04.370Z",
       "created_at": "2026-04-26T05:13:43.347Z",
-      "updated_at": "2026-04-27T17:22:04.370Z"
+      "updated_at": "2026-05-04T15:37:27.160Z"
     },
     {
       "id": 13813,
@@ -5355,7 +5615,7 @@
       "url": "https://opennana.com/awesome-prompt-gallery/old-photo-dslr-restore",
       "reviewed_at": "2026-04-27T17:21:55.485Z",
       "created_at": "2026-04-26T05:12:36.109Z",
-      "updated_at": "2026-04-27T17:21:55.485Z"
+      "updated_at": "2026-05-04T14:41:00.745Z"
     },
     {
       "id": 13811,
@@ -7222,7 +7482,7 @@
       "url": "https://opennana.com/awesome-prompt-gallery/premium-hair-spray-ad",
       "reviewed_at": "2026-04-27T01:40:43.587Z",
       "created_at": "2026-04-25T08:08:38.455Z",
-      "updated_at": "2026-04-27T01:40:43.587Z"
+      "updated_at": "2026-04-30T09:01:29.787Z"
     },
     {
       "id": 13762,
@@ -7299,7 +7559,7 @@
       "url": "https://opennana.com/awesome-prompt-gallery/oscar-movie-poster",
       "reviewed_at": "2026-04-27T01:40:45.548Z",
       "created_at": "2026-04-25T08:06:45.236Z",
-      "updated_at": "2026-04-27T01:40:45.548Z"
+      "updated_at": "2026-05-03T18:43:53.331Z"
     },
     {
       "id": 13760,
@@ -7643,7 +7903,7 @@
       "url": "https://opennana.com/awesome-prompt-gallery/master-architectural-sketch-scroll",
       "reviewed_at": "2026-04-27T01:40:48.533Z",
       "created_at": "2026-04-25T07:54:29.703Z",
-      "updated_at": "2026-04-27T01:40:48.533Z"
+      "updated_at": "2026-05-03T16:33:21.062Z"
     },
     {
       "id": 13750,
@@ -8327,7 +8587,7 @@
       "url": "https://opennana.com/awesome-prompt-gallery/giant-futuristic-sunglasses-ad",
       "reviewed_at": "2026-04-27T01:40:59.336Z",
       "created_at": "2026-04-24T16:08:08.487Z",
-      "updated_at": "2026-04-27T01:40:59.336Z"
+      "updated_at": "2026-05-03T17:29:26.562Z"
     },
     {
       "id": 13732,
@@ -8596,7 +8856,7 @@
       "url": "https://opennana.com/awesome-prompt-gallery/landscape-archive-sandbox-model",
       "reviewed_at": "2026-04-27T01:41:03.016Z",
       "created_at": "2026-04-24T14:26:44.425Z",
-      "updated_at": "2026-04-27T01:41:03.016Z"
+      "updated_at": "2026-05-03T21:16:01.943Z"
     },
     {
       "id": 13725,
@@ -8670,9 +8930,9 @@
       "video_urls": [],
       "thumbnail": "pthumbs/prompts/assets/202604/1777040402096-iwps9cbd-1777040413352-1-480.jpg",
       "url": "https://opennana.com/awesome-prompt-gallery/2008-non-mainstream-girl-pink-bedroom-selfie",
-      "reviewed_at": "2026-04-27T01:41:04.983Z",
+      "reviewed_at": "2026-04-26T01:41:04.983Z",
       "created_at": "2026-04-24T14:24:39.480Z",
-      "updated_at": "2026-04-27T01:41:04.983Z"
+      "updated_at": "2026-05-02T00:02:57.292Z"
     },
     {
       "id": 13723,
@@ -8822,9 +9082,9 @@
       "video_urls": [],
       "thumbnail": "pthumbs/prompts/assets/202604/1777040312102-6wbz42l4-1777040324272-1-480.jpg",
       "url": "https://opennana.com/awesome-prompt-gallery/plush-felt-system-controls",
-      "reviewed_at": "2026-04-27T01:41:08.616Z",
+      "reviewed_at": "2026-04-25T01:01:08.616Z",
       "created_at": "2026-04-24T14:19:26.451Z",
-      "updated_at": "2026-04-27T01:41:08.616Z"
+      "updated_at": "2026-05-03T15:12:17.865Z"
     },
     {
       "id": 13718,
@@ -9910,7 +10170,7 @@
       "url": "https://opennana.com/awesome-prompt-gallery/green-beret-scene-assets",
       "reviewed_at": "2026-04-24T01:17:29.859Z",
       "created_at": "2026-04-23T17:18:05.233Z",
-      "updated_at": "2026-04-26T14:41:18.028Z"
+      "updated_at": "2026-05-02T07:47:46.028Z"
     },
     {
       "id": 13685,
@@ -12459,7 +12719,7 @@
       "url": "https://opennana.com/awesome-prompt-gallery/jin-ping-mei-open-world-mmo",
       "reviewed_at": "2026-04-23T07:58:58.375Z",
       "created_at": "2026-04-23T03:14:18.167Z",
-      "updated_at": "2026-04-27T15:33:46.790Z"
+      "updated_at": "2026-05-03T23:43:46.335Z"
     },
     {
       "id": 13614,
@@ -13450,7 +13710,7 @@
       "url": "https://opennana.com/awesome-prompt-gallery/classic-movie-meme",
       "reviewed_at": "2026-04-23T07:58:31.908Z",
       "created_at": "2026-04-22T14:11:52.129Z",
-      "updated_at": "2026-04-27T15:34:13.627Z"
+      "updated_at": "2026-05-04T08:10:45.228Z"
     },
     {
       "id": 13588,
@@ -17481,7 +17741,7 @@
       "url": "https://opennana.com/awesome-prompt-gallery/perfect-matching-poster-ad",
       "reviewed_at": "2026-04-20T06:37:05.728Z",
       "created_at": "2026-04-20T04:37:41.848Z",
-      "updated_at": "2026-04-25T13:29:13.345Z"
+      "updated_at": "2026-05-02T19:58:30.803Z"
     },
     {
       "id": 13474,
@@ -17519,7 +17779,7 @@
       "url": "https://opennana.com/awesome-prompt-gallery/glazed-transparent-thrush-guangzhou",
       "reviewed_at": "2026-04-20T06:37:03.303Z",
       "created_at": "2026-04-20T04:05:42.586Z",
-      "updated_at": "2026-04-27T06:07:02.573Z"
+      "updated_at": "2026-05-03T22:48:02.963Z"
     },
     {
       "id": 13473,
@@ -17557,7 +17817,7 @@
       "url": "https://opennana.com/awesome-prompt-gallery/minimalist-guochao-guangzhou-tower",
       "reviewed_at": "2026-04-20T06:37:01.953Z",
       "created_at": "2026-04-20T04:04:09.892Z",
-      "updated_at": "2026-04-27T06:28:52.147Z"
+      "updated_at": "2026-05-03T16:22:25.820Z"
     },
     {
       "id": 13472,
@@ -17595,7 +17855,7 @@
       "url": "https://opennana.com/awesome-prompt-gallery/rising-wind-calligraphy-art",
       "reviewed_at": "2026-04-20T06:36:58.858Z",
       "created_at": "2026-04-20T04:03:27.888Z",
-      "updated_at": "2026-04-26T14:01:42.801Z"
+      "updated_at": "2026-05-03T09:39:28.455Z"
     },
     {
       "id": 13471,
@@ -17633,7 +17893,7 @@
       "url": "https://opennana.com/awesome-prompt-gallery/lantingji-xu-calligraphy-art",
       "reviewed_at": "2026-04-20T06:36:56.920Z",
       "created_at": "2026-04-20T04:01:51.375Z",
-      "updated_at": "2026-04-26T13:30:47.005Z"
+      "updated_at": "2026-05-02T15:34:39.242Z"
     },
     {
       "id": 13470,
@@ -17671,7 +17931,7 @@
       "url": "https://opennana.com/awesome-prompt-gallery/ancient-ming-emperor-group",
       "reviewed_at": "2026-04-20T06:37:26.145Z",
       "created_at": "2026-04-20T04:00:48.432Z",
-      "updated_at": "2026-04-27T06:19:33.196Z"
+      "updated_at": "2026-05-03T08:55:14.090Z"
     },
     {
       "id": 13469,
@@ -17709,7 +17969,7 @@
       "url": "https://opennana.com/awesome-prompt-gallery/mona-lisa-drinking-cola",
       "reviewed_at": "2026-04-20T06:36:54.177Z",
       "created_at": "2026-04-20T03:59:36.407Z",
-      "updated_at": "2026-04-27T02:26:38.549Z"
+      "updated_at": "2026-05-02T19:19:58.624Z"
     },
     {
       "id": 13468,
@@ -17747,7 +18007,7 @@
       "url": "https://opennana.com/awesome-prompt-gallery/zhu-yuanzhang-throne-x-post",
       "reviewed_at": "2026-04-20T06:36:52.163Z",
       "created_at": "2026-04-20T03:58:17.122Z",
-      "updated_at": "2026-04-27T01:35:28.288Z"
+      "updated_at": "2026-05-03T13:54:47.726Z"
     },
     {
       "id": 13467,
@@ -17785,7 +18045,7 @@
       "url": "https://opennana.com/awesome-prompt-gallery/bilibili-hu-chenfeng-livestream",
       "reviewed_at": "2026-04-20T06:37:24.911Z",
       "created_at": "2026-04-20T03:57:24.112Z",
-      "updated_at": "2026-04-27T00:24:24.029Z"
+      "updated_at": "2026-05-04T04:47:09.807Z"
     },
     {
       "id": 13466,
@@ -17861,7 +18121,7 @@
       "url": "https://opennana.com/awesome-prompt-gallery/yuechao-guochao-poster",
       "reviewed_at": "2026-04-20T06:36:45.697Z",
       "created_at": "2026-04-20T03:49:36.723Z",
-      "updated_at": "2026-04-26T05:19:43.644Z"
+      "updated_at": "2026-05-02T23:18:27.236Z"
     },
     {
       "id": 13464,
@@ -17899,7 +18159,7 @@
       "url": "https://opennana.com/awesome-prompt-gallery/summer-citrus-soda-ad",
       "reviewed_at": "2026-04-20T06:36:43.080Z",
       "created_at": "2026-04-20T03:47:52.238Z",
-      "updated_at": "2026-04-26T16:11:59.938Z"
+      "updated_at": "2026-05-03T17:24:47.479Z"
     },
     {
       "id": 13463,
@@ -17937,7 +18197,7 @@
       "url": "https://opennana.com/awesome-prompt-gallery/surreal-nebula-koi",
       "reviewed_at": "2026-04-20T06:36:40.875Z",
       "created_at": "2026-04-20T03:47:13.483Z",
-      "updated_at": "2026-04-27T06:41:07.070Z"
+      "updated_at": "2026-05-02T07:20:59.897Z"
     },
     {
       "id": 13462,
@@ -17975,7 +18235,7 @@
       "url": "https://opennana.com/awesome-prompt-gallery/durex-chayan-collaboration",
       "reviewed_at": "2026-04-20T02:16:20.310Z",
       "created_at": "2026-04-20T02:14:34.926Z",
-      "updated_at": "2026-04-26T13:39:36.855Z"
+      "updated_at": "2026-05-02T16:53:10.851Z"
     },
     {
       "id": 13461,
@@ -18013,7 +18273,7 @@
       "url": "https://opennana.com/awesome-prompt-gallery/elon-musk-seal-design",
       "reviewed_at": "2026-04-20T02:16:13.790Z",
       "created_at": "2026-04-20T02:14:06.318Z",
-      "updated_at": "2026-04-26T18:11:04.811Z"
+      "updated_at": "2026-05-03T13:30:50.400Z"
     },
     {
       "id": 13460,
@@ -18051,7 +18311,7 @@
       "url": "https://opennana.com/awesome-prompt-gallery/black-and-white-line-art-shanghai",
       "reviewed_at": "2026-04-20T02:16:11.883Z",
       "created_at": "2026-04-20T02:14:02.398Z",
-      "updated_at": "2026-04-25T23:30:42.552Z"
+      "updated_at": "2026-05-04T01:46:28.662Z"
     },
     {
       "id": 13459,
@@ -18089,7 +18349,7 @@
       "url": "https://opennana.com/awesome-prompt-gallery/run-to-mountains-and-seas",
       "reviewed_at": "2026-04-20T02:15:35.724Z",
       "created_at": "2026-04-20T02:13:58.981Z",
-      "updated_at": "2026-04-27T00:22:37.801Z"
+      "updated_at": "2026-05-02T23:09:11.715Z"
     },
     {
       "id": 13458,
@@ -18165,7 +18425,7 @@
       "url": "https://opennana.com/awesome-prompt-gallery/guyu-solar-term-poster-2026",
       "reviewed_at": "2026-04-20T02:15:37.823Z",
       "created_at": "2026-04-20T02:10:46.054Z",
-      "updated_at": "2026-04-27T01:09:55.305Z"
+      "updated_at": "2026-05-03T20:09:55.167Z"
     },
     {
       "id": 13456,
@@ -18203,7 +18463,7 @@
       "url": "https://opennana.com/awesome-prompt-gallery/labor-day-sign-designs",
       "reviewed_at": "2026-04-20T02:15:40.060Z",
       "created_at": "2026-04-20T02:10:42.174Z",
-      "updated_at": "2026-04-26T06:21:44.544Z"
+      "updated_at": "2026-05-01T08:05:53.091Z"
     },
     {
       "id": 13455,
@@ -18241,7 +18501,7 @@
       "url": "https://opennana.com/awesome-prompt-gallery/garden-of-words-spring-rain-calendar",
       "reviewed_at": "2026-04-20T02:15:41.620Z",
       "created_at": "2026-04-20T02:10:37.141Z",
-      "updated_at": "2026-04-26T02:27:54.098Z"
+      "updated_at": "2026-04-28T11:00:57.932Z"
     },
     {
       "id": 13454,
@@ -18279,7 +18539,7 @@
       "url": "https://opennana.com/awesome-prompt-gallery/little-prince-spaceship-co-branding",
       "reviewed_at": "2026-04-20T02:15:44.467Z",
       "created_at": "2026-04-20T02:10:02.788Z",
-      "updated_at": "2026-04-26T19:15:08.426Z"
+      "updated_at": "2026-05-01T18:43:06.099Z"
     },
     {
       "id": 13453,
@@ -18317,7 +18577,7 @@
       "url": "https://opennana.com/awesome-prompt-gallery/stunning-gongbi-bookmarks",
       "reviewed_at": "2026-04-20T02:16:39.319Z",
       "created_at": "2026-04-20T02:09:46.545Z",
-      "updated_at": "2026-04-27T01:50:21.878Z"
+      "updated_at": "2026-05-03T16:05:54.059Z"
     },
     {
       "id": 13452,
@@ -18355,7 +18615,7 @@
       "url": "https://opennana.com/awesome-prompt-gallery/douyin-beautiful-streamer",
       "reviewed_at": "2026-04-20T02:10:47.355Z",
       "created_at": "2026-04-20T02:06:17.169Z",
-      "updated_at": "2026-04-26T17:49:22.496Z"
+      "updated_at": "2026-05-03T12:41:55.920Z"
     },
     {
       "id": 13451,
@@ -18393,7 +18653,7 @@
       "url": "https://opennana.com/awesome-prompt-gallery/douyin-hanfu-livestream",
       "reviewed_at": "2026-04-20T02:10:46.269Z",
       "created_at": "2026-04-20T02:06:14.302Z",
-      "updated_at": "2026-04-26T10:17:17.768Z"
+      "updated_at": "2026-05-03T03:19:39.674Z"
     },
     {
       "id": 13450,
@@ -18469,7 +18729,7 @@
       "url": "https://opennana.com/awesome-prompt-gallery/beautiful-woman-thanking-brother-for-rocket",
       "reviewed_at": "2026-04-20T02:16:01.325Z",
       "created_at": "2026-04-20T02:06:09.833Z",
-      "updated_at": "2026-04-26T18:15:14.927Z"
+      "updated_at": "2026-05-03T20:04:47.954Z"
     },
     {
       "id": 13448,
@@ -18507,7 +18767,7 @@
       "url": "https://opennana.com/awesome-prompt-gallery/jingdezhen-blue-white-porcelain-diagram",
       "reviewed_at": "2026-04-20T02:16:05.890Z",
       "created_at": "2026-04-20T02:01:15.550Z",
-      "updated_at": "2026-04-26T16:57:17.859Z"
+      "updated_at": "2026-05-03T16:21:46.657Z"
     },
     {
       "id": 13447,
@@ -18545,7 +18805,7 @@
       "url": "https://opennana.com/awesome-prompt-gallery/custom-style-ui-system",
       "reviewed_at": "2026-04-20T02:16:30.047Z",
       "created_at": "2026-04-20T02:00:36.890Z",
-      "updated_at": "2026-04-26T15:03:12.450Z"
+      "updated_at": "2026-05-03T16:22:02.209Z"
     },
     {
       "id": 13446,
@@ -18583,7 +18843,7 @@
       "url": "https://opennana.com/awesome-prompt-gallery/douyin-ai-low-price-screenshot",
       "reviewed_at": "2026-04-20T01:50:12.112Z",
       "created_at": "2026-04-20T01:49:10.714Z",
-      "updated_at": "2026-04-25T10:48:44.867Z"
+      "updated_at": "2026-05-03T16:20:57.507Z"
     },
     {
       "id": 13445,
@@ -18621,7 +18881,7 @@
       "url": "https://opennana.com/awesome-prompt-gallery/exquisite-girl-online-loan-truth",
       "reviewed_at": "2026-04-20T01:50:13.370Z",
       "created_at": "2026-04-20T01:49:08.164Z",
-      "updated_at": "2026-04-26T22:51:05.011Z"
+      "updated_at": "2026-04-30T16:10:12.102Z"
     },
     {
       "id": 13444,
@@ -18659,7 +18919,7 @@
       "url": "https://opennana.com/awesome-prompt-gallery/kuaishou-live-divorce-screenshot",
       "reviewed_at": "2026-04-20T01:50:15.537Z",
       "created_at": "2026-04-20T01:49:05.424Z",
-      "updated_at": "2026-04-27T01:35:37.282Z"
+      "updated_at": "2026-05-04T01:16:23.597Z"
     },
     {
       "id": 13443,
@@ -18697,7 +18957,7 @@
       "url": "https://opennana.com/awesome-prompt-gallery/stop-blindly-urging-marriage",
       "reviewed_at": "2026-04-20T01:49:23.383Z",
       "created_at": "2026-04-20T01:48:09.787Z",
-      "updated_at": "2026-04-26T08:27:36.690Z"
+      "updated_at": "2026-05-03T04:26:25.391Z"
     },
     {
       "id": 13442,
@@ -18735,7 +18995,7 @@
       "url": "https://opennana.com/awesome-prompt-gallery/yi-seong-gye-x-page",
       "reviewed_at": "2026-04-20T01:49:25.115Z",
       "created_at": "2026-04-20T01:46:11.828Z",
-      "updated_at": "2026-04-25T10:49:50.733Z"
+      "updated_at": "2026-04-30T16:46:01.092Z"
     },
     {
       "id": 13441,
@@ -18773,7 +19033,7 @@
       "url": "https://opennana.com/awesome-prompt-gallery/song-dynasty-cyber-social-feed",
       "reviewed_at": "2026-04-20T01:49:27.719Z",
       "created_at": "2026-04-20T01:43:44.009Z",
-      "updated_at": "2026-04-26T20:55:45.988Z"
+      "updated_at": "2026-05-03T07:07:26.697Z"
     },
     {
       "id": 13440,
@@ -18849,7 +19109,7 @@
       "url": "https://opennana.com/awesome-prompt-gallery/black-pen-handwritten-notes",
       "reviewed_at": "2026-04-20T01:49:30.622Z",
       "created_at": "2026-04-20T01:42:15.498Z",
-      "updated_at": "2026-04-26T21:40:09.219Z"
+      "updated_at": "2026-05-01T00:56:12.835Z"
     },
     {
       "id": 13438,
@@ -18887,7 +19147,7 @@
       "url": "https://opennana.com/awesome-prompt-gallery/ai-video-generator-dark-ui",
       "reviewed_at": "2026-04-20T01:50:08.226Z",
       "created_at": "2026-04-20T01:39:24.872Z",
-      "updated_at": "2026-04-26T20:53:35.144Z"
+      "updated_at": "2026-05-03T13:35:50.824Z"
     },
     {
       "id": 13437,
@@ -18925,7 +19185,7 @@
       "url": "https://opennana.com/awesome-prompt-gallery/apple-park-tim-cook-keynote",
       "reviewed_at": "2026-04-20T01:49:44.871Z",
       "created_at": "2026-04-20T01:38:43.552Z",
-      "updated_at": "2026-04-26T12:04:18.666Z"
+      "updated_at": "2026-05-03T01:30:33.181Z"
     },
     {
       "id": 13436,
@@ -18963,7 +19223,7 @@
       "url": "https://opennana.com/awesome-prompt-gallery/official-character-reference-sheet-1776648663050",
       "reviewed_at": "2026-04-20T01:32:57.596Z",
       "created_at": "2026-04-20T01:31:03.181Z",
-      "updated_at": "2026-04-26T15:43:24.842Z"
+      "updated_at": "2026-05-03T23:08:01.888Z"
     },
     {
       "id": 13435,
@@ -19001,7 +19261,7 @@
       "url": "https://opennana.com/awesome-prompt-gallery/gpt-image-character-sheet",
       "reviewed_at": "2026-04-20T01:32:57.584Z",
       "created_at": "2026-04-20T01:30:28.971Z",
-      "updated_at": "2026-04-26T15:44:05.409Z"
+      "updated_at": "2026-05-03T16:20:38.619Z"
     },
     {
       "id": 13434,
@@ -19039,7 +19299,7 @@
       "url": "https://opennana.com/awesome-prompt-gallery/beautiful-anime-character-page",
       "reviewed_at": "2026-04-20T01:49:43.213Z",
       "created_at": "2026-04-20T01:27:13.863Z",
-      "updated_at": "2026-04-27T00:32:53.472Z"
+      "updated_at": "2026-05-01T08:05:57.443Z"
     },
     {
       "id": 13433,
@@ -19066,7 +19326,7 @@
       "url": "https://opennana.com/awesome-prompt-gallery/japanese-hot-spring-inn",
       "reviewed_at": "2026-04-20T01:32:57.578Z",
       "created_at": "2026-04-20T01:27:02.946Z",
-      "updated_at": "2026-04-26T18:07:13.735Z"
+      "updated_at": "2026-05-03T16:09:54.163Z"
     },
     {
       "id": 13432,
@@ -19104,7 +19364,7 @@
       "url": "https://opennana.com/awesome-prompt-gallery/real-anime-snapshot",
       "reviewed_at": "2026-04-20T01:32:40.486Z",
       "created_at": "2026-04-20T01:24:26.045Z",
-      "updated_at": "2026-04-26T09:51:57.403Z"
+      "updated_at": "2026-04-30T05:57:54.878Z"
     },
     {
       "id": 13431,
@@ -19142,7 +19402,7 @@
       "url": "https://opennana.com/awesome-prompt-gallery/zhujiang-new-town-paper-cut-night",
       "reviewed_at": "2026-04-20T01:32:40.467Z",
       "created_at": "2026-04-20T01:21:02.055Z",
-      "updated_at": "2026-04-26T10:01:11.111Z"
+      "updated_at": "2026-05-03T16:18:09.659Z"
     },
     {
       "id": 13430,
@@ -19180,7 +19440,7 @@
       "url": "https://opennana.com/awesome-prompt-gallery/little-devil-lily-sfc-poster",
       "reviewed_at": "2026-04-20T01:32:40.526Z",
       "created_at": "2026-04-20T01:15:39.117Z",
-      "updated_at": "2026-04-27T01:22:12.919Z"
+      "updated_at": "2026-05-01T10:39:21.850Z"
     },
     {
       "id": 13429,
@@ -19218,7 +19478,7 @@
       "url": "https://opennana.com/awesome-prompt-gallery/cyberpunk-sci-fi-mandala",
       "reviewed_at": "2026-04-20T01:32:40.534Z",
       "created_at": "2026-04-20T01:14:41.039Z",
-      "updated_at": "2026-04-25T22:00:37.908Z"
+      "updated_at": "2026-05-03T16:20:48.245Z"
     },
     {
       "id": 13428,
@@ -19256,7 +19516,7 @@
       "url": "https://opennana.com/awesome-prompt-gallery/red-silk-guochao-guangzhou",
       "reviewed_at": "2026-04-20T01:32:40.566Z",
       "created_at": "2026-04-20T01:12:48.370Z",
-      "updated_at": "2026-04-26T12:52:37.403Z"
+      "updated_at": "2026-05-03T08:56:18.836Z"
     },
     {
       "id": 13427,
@@ -19294,7 +19554,7 @@
       "url": "https://opennana.com/awesome-prompt-gallery/graffiti-sketch-ai-builder-master",
       "reviewed_at": "2026-04-20T01:32:40.545Z",
       "created_at": "2026-04-20T01:12:44.860Z",
-      "updated_at": "2026-04-27T02:21:28.664Z"
+      "updated_at": "2026-05-02T07:21:40.350Z"
     },
     {
       "id": 13426,
@@ -19332,7 +19592,7 @@
       "url": "https://opennana.com/awesome-prompt-gallery/cracked-ink-oriental-landscape",
       "reviewed_at": "2026-04-20T01:32:40.546Z",
       "created_at": "2026-04-20T01:10:02.563Z",
-      "updated_at": "2026-04-26T16:48:30.032Z"
+      "updated_at": "2026-05-03T16:19:37.115Z"
     },
     {
       "id": 13425,
@@ -19370,7 +19630,7 @@
       "url": "https://opennana.com/awesome-prompt-gallery/film-flash-basketball-girl",
       "reviewed_at": "2026-04-20T02:19:57.613Z",
       "created_at": "2026-04-20T01:09:31.954Z",
-      "updated_at": "2026-04-27T00:30:01.877Z"
+      "updated_at": "2026-05-03T11:47:42.875Z"
     },
     {
       "id": 13424,
@@ -19408,7 +19668,7 @@
       "url": "https://opennana.com/awesome-prompt-gallery/chengdu-foodie-walking-map",
       "reviewed_at": "2026-04-20T01:32:40.697Z",
       "created_at": "2026-04-20T01:08:47.967Z",
-      "updated_at": "2026-04-26T07:33:05.709Z"
+      "updated_at": "2026-05-03T17:27:35.919Z"
     },
     {
       "id": 13423,
@@ -19446,7 +19706,7 @@
       "url": "https://opennana.com/awesome-prompt-gallery/amalfi-coast-retro-poster",
       "reviewed_at": "2026-04-20T01:32:40.554Z",
       "created_at": "2026-04-20T01:06:53.942Z",
-      "updated_at": "2026-04-26T13:32:40.302Z"
+      "updated_at": "2026-05-02T01:19:41.116Z"
     },
     {
       "id": 13422,
@@ -19484,7 +19744,7 @@
       "url": "https://opennana.com/awesome-prompt-gallery/gentle-healing-anime-screenshot",
       "reviewed_at": "2026-04-20T01:32:40.529Z",
       "created_at": "2026-04-20T01:06:04.138Z",
-      "updated_at": "2026-04-26T16:25:34.714Z"
+      "updated_at": "2026-05-03T16:18:22.599Z"
     },
     {
       "id": 13421,
@@ -19522,7 +19782,7 @@
       "url": "https://opennana.com/awesome-prompt-gallery/cozy-bedroom-girl-selfie",
       "reviewed_at": "2026-04-20T01:32:40.516Z",
       "created_at": "2026-04-20T01:04:12.733Z",
-      "updated_at": "2026-04-26T11:34:23.662Z"
+      "updated_at": "2026-05-04T01:09:44.258Z"
     },
     {
       "id": 13420,
@@ -19560,7 +19820,7 @@
       "url": "https://opennana.com/awesome-prompt-gallery/luxury-glam-beauty-portrait",
       "reviewed_at": "2026-04-20T01:32:40.561Z",
       "created_at": "2026-04-20T01:04:10.073Z",
-      "updated_at": "2026-04-26T18:01:29.977Z"
+      "updated_at": "2026-05-03T21:54:21.099Z"
     },
     {
       "id": 13419,
@@ -19598,7 +19858,7 @@
       "url": "https://opennana.com/awesome-prompt-gallery/orange-red-lonely-silhouette",
       "reviewed_at": "2026-04-20T01:32:40.704Z",
       "created_at": "2026-04-20T00:59:36.989Z",
-      "updated_at": "2026-04-26T01:18:49.531Z"
+      "updated_at": "2026-05-01T10:51:36.703Z"
     },
     {
       "id": 13417,
@@ -19630,7 +19890,7 @@
       "url": "https://opennana.com/awesome-prompt-gallery/film-poster-with-layered-montage",
       "reviewed_at": "2026-04-20T01:32:40.586Z",
       "created_at": "2026-04-18T15:54:55.663Z",
-      "updated_at": "2026-04-26T09:09:34.476Z"
+      "updated_at": "2026-05-03T09:23:33.994Z"
     },
     {
       "id": 13416,
@@ -19669,7 +19929,7 @@
       "url": "https://opennana.com/awesome-prompt-gallery/gen-z-y2k-affordable-makeup-ad",
       "reviewed_at": "2026-04-20T01:49:41.132Z",
       "created_at": "2026-04-18T15:48:43.242Z",
-      "updated_at": "2026-04-26T13:04:21.165Z"
+      "updated_at": "2026-05-03T04:48:19.898Z"
     },
     {
       "id": 13415,
@@ -20771,7 +21031,7 @@
       "url": "https://opennana.com/awesome-prompt-gallery/dreamy-blue-purple-nubella-skincare",
       "reviewed_at": "2026-03-01T16:33:16.997Z",
       "created_at": "2026-03-01T16:33:16.997Z",
-      "updated_at": "2026-04-25T08:18:09.833Z"
+      "updated_at": "2026-05-03T14:48:06.187Z"
     },
     {
       "id": 2781,
@@ -21377,7 +21637,7 @@
       "url": "https://opennana.com/awesome-prompt-gallery/prompt-1145",
       "reviewed_at": "2026-01-08T15:19:19.198Z",
       "created_at": "2026-01-08T15:19:19.198Z",
-      "updated_at": "2026-04-26T16:26:15.328Z"
+      "updated_at": "2026-05-02T08:21:19.449Z"
     }
   ]
 }
