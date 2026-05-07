@@ -5,10 +5,10 @@ An open archive of all prompts currently exposed by OpenNana's ChatGPT gallery.
 - Source page: https://opennana.com/awesome-prompt-gallery?model=ChatGPT
 - Source API: `https://api.opennana.com/api/prompts`
 - Sync schedule: every day at **00:00 Asia/Shanghai** via GitHub Actions
-- Reported by source: **616**
-- Archived in this snapshot: **616**
+- Reported by source: **619**
+- Archived in this snapshot: **619**
 - Failed this run: **0**
-- Fetched at: **2026-05-06T17:29:19.849Z**
+- Fetched at: **2026-05-07T17:47:08.570Z**
 
 ## Files
 
@@ -24,9 +24,12 @@ An open archive of all prompts currently exposed by OpenNana's ChatGPT gallery.
 |---|---|---|---|
 | 日系风酒店女子抓拍图组 |  | @BubbleBrain | [detail](https://opennana.com/awesome-prompt-gallery/japanese-style-candid-shots-of-woman-in-hotel) |
 | 超细节悟饭野兽风战士插画 |  | @SimplyAnnisa | [detail](https://opennana.com/awesome-prompt-gallery/ultra-detailed-gohan-beast-style-warrior-illustration) |
+| 照片变身迷你版奇幻世界 |  | @Goodmanprotocol | [detail](https://opennana.com/awesome-prompt-gallery/transform-photo-into-mini-magical-world) |
 | 乐事薯片的沉浸式世界海报 |  | @ShamiWeb3 | [detail](https://opennana.com/awesome-prompt-gallery/lays-immersive-snack-world-poster) |
 | 2×2 网格品牌情绪板设计 |  | @AmirMushich | [detail](https://opennana.com/awesome-prompt-gallery/grid-brand-mood-board-design) |
 | 一个高端签名设计系统 |  | @liyue_ai | [detail](https://opennana.com/awesome-prompt-gallery/create-a-high-end-signature-design-system) |
+| 品牌 Logo 生成系统提示词 |  | @liyue_ai | [detail](https://opennana.com/awesome-prompt-gallery/brand-logo-generation-system-prompts) |
+| 极简风护肤诊断报告海报 |  | @saniaspeaks_ | [detail](https://opennana.com/awesome-prompt-gallery/minimalist-skincare-diagnostic-report-poster) |
 | 《汉字意象徽记》中国风logo |  | @MrLarus | [detail](https://opennana.com/awesome-prompt-gallery/chinese-style-chinese-character-imagery-logo-design) |
 | 8K 超写实女高尔夫运动照 |  | @AIwithSynthia | [detail](https://opennana.com/awesome-prompt-gallery/8k-hyper-realistic-female-golf-sports-photos) |
 | 为主题角色制作一张宣传海报 |  | @SimplyAnnisa | [detail](https://opennana.com/awesome-prompt-gallery/vertical-promo-poster-for-solo-leveling-char) |
@@ -69,8 +72,5 @@ An open archive of all prompts currently exposed by OpenNana's ChatGPT gallery.
 | 极简工业风马斯克海报设计 |  | @ponyodong | [detail](https://opennana.com/awesome-prompt-gallery/elon-musk-poster-design) |
 | 咖啡海报的创意与设计 |  | @Diplomeme | [detail](https://opennana.com/awesome-prompt-gallery/coffee-poster-creative-design) |
 | 设计专业丰富品牌识别系统 |  | @Naiknelofar788 | [detail](https://opennana.com/awesome-prompt-gallery/design-professional-brand-identity-system) |
-| 五一旅行美食海报生成 |  | @liyue_ai | [detail](https://opennana.com/awesome-prompt-gallery/may-day-travel-food-poster-generation) |
-| 设计高端汽水海报 |  | @MrLarus | [detail](https://opennana.com/awesome-prompt-gallery/high-end-soda-posters) |
-| 高端商业广告插画设计 | 广告图, 极简风, 高质感, 品牌感 | @aleenaamiir | [detail](https://opennana.com/awesome-prompt-gallery/high-end-commercial-illustration) |
 
 > README only shows the first 50 items. See `data/chatgpt-prompts.json` for the full archive.

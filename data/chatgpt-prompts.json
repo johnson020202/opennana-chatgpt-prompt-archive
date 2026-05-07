@@ -2,10 +2,10 @@
   "source": "https://opennana.com/awesome-prompt-gallery?model=ChatGPT",
   "api_base": "https://api.opennana.com/api/prompts",
   "model": "ChatGPT",
-  "fetched_at": "2026-05-06T17:29:19.849Z",
-  "total_reported": 616,
+  "fetched_at": "2026-05-07T17:47:08.570Z",
+  "total_reported": 619,
   "total_pages": 31,
-  "total_archived": 616,
+  "total_archived": 619,
   "total_failed": 0,
   "failed": [],
   "items": [
@@ -72,6 +72,39 @@
       "reviewed_at": "2026-05-06T14:48:48.563Z",
       "created_at": "2026-05-06T14:33:19.458Z",
       "updated_at": "2026-05-06T14:48:48.563Z"
+    },
+    {
+      "id": 14030,
+      "slug": "transform-photo-into-mini-magical-world",
+      "title": "照片变身迷你版奇幻世界",
+      "description": "",
+      "model": "ChatGPT",
+      "media_type": "image",
+      "source_name": "@Goodmanprotocol",
+      "source_url": "https://x.com/Goodmanprotocol/status/2051683848900202984",
+      "tags": [],
+      "prompts": [
+        {
+          "text": "Turn this photo into a magical “Mini Me” world where tiny animated versions of yourself come to life around you. These cute 3D-style mini characters interact with your everyday surroundings — climbing onto your shoulders, sitting on your bag, waving, playing, and copying your poses - creating a playful yet emotional social media story-worthy scene full of personality and story.The original photo remains untouched while the tiny characters bring the image to life with depth, movement, realistic shadows, and a soft aesthetic vibe. Ratio 4:5",
+          "type": "en",
+          "label": "英文提示词"
+        },
+        {
+          "text": "将这张照片变成一个神奇的“迷你我”世界，在这个世界中，你自己的微型动画版本在你周围栩栩如生。这些可爱的3D风格迷你角色与你的日常生活环境互动——爬上你的肩膀、坐在你的包上、挥手、玩耍，并模仿你的姿势——创造出一个俏皮却情感丰富的社交媒体故事般场景，充满个性和故事感。原照片保持未变，而这些微型角色通过深度、运动、逼真的阴影以及柔和的美学氛围赋予图像生命力。比例 4:5",
+          "type": "zh",
+          "label": "中文提示词"
+        }
+      ],
+      "images": [
+        "https://img.opennana.com/prompts/assets/202605/1778077908755-rgrucnbb-1778077910554-1.jpeg",
+        "https://img.opennana.com/prompts/assets/202605/1778077908755-rgrucnbb-1778077910556-2.jpeg"
+      ],
+      "video_urls": [],
+      "thumbnail": "pthumbs/prompts/assets/202605/1778077908755-rgrucnbb-1778077910554-1-480.jpg",
+      "url": "https://opennana.com/awesome-prompt-gallery/transform-photo-into-mini-magical-world",
+      "reviewed_at": "2026-05-07T11:20:19.658Z",
+      "created_at": "2026-05-06T14:32:06.265Z",
+      "updated_at": "2026-05-07T11:20:19.658Z"
     },
     {
       "id": 14029,
@@ -163,6 +196,66 @@
       "reviewed_at": "2026-05-06T14:48:55.569Z",
       "created_at": "2026-05-06T14:27:12.650Z",
       "updated_at": "2026-05-06T14:48:55.569Z"
+    },
+    {
+      "id": 14026,
+      "slug": "brand-logo-generation-system-prompts",
+      "title": "品牌 Logo 生成系统提示词",
+      "description": "",
+      "model": "ChatGPT",
+      "media_type": "image",
+      "source_name": "@liyue_ai",
+      "source_url": "https://x.com/liyue_ai/status/2051928232539418944",
+      "tags": [],
+      "prompts": [
+        {
+          "text": "你是一个专业品牌 Logo 设计师。\n\n请根据用户输入的「品牌名称」和「所属行业」，\n为该品牌设计一个高级、简洁、有识别度的品牌 Logo。\n\n这不是简单的文字排版，\n也不是把品牌名称直接画出来，\n而是需要先理解品牌名称的含义、气质、联想和所属行业属性，\n再将品牌内涵转化为一个具有品牌感的视觉标识。\n\n---\n\n## 输入信息\n\n品牌名称：{品牌名称}\n\n所属行业：{所属行业}\n\n可选信息：\n\n品牌定位：{可选，如高端、年轻、专业、东方、科技、温暖、潮流等}\n\n---\n\n## 设计逻辑\n\n请先理解：\n\n1. 品牌名称本身传递的含义与联想\n2. 所属行业应该给用户的感觉\n3. 品牌适合呈现的气质\n4. Logo 最应该被记住的视觉特征\n\n然后再进行 Logo 设计。\n\nLogo 不需要直白解释品牌名，\n但应该让人从图形、结构、动势、留白或整体气质中，\n能够隐约感受到品牌名称与行业属性。\n\n---\n\n## 设计要求\n\n请设计一个完整品牌 Logo，包含：\n\n- 图形标识\n- 品牌字标\n- 图文组合 Logo\n\nLogo 应该具备：\n\n- 简洁\n- 高级\n- 有识别度\n- 有品牌感\n- 可商业使用\n- 适合印刷和数字端展示\n- 在小尺寸下仍然清晰可辨\n\n---\n\n## 抽象程度\n\nLogo 可以是抽象的，\n但不能抽象到完全看不出品牌关联。\n\nLogo 可以从以下方向自由发挥：\n\n- 品牌名称的含义\n- 汉字或字母的结构\n- 行业特征\n- 品牌气质\n- 产品感受\n- 用户情绪\n- 文化联想\n- 视觉隐喻\n\n不要直接照搬具象物体，\n而是将它们转化为更简洁、更有品牌感的符号。\n\n---\n\n## 色彩要求\n\n颜色由你根据品牌名称、行业属性和品牌气质自主判断。\n\n不要默认使用金色。\n\n不要为了显得高级而强行使用黑金、鎏金或香槟金。\n\n颜色应该服务于品牌本身，\n可以是单色、双色或低饱和配色，\n也可以根据行业需要使用更年轻、更清新、更科技、更温暖或更自然的色彩。\n\n---\n\n## 输出画面要求\n\n生成一张干净、专业的 Logo 展示图。\n\n画面只需要展示品牌 Logo 本身，\n不需要展示手提袋、茶杯、包装盒、名片等延展物料。\n\n画面中可以包含：\n\n- 主 Logo\n- 图形标识\n- 字标\n- 横版组合\n- 竖版组合\n- 黑白版本\n\n整体保持简洁、清晰、专业，\n不要加入过多装饰说明。\n\n---\n\n## 避免出现\n\n不要生成：\n\n- 复杂插画\n- 产品包装展示\n- 手提袋、杯子、名片等物料\n- 大量文字说明\n- 普通字体排版\n- 廉价模板感\n- 过度装饰\n- 默认黑金奢华风\n- 与品牌无关的随机图形\n\n---\n\n## 最终指令\n\n请根据以下品牌信息，\n先理解品牌名称与行业属性，\n再自由发挥设计一个适合该品牌的 Logo。\n\n品牌名称：{品牌名称}\n\n所属行业：{所属行业}\n\n品牌定位：{可选}\n\n要求：\n\n只生成品牌 Logo，\n不要生成品牌周边物料。\n\nLogo 要简洁、高级、有识别度，\n不是简单文字排版，\n而是能从视觉上体现品牌内涵。\n----\n品牌名称：李白\n所属行业：酒",
+          "type": "zh",
+          "label": "中文提示词"
+        }
+      ],
+      "images": [
+        "https://img.opennana.com/prompts/assets/202605/1778077554437-6a84tpou-1778077555012-1.jpeg",
+        "https://img.opennana.com/prompts/assets/202605/1778077554437-6a84tpou-1778077555010-2.jpeg"
+      ],
+      "video_urls": [],
+      "thumbnail": "pthumbs/prompts/assets/202605/1778077554437-6a84tpou-1778077555012-1-480.jpg",
+      "url": "https://opennana.com/awesome-prompt-gallery/brand-logo-generation-system-prompts",
+      "reviewed_at": "2026-05-07T11:20:21.074Z",
+      "created_at": "2026-05-06T14:25:59.633Z",
+      "updated_at": "2026-05-07T11:20:21.074Z"
+    },
+    {
+      "id": 14023,
+      "slug": "minimalist-skincare-diagnostic-report-poster",
+      "title": "极简风护肤诊断报告海报",
+      "description": "",
+      "model": "ChatGPT",
+      "media_type": "image",
+      "source_name": "@saniaspeaks_",
+      "source_url": "https://x.com/saniaspeaks_/status/2051983222116843651",
+      "tags": [],
+      "prompts": [
+        {
+          "text": "Create a clean, minimal skincare diagnostic report poster using my uploaded photo as the exact face reference, preserving my real facial features, proportions, and natural skin tone. The subject is centered in a professional portrait style, wearing a smart blazer and clear glasses, neutral expression, soft confident look. Background is a warm beige minimal aesthetic with subtle botanical line art decorations in corners.\nAdd infographic-style facial markers with small circular points connected by thin lines to labeled skin analysis text:\nForehead: Smooth, subtle sebum\nUnder Eye: Slight puffiness, healthy tone\nCheeks: Even texture, glowing\nNose/T-zone: Minimal shine, visible pores\nJawline/Beard: Clean skin, defined line\nAt the top, include elegant serif title text: “DIAGNOSTIC REPORT”.\nBelow the portrait, add a rounded soft card labeled “METRICS” with clean modern typography showing:\nOverall Skin Type: 3.0 Combination\nTexture: 9.0 High\nTone Consistency: 6.0 Excellent\nPore Visibility: 3.0 Minimal\nHydration: 8.0 Balanced\nRadiance and Glow: 6.0 Radiant\nAt the bottom, create two rounded panels:\nLeft panel title: “RECOMMENDED AM ROUTINE”\nGentle Cleanser\nHydrating Toner\nVitamin C Serum\nMoisturizer\nSPF 50+\nRight panel title: “RECOMMENDED PM ROUTINE”\nDouble Cleanse\nExfoliating Toner\nRepair Serum\nCeramide Cream\nEye Cream\nStyle: ultra-clean dermatology infographic, soft neutral tones, premium skincare brand aesthetic, minimal shadows, soft diffused lighting, high resolution, sharp text clarity, perfectly aligned layout, balanced spacing, modern UI card design, realistic skin texture, no distortion.\nEnsure layout, typography placement, spacing, and composition exactly match the reference image, only replacing the face with my uploaded photo.",
+          "type": "en",
+          "label": "英文提示词"
+        },
+        {
+          "text": "使用我上传的照片作为精确的面部参考，创建一份干净、简约的护肤诊断报告海报，保留我真实的五官特征、比例和自然肤色。主体采用专业肖像风格居中，穿着智能西装外套和透明眼镜，中性表情，柔和自信的外观。背景为温暖米色简约美学，角落处带有细微的植物线稿装饰。\n添加信息图风格的面部标记，使用小圆点通过细线连接到标注的皮肤分析文本：\n额头：光滑，细微皮脂\n眼下：轻微浮肿，健康肤色\n脸颊：均匀质地，有光泽\n鼻子/T区：最小光泽，可见毛孔\n下巴/胡须：干净皮肤，清晰线条\n顶部添加优雅衬线标题文本：“DIAGNOSTIC REPORT”。\n肖像下方添加一个圆角柔和卡片，标有“METRICS”，使用干净现代字体显示：\n整体肤质：3.0 混合型\n质地：9.0 高\n肤色一致性：6.0 优秀\n毛孔可见度：3.0 最小\n保湿度：8.0 平衡\n光泽与亮度：6.0 光芒四射\n底部创建两个圆角面板：\n左侧面板标题：“RECOMMENDED AM ROUTINE”\n温和洁面乳\n保湿化妆水\n维生素 C 精华\n保湿霜\nSPF 50+\n右侧面板标题：“RECOMMENDED PM ROUTINE”\n双重洁面\n去角质化妆水\n修复精华\n神经酰胺面霜\n眼霜\n风格：超干净的皮肤科信息图，柔和中性色调，高端护肤品牌美学，最小阴影，柔和漫射光线，高分辨率，锐利文本清晰度，完美对齐布局，平衡间距，现代 UI 卡片设计，逼真皮肤质感，无失真。\n确保布局、字体放置、间距和构图与参考图像完全匹配，仅将面部替换为我上传的照片。",
+          "type": "zh",
+          "label": "中文提示词"
+        }
+      ],
+      "images": [
+        "https://img.opennana.com/prompts/assets/202605/1778077161452-egqhnbe2-1778077162337-1.jpeg"
+      ],
+      "video_urls": [],
+      "thumbnail": "pthumbs/prompts/assets/202605/1778077161452-egqhnbe2-1778077162337-1-480.jpg",
+      "url": "https://opennana.com/awesome-prompt-gallery/minimalist-skincare-diagnostic-report-poster",
+      "reviewed_at": "2026-05-07T11:20:32.050Z",
+      "created_at": "2026-05-06T14:19:45.136Z",
+      "updated_at": "2026-05-07T11:20:32.050Z"
     },
     {
       "id": 14005,
@@ -3565,11 +3658,11 @@
         "https://img.opennana.com/prompts/assets/202604/1777540776905-6j1kdofq-1777540780814-1.jpeg"
       ],
       "video_urls": [],
-      "thumbnail": null,
+      "thumbnail": "pthumbs/prompts/assets/202604/1777540776905-6j1kdofq-1777540780814-1-480.jpg",
       "url": "https://opennana.com/awesome-prompt-gallery/twelve-grid-hairstyle-design",
       "reviewed_at": "2026-04-30T09:20:46.334Z",
       "created_at": "2026-04-30T09:20:21.083Z",
-      "updated_at": "2026-04-30T09:20:46.334Z"
+      "updated_at": "2026-05-07T03:44:49.657Z"
     },
     {
       "id": 13902,
@@ -3607,7 +3700,7 @@
       "url": "https://opennana.com/awesome-prompt-gallery/ink-double-exposure-anime-poster",
       "reviewed_at": "2026-04-30T09:20:48.880Z",
       "created_at": "2026-04-30T09:19:11.171Z",
-      "updated_at": "2026-04-30T09:20:48.880Z"
+      "updated_at": "2026-05-07T03:19:54.181Z"
     },
     {
       "id": 13901,
@@ -3645,7 +3738,7 @@
       "url": "https://opennana.com/awesome-prompt-gallery/avant-garde-blue-sculpture-swimwear",
       "reviewed_at": "2026-04-30T09:20:50.999Z",
       "created_at": "2026-04-30T09:18:13.454Z",
-      "updated_at": "2026-04-30T09:20:50.999Z"
+      "updated_at": "2026-05-06T20:45:49.491Z"
     },
     {
       "id": 13900,
@@ -3683,7 +3776,7 @@
       "url": "https://opennana.com/awesome-prompt-gallery/korean-street-ootd",
       "reviewed_at": "2026-04-30T09:21:35.055Z",
       "created_at": "2026-04-30T09:17:28.006Z",
-      "updated_at": "2026-04-30T09:21:35.055Z"
+      "updated_at": "2026-05-07T01:58:18.717Z"
     },
     {
       "id": 13899,
@@ -3721,7 +3814,7 @@
       "url": "https://opennana.com/awesome-prompt-gallery/16-national-dresses-collage",
       "reviewed_at": "2026-04-30T09:20:53.075Z",
       "created_at": "2026-04-30T09:17:09.262Z",
-      "updated_at": "2026-04-30T09:20:53.075Z"
+      "updated_at": "2026-05-07T07:31:28.002Z"
     },
     {
       "id": 13898,
@@ -3759,7 +3852,7 @@
       "url": "https://opennana.com/awesome-prompt-gallery/professional-book-interior-layout",
       "reviewed_at": "2026-04-30T09:20:55.417Z",
       "created_at": "2026-04-30T09:16:20.572Z",
-      "updated_at": "2026-04-30T09:20:55.417Z"
+      "updated_at": "2026-05-07T09:22:26.385Z"
     },
     {
       "id": 13897,
@@ -3835,7 +3928,7 @@
       "url": "https://opennana.com/awesome-prompt-gallery/playful-doodle-overlay",
       "reviewed_at": "2026-04-30T09:21:00.604Z",
       "created_at": "2026-04-30T09:15:31.091Z",
-      "updated_at": "2026-04-30T09:21:00.604Z"
+      "updated_at": "2026-05-07T02:39:08.340Z"
     },
     {
       "id": 13895,
@@ -3873,7 +3966,7 @@
       "url": "https://opennana.com/awesome-prompt-gallery/luxury-fashion-magazine-collage-poster",
       "reviewed_at": "2026-04-30T09:21:32.637Z",
       "created_at": "2026-04-30T09:14:33.130Z",
-      "updated_at": "2026-04-30T09:21:32.637Z"
+      "updated_at": "2026-05-07T08:13:25.313Z"
     },
     {
       "id": 13894,
@@ -3947,11 +4040,11 @@
         "https://img.opennana.com/prompts/assets/202604/1777540051853-cpl9ulw5-1777540056907-2.jpeg"
       ],
       "video_urls": [],
-      "thumbnail": null,
+      "thumbnail": "pthumbs/prompts/assets/202604/1777540051853-cpl9ulw5-1777540056901-1-480.jpg",
       "url": "https://opennana.com/awesome-prompt-gallery/restaurant-brand-promo-poster",
       "reviewed_at": "2026-04-30T09:12:42.275Z",
       "created_at": "2026-04-30T09:12:25.249Z",
-      "updated_at": "2026-04-30T09:12:42.275Z"
+      "updated_at": "2026-05-07T02:46:40.519Z"
     },
     {
       "id": 13892,
@@ -3985,11 +4078,11 @@
         "https://img.opennana.com/prompts/assets/202604/1777540279958-70fa0gzi-1777540284408-1.jpeg"
       ],
       "video_urls": [],
-      "thumbnail": null,
+      "thumbnail": "pthumbs/prompts/assets/202604/1777540279958-70fa0gzi-1777540284408-1-480.jpg",
       "url": "https://opennana.com/awesome-prompt-gallery/first-sino-japanese-war-map",
       "reviewed_at": "2026-04-30T09:12:39.176Z",
       "created_at": "2026-04-30T09:11:50.405Z",
-      "updated_at": "2026-04-30T09:12:39.176Z"
+      "updated_at": "2026-05-07T07:55:13.315Z"
     },
     {
       "id": 13891,
@@ -4024,11 +4117,11 @@
         "https://img.opennana.com/prompts/assets/202604/1777540245836-illxdc22-1777540249584-2.jpeg"
       ],
       "video_urls": [],
-      "thumbnail": null,
+      "thumbnail": "pthumbs/prompts/assets/202604/1777540245836-illxdc22-1777540249574-1-480.jpg",
       "url": "https://opennana.com/awesome-prompt-gallery/beach-volleyball-character-art",
       "reviewed_at": "2026-04-30T09:12:40.203Z",
       "created_at": "2026-04-30T09:11:33.955Z",
-      "updated_at": "2026-04-30T09:15:18.217Z"
+      "updated_at": "2026-05-07T06:10:06.978Z"
     },
     {
       "id": 13890,
@@ -4066,7 +4159,7 @@
       "url": "https://opennana.com/awesome-prompt-gallery/ancient-naming-poster",
       "reviewed_at": "2026-04-30T09:08:38.682Z",
       "created_at": "2026-04-30T09:08:03.719Z",
-      "updated_at": "2026-04-30T09:10:15.777Z"
+      "updated_at": "2026-05-07T09:11:17.397Z"
     },
     {
       "id": 13889,
@@ -4104,7 +4197,7 @@
       "url": "https://opennana.com/awesome-prompt-gallery/bus-window-japanese-film-girl",
       "reviewed_at": "2026-04-30T09:08:40.817Z",
       "created_at": "2026-04-27T13:38:18.701Z",
-      "updated_at": "2026-04-30T09:08:40.817Z"
+      "updated_at": "2026-05-07T07:48:36.196Z"
     },
     {
       "id": 13888,
@@ -4518,7 +4611,7 @@
       "url": "https://opennana.com/awesome-prompt-gallery/ink-guangzhou-micro-3d-poster",
       "reviewed_at": "2026-04-30T09:08:43.252Z",
       "created_at": "2026-04-27T12:45:43.952Z",
-      "updated_at": "2026-04-30T09:08:43.252Z"
+      "updated_at": "2026-05-07T01:53:55.012Z"
     },
     {
       "id": 13876,
@@ -5142,7 +5235,7 @@
       "url": "https://opennana.com/awesome-prompt-gallery/elegant-cafe-fashionista",
       "reviewed_at": "2026-04-30T09:09:09.435Z",
       "created_at": "2026-04-27T11:40:13.002Z",
-      "updated_at": "2026-04-30T09:09:09.435Z"
+      "updated_at": "2026-05-07T04:05:00.013Z"
     },
     {
       "id": 13859,
@@ -5739,7 +5832,7 @@
       "url": "https://opennana.com/awesome-prompt-gallery/avant-garde-mascara-wand",
       "reviewed_at": "2026-04-30T09:09:07.397Z",
       "created_at": "2026-04-26T14:55:56.477Z",
-      "updated_at": "2026-04-30T09:09:07.397Z"
+      "updated_at": "2026-05-07T07:45:50.941Z"
     },
     {
       "id": 13842,
@@ -6311,7 +6404,7 @@
       "url": "https://opennana.com/awesome-prompt-gallery/cinematic-dark-superstar-posters",
       "reviewed_at": "2026-04-26T06:06:56.606Z",
       "created_at": "2026-04-26T06:01:10.087Z",
-      "updated_at": "2026-05-03T04:18:30.740Z"
+      "updated_at": "2026-05-07T03:29:37.635Z"
     },
     {
       "id": 13824,
@@ -7225,7 +7318,7 @@
       "url": "https://opennana.com/awesome-prompt-gallery/dreamy-oriental-emerald-beauty",
       "reviewed_at": "2026-04-30T09:08:45.840Z",
       "created_at": "2026-04-26T04:58:01.496Z",
-      "updated_at": "2026-04-30T09:08:45.840Z"
+      "updated_at": "2026-05-07T07:48:30.754Z"
     },
     {
       "id": 13799,
@@ -7835,7 +7928,7 @@
       "url": "https://opennana.com/awesome-prompt-gallery/shy-girl-recording-video",
       "reviewed_at": "2026-04-30T09:08:48.249Z",
       "created_at": "2026-04-25T08:45:00.381Z",
-      "updated_at": "2026-04-30T09:08:48.249Z"
+      "updated_at": "2026-05-07T05:42:27.270Z"
     },
     {
       "id": 13783,
@@ -9170,7 +9263,7 @@
       "url": "https://opennana.com/awesome-prompt-gallery/sweet-pink-girl-wall-dance",
       "reviewed_at": "2026-04-30T09:09:00.359Z",
       "created_at": "2026-04-25T07:41:27.292Z",
-      "updated_at": "2026-04-30T09:09:00.359Z"
+      "updated_at": "2026-05-07T08:28:54.327Z"
     },
     {
       "id": 13747,
@@ -9246,7 +9339,7 @@
       "url": "https://opennana.com/awesome-prompt-gallery/analog-kpop-boudoir",
       "reviewed_at": "2026-04-30T09:08:51.608Z",
       "created_at": "2026-04-25T07:40:21.101Z",
-      "updated_at": "2026-04-30T09:08:51.608Z"
+      "updated_at": "2026-05-07T08:49:51.287Z"
     },
     {
       "id": 13745,
@@ -10123,7 +10216,7 @@
       "url": "https://opennana.com/awesome-prompt-gallery/neon-night-streetwear-design",
       "reviewed_at": "2026-04-30T09:08:53.723Z",
       "created_at": "2026-04-24T14:24:35.274Z",
-      "updated_at": "2026-04-30T09:08:53.723Z"
+      "updated_at": "2026-05-06T15:43:02.135Z"
     },
     {
       "id": 13722,
@@ -12887,7 +12980,7 @@
       "url": "https://opennana.com/awesome-prompt-gallery/dripping-ink-gentleman",
       "reviewed_at": "2026-04-23T14:00:15.411Z",
       "created_at": "2026-04-23T13:22:38.323Z",
-      "updated_at": "2026-04-30T09:53:21.531Z"
+      "updated_at": "2026-05-06T23:56:35.644Z"
     },
     {
       "id": 13644,
@@ -12963,7 +13056,7 @@
       "url": "https://opennana.com/awesome-prompt-gallery/art-master-website-design",
       "reviewed_at": "2026-04-23T14:00:18.866Z",
       "created_at": "2026-04-23T13:19:23.766Z",
-      "updated_at": "2026-04-30T09:27:10.581Z"
+      "updated_at": "2026-05-07T03:40:36.947Z"
     },
     {
       "id": 13642,
@@ -13115,7 +13208,7 @@
       "url": "https://opennana.com/awesome-prompt-gallery/tesla-core-components",
       "reviewed_at": "2026-04-23T14:00:26.688Z",
       "created_at": "2026-04-23T12:27:22.768Z",
-      "updated_at": "2026-04-29T09:01:58.519Z"
+      "updated_at": "2026-05-06T14:57:29.003Z"
     },
     {
       "id": 13638,
@@ -13230,7 +13323,7 @@
       "url": "https://opennana.com/awesome-prompt-gallery/xiaohongshu-handwritten-photo-notes",
       "reviewed_at": "2026-04-23T14:00:30.070Z",
       "created_at": "2026-04-23T12:24:10.503Z",
-      "updated_at": "2026-04-30T06:30:02.675Z"
+      "updated_at": "2026-05-07T11:01:29.709Z"
     },
     {
       "id": 13635,
@@ -13307,7 +13400,7 @@
       "url": "https://opennana.com/awesome-prompt-gallery/real-wechat-chat-photo",
       "reviewed_at": "2026-04-23T14:01:23.940Z",
       "created_at": "2026-04-23T12:06:28.967Z",
-      "updated_at": "2026-04-30T08:36:01.894Z"
+      "updated_at": "2026-05-07T12:26:05.738Z"
     },
     {
       "id": 13633,
@@ -13345,7 +13438,7 @@
       "url": "https://opennana.com/awesome-prompt-gallery/photo-handwritten-english-notes",
       "reviewed_at": "2026-04-23T14:00:35.426Z",
       "created_at": "2026-04-23T12:05:26.246Z",
-      "updated_at": "2026-04-30T13:05:47.842Z"
+      "updated_at": "2026-05-07T07:07:52.404Z"
     },
     {
       "id": 13632,
@@ -13422,7 +13515,7 @@
       "url": "https://opennana.com/awesome-prompt-gallery/tiananmen-forbidden-city-axis",
       "reviewed_at": "2026-04-23T14:00:39.313Z",
       "created_at": "2026-04-23T12:02:09.442Z",
-      "updated_at": "2026-04-29T06:57:34.269Z"
+      "updated_at": "2026-05-04T16:16:23.572Z"
     },
     {
       "id": 13630,
@@ -13499,7 +13592,7 @@
       "url": "https://opennana.com/awesome-prompt-gallery/ix-future-tech-brand-kit",
       "reviewed_at": "2026-04-23T14:00:43.539Z",
       "created_at": "2026-04-23T12:01:58.267Z",
-      "updated_at": "2026-04-30T12:53:12.123Z"
+      "updated_at": "2026-05-07T11:23:24.847Z"
     },
     {
       "id": 13628,
@@ -13537,7 +13630,7 @@
       "url": "https://opennana.com/awesome-prompt-gallery/endangered-animal-infographic",
       "reviewed_at": "2026-04-23T14:00:45.031Z",
       "created_at": "2026-04-23T12:00:04.095Z",
-      "updated_at": "2026-04-30T10:44:36.894Z"
+      "updated_at": "2026-05-07T14:14:06.118Z"
     },
     {
       "id": 13627,
@@ -13575,7 +13668,7 @@
       "url": "https://opennana.com/awesome-prompt-gallery/eighteen-masters-paint-chaotianmen",
       "reviewed_at": "2026-04-23T14:00:49.020Z",
       "created_at": "2026-04-23T11:59:24.170Z",
-      "updated_at": "2026-04-30T01:49:31.228Z"
+      "updated_at": "2026-05-07T08:07:41.718Z"
     },
     {
       "id": 13626,
@@ -13614,7 +13707,7 @@
       "url": "https://opennana.com/awesome-prompt-gallery/dunhuang-goddess-gold-mural",
       "reviewed_at": "2026-04-23T14:00:49.864Z",
       "created_at": "2026-04-23T08:49:24.269Z",
-      "updated_at": "2026-04-29T13:23:04.980Z"
+      "updated_at": "2026-05-07T03:19:03.560Z"
     },
     {
       "id": 13625,
@@ -13768,7 +13861,7 @@
       "url": "https://opennana.com/awesome-prompt-gallery/royal-bride-poster",
       "reviewed_at": "2026-04-23T14:01:16.533Z",
       "created_at": "2026-04-23T08:43:58.695Z",
-      "updated_at": "2026-04-30T02:29:57.389Z"
+      "updated_at": "2026-05-07T09:05:04.486Z"
     },
     {
       "id": 13621,
@@ -13795,7 +13888,7 @@
       "url": "https://opennana.com/awesome-prompt-gallery/illustration-of-heart-attack-process",
       "reviewed_at": "2026-04-23T07:57:27.036Z",
       "created_at": "2026-04-23T07:56:28.446Z",
-      "updated_at": "2026-04-30T06:46:58.873Z"
+      "updated_at": "2026-05-06T20:33:19.511Z"
     },
     {
       "id": 13616,
@@ -13834,7 +13927,7 @@
       "url": "https://opennana.com/awesome-prompt-gallery/delicious-food-poster",
       "reviewed_at": "2026-04-23T07:57:44.752Z",
       "created_at": "2026-04-23T03:15:41.335Z",
-      "updated_at": "2026-04-30T05:50:43.817Z"
+      "updated_at": "2026-05-07T05:55:52.864Z"
     },
     {
       "id": 13615,
@@ -13911,7 +14004,7 @@
       "url": "https://opennana.com/awesome-prompt-gallery/minimalist-geometric-product-poster",
       "reviewed_at": "2026-04-23T14:01:02.885Z",
       "created_at": "2026-04-22T15:01:54.640Z",
-      "updated_at": "2026-04-30T12:21:57.583Z"
+      "updated_at": "2026-05-07T08:33:31.202Z"
     },
     {
       "id": 13613,
@@ -13950,7 +14043,7 @@
       "url": "https://opennana.com/awesome-prompt-gallery/star-endorse-car-poster",
       "reviewed_at": "2026-04-23T14:01:00.400Z",
       "created_at": "2026-04-22T14:54:35.163Z",
-      "updated_at": "2026-04-30T06:05:11.135Z"
+      "updated_at": "2026-05-07T05:49:30.136Z"
     },
     {
       "id": 13612,
@@ -13988,7 +14081,7 @@
       "url": "https://opennana.com/awesome-prompt-gallery/kawaii-country-sticker-pack",
       "reviewed_at": "2026-04-23T07:57:51.160Z",
       "created_at": "2026-04-22T14:53:21.591Z",
-      "updated_at": "2026-04-30T03:40:25.214Z"
+      "updated_at": "2026-05-05T18:52:03.713Z"
     },
     {
       "id": 13611,
@@ -14027,7 +14120,7 @@
       "url": "https://opennana.com/awesome-prompt-gallery/ancient-chinese-weapons-encyclopedia",
       "reviewed_at": "2026-04-23T07:57:53.377Z",
       "created_at": "2026-04-22T14:53:21.314Z",
-      "updated_at": "2026-04-30T02:48:59.604Z"
+      "updated_at": "2026-05-06T20:33:43.551Z"
     },
     {
       "id": 13610,
@@ -14065,7 +14158,7 @@
       "url": "https://opennana.com/awesome-prompt-gallery/refrigerator-ecommerce-display",
       "reviewed_at": "2026-04-23T07:57:56.361Z",
       "created_at": "2026-04-22T14:50:10.927Z",
-      "updated_at": "2026-04-29T18:52:40.520Z"
+      "updated_at": "2026-05-07T06:12:12.736Z"
     },
     {
       "id": 13609,
@@ -14103,7 +14196,7 @@
       "url": "https://opennana.com/awesome-prompt-gallery/four-spider-spirits-silk-cave-seduction",
       "reviewed_at": "2026-04-23T01:41:11.673Z",
       "created_at": "2026-04-22T14:27:59.158Z",
-      "updated_at": "2026-04-29T15:51:52.536Z"
+      "updated_at": "2026-05-06T16:53:30.161Z"
     },
     {
       "id": 13608,
@@ -14141,7 +14234,7 @@
       "url": "https://opennana.com/awesome-prompt-gallery/decepticon-alien-battleship-formation",
       "reviewed_at": "2026-04-23T07:58:49.093Z",
       "created_at": "2026-04-22T14:24:43.017Z",
-      "updated_at": "2026-04-29T15:45:19.158Z"
+      "updated_at": "2026-05-07T05:34:54.973Z"
     },
     {
       "id": 13607,
@@ -14179,7 +14272,7 @@
       "url": "https://opennana.com/awesome-prompt-gallery/autobots-lunar-base",
       "reviewed_at": "2026-04-23T07:58:50.215Z",
       "created_at": "2026-04-22T14:24:35.086Z",
-      "updated_at": "2026-04-30T01:32:26.065Z"
+      "updated_at": "2026-05-07T05:58:13.372Z"
     },
     {
       "id": 13606,
@@ -14217,7 +14310,7 @@
       "url": "https://opennana.com/awesome-prompt-gallery/three-kingdoms-diaochan-portrait",
       "reviewed_at": "2026-04-23T01:39:36.168Z",
       "created_at": "2026-04-22T14:23:25.184Z",
-      "updated_at": "2026-04-29T04:48:54.677Z"
+      "updated_at": "2026-05-06T12:49:21.946Z"
     },
     {
       "id": 13605,
@@ -14255,7 +14348,7 @@
       "url": "https://opennana.com/awesome-prompt-gallery/green-snake-xiaoqing-photoshoot",
       "reviewed_at": "2026-04-23T07:58:43.433Z",
       "created_at": "2026-04-22T14:23:21.689Z",
-      "updated_at": "2026-04-30T07:12:56.560Z"
+      "updated_at": "2026-05-07T02:44:00.344Z"
     },
     {
       "id": 13604,
@@ -14293,7 +14386,7 @@
       "url": "https://opennana.com/awesome-prompt-gallery/dark-glassmorphism-music-player",
       "reviewed_at": "2026-04-23T01:39:32.479Z",
       "created_at": "2026-04-22T14:22:07.648Z",
-      "updated_at": "2026-04-30T01:40:07.895Z"
+      "updated_at": "2026-05-06T07:12:02.715Z"
     },
     {
       "id": 13603,
@@ -14331,7 +14424,7 @@
       "url": "https://opennana.com/awesome-prompt-gallery/cool-fitness-checkin-ui",
       "reviewed_at": "2026-04-23T07:58:03.194Z",
       "created_at": "2026-04-22T14:22:05.359Z",
-      "updated_at": "2026-04-29T22:55:16.287Z"
+      "updated_at": "2026-05-06T15:33:27.024Z"
     },
     {
       "id": 13602,
@@ -14369,7 +14462,7 @@
       "url": "https://opennana.com/awesome-prompt-gallery/ins-style-skincare-photography",
       "reviewed_at": "2026-04-23T07:58:05.461Z",
       "created_at": "2026-04-22T14:20:26.997Z",
-      "updated_at": "2026-04-30T06:13:53.405Z"
+      "updated_at": "2026-05-04T18:17:51.823Z"
     },
     {
       "id": 13601,
@@ -14407,7 +14500,7 @@
       "url": "https://opennana.com/awesome-prompt-gallery/pink-girly-bubble-tea-ad",
       "reviewed_at": "2026-04-23T07:58:06.666Z",
       "created_at": "2026-04-22T14:19:54.055Z",
-      "updated_at": "2026-04-29T10:06:15.641Z"
+      "updated_at": "2026-05-07T04:09:11.239Z"
     },
     {
       "id": 13600,
@@ -14445,7 +14538,7 @@
       "url": "https://opennana.com/awesome-prompt-gallery/vogue-china-pan-jinlian",
       "reviewed_at": "2026-04-23T01:40:42.870Z",
       "created_at": "2026-04-22T14:19:50.540Z",
-      "updated_at": "2026-04-29T10:25:55.337Z"
+      "updated_at": "2026-05-06T20:34:00.481Z"
     },
     {
       "id": 13599,
@@ -14483,7 +14576,7 @@
       "url": "https://opennana.com/awesome-prompt-gallery/guzheng-singing-classical-beauty",
       "reviewed_at": "2026-04-23T07:58:08.313Z",
       "created_at": "2026-04-22T14:18:34.157Z",
-      "updated_at": "2026-04-29T11:22:29.449Z"
+      "updated_at": "2026-05-07T04:30:00.106Z"
     },
     {
       "id": 13598,
@@ -14521,7 +14614,7 @@
       "url": "https://opennana.com/awesome-prompt-gallery/li-shishi-ancient-pipa-livestream",
       "reviewed_at": "2026-04-23T01:38:01.481Z",
       "created_at": "2026-04-22T14:18:28.298Z",
-      "updated_at": "2026-04-28T14:35:08.160Z"
+      "updated_at": "2026-05-06T08:50:45.374Z"
     },
     {
       "id": 13597,
@@ -14559,7 +14652,7 @@
       "url": "https://opennana.com/awesome-prompt-gallery/dark-zhou-zhiruo-ssr",
       "reviewed_at": "2026-04-23T07:58:10.515Z",
       "created_at": "2026-04-22T14:16:47.155Z",
-      "updated_at": "2026-04-30T05:44:17.335Z"
+      "updated_at": "2026-05-06T16:20:35.494Z"
     },
     {
       "id": 13596,
@@ -14597,7 +14690,7 @@
       "url": "https://opennana.com/awesome-prompt-gallery/tianlongbabu-kang-min-card",
       "reviewed_at": "2026-04-23T14:01:16.513Z",
       "created_at": "2026-04-22T14:16:38.774Z",
-      "updated_at": "2026-04-30T12:36:35.904Z"
+      "updated_at": "2026-05-07T09:34:06.848Z"
     },
     {
       "id": 13595,
@@ -14635,7 +14728,7 @@
       "url": "https://opennana.com/awesome-prompt-gallery/pan-jinlian-arsenic-packaging-design",
       "reviewed_at": "2026-04-23T01:37:56.787Z",
       "created_at": "2026-04-22T14:16:03.225Z",
-      "updated_at": "2026-04-30T02:12:06.437Z"
+      "updated_at": "2026-05-06T05:56:05.490Z"
     },
     {
       "id": 13594,
@@ -14673,7 +14766,7 @@
       "url": "https://opennana.com/awesome-prompt-gallery/late-night-bbq-beer-delivery",
       "reviewed_at": "2026-04-23T01:39:22.283Z",
       "created_at": "2026-04-22T14:14:46.031Z",
-      "updated_at": "2026-04-29T13:19:15.421Z"
+      "updated_at": "2026-05-06T05:54:16.591Z"
     },
     {
       "id": 13593,
@@ -14711,7 +14804,7 @@
       "url": "https://opennana.com/awesome-prompt-gallery/live-stream-pk-screenshot",
       "reviewed_at": "2026-04-23T01:39:43.392Z",
       "created_at": "2026-04-22T14:13:56.063Z",
-      "updated_at": "2026-04-29T13:43:46.702Z"
+      "updated_at": "2026-05-07T01:39:00.903Z"
     },
     {
       "id": 13592,
@@ -14749,7 +14842,7 @@
       "url": "https://opennana.com/awesome-prompt-gallery/dark-palace-empress-perfume",
       "reviewed_at": "2026-04-23T07:58:36.919Z",
       "created_at": "2026-04-22T14:13:18.882Z",
-      "updated_at": "2026-04-30T07:38:21.440Z"
+      "updated_at": "2026-05-06T23:56:58.246Z"
     },
     {
       "id": 13591,
@@ -14787,7 +14880,7 @@
       "url": "https://opennana.com/awesome-prompt-gallery/boss-red-envelope-funny-group-chat",
       "reviewed_at": "2026-04-23T01:41:01.551Z",
       "created_at": "2026-04-22T14:13:12.017Z",
-      "updated_at": "2026-04-29T10:10:57.952Z"
+      "updated_at": "2026-05-06T14:52:57.662Z"
     },
     {
       "id": 13590,
@@ -14825,7 +14918,7 @@
       "url": "https://opennana.com/awesome-prompt-gallery/wang-xifeng-gold-relief-case",
       "reviewed_at": "2026-04-23T01:40:59.212Z",
       "created_at": "2026-04-22T14:12:34.508Z",
-      "updated_at": "2026-04-27T16:25:17.577Z"
+      "updated_at": "2026-05-06T17:16:03.320Z"
     },
     {
       "id": 13589,
@@ -14901,7 +14994,7 @@
       "url": "https://opennana.com/awesome-prompt-gallery/voltrush-energy-drink-campaign",
       "reviewed_at": "2026-04-23T01:39:48.313Z",
       "created_at": "2026-04-22T13:43:00.535Z",
-      "updated_at": "2026-04-29T15:15:25.101Z"
+      "updated_at": "2026-05-06T06:11:37.649Z"
     },
     {
       "id": 13586,
@@ -14939,7 +15032,7 @@
       "url": "https://opennana.com/awesome-prompt-gallery/luxury-chocolate-packaging",
       "reviewed_at": "2026-04-23T01:38:27.248Z",
       "created_at": "2026-04-22T13:32:40.911Z",
-      "updated_at": "2026-04-30T01:14:32.880Z"
+      "updated_at": "2026-05-05T14:52:35.116Z"
     },
     {
       "id": 13585,
@@ -14977,7 +15070,7 @@
       "url": "https://opennana.com/awesome-prompt-gallery/futuristic-fashion-magazine-spread",
       "reviewed_at": "2026-04-23T01:39:51.787Z",
       "created_at": "2026-04-22T13:30:41.747Z",
-      "updated_at": "2026-04-30T01:15:35.626Z"
+      "updated_at": "2026-05-06T10:24:50.212Z"
     },
     {
       "id": 13584,
@@ -15015,7 +15108,7 @@
       "url": "https://opennana.com/awesome-prompt-gallery/standardized-color-typography-system",
       "reviewed_at": "2026-04-23T01:39:53.663Z",
       "created_at": "2026-04-22T13:29:48.271Z",
-      "updated_at": "2026-04-29T12:42:00.643Z"
+      "updated_at": "2026-05-06T21:41:51.528Z"
     },
     {
       "id": 13583,
@@ -15053,7 +15146,7 @@
       "url": "https://opennana.com/awesome-prompt-gallery/healing-mental-wellness-app-ui",
       "reviewed_at": "2026-04-23T01:38:24.268Z",
       "created_at": "2026-04-22T13:28:46.256Z",
-      "updated_at": "2026-04-29T12:37:32.631Z"
+      "updated_at": "2026-05-06T14:58:39.305Z"
     },
     {
       "id": 13582,
@@ -15091,7 +15184,7 @@
       "url": "https://opennana.com/awesome-prompt-gallery/red-jacket-girl-four-scenes",
       "reviewed_at": "2026-04-23T01:39:55.514Z",
       "created_at": "2026-04-22T13:27:42.115Z",
-      "updated_at": "2026-04-30T01:13:42.933Z"
+      "updated_at": "2026-05-06T12:25:50.057Z"
     },
     {
       "id": 13581,
@@ -15129,7 +15222,7 @@
       "url": "https://opennana.com/awesome-prompt-gallery/whimsical-traditional-food",
       "reviewed_at": "2026-04-23T01:39:57.183Z",
       "created_at": "2026-04-22T13:16:26.820Z",
-      "updated_at": "2026-04-30T00:03:47.026Z"
+      "updated_at": "2026-05-06T20:33:38.111Z"
     },
     {
       "id": 13580,
@@ -15157,7 +15250,7 @@
       "url": "https://opennana.com/awesome-prompt-gallery/design-retro-style-movie-ticket-poster",
       "reviewed_at": "2026-04-23T01:39:59.684Z",
       "created_at": "2026-04-22T13:15:56.328Z",
-      "updated_at": "2026-04-29T14:57:55.065Z"
+      "updated_at": "2026-05-05T14:43:52.443Z"
     },
     {
       "id": 13579,
@@ -15195,7 +15288,7 @@
       "url": "https://opennana.com/awesome-prompt-gallery/solar-powered-desert-civilization",
       "reviewed_at": "2026-04-23T01:40:00.762Z",
       "created_at": "2026-04-22T13:12:57.785Z",
-      "updated_at": "2026-04-30T01:14:45.733Z"
+      "updated_at": "2026-05-06T07:15:21.678Z"
     },
     {
       "id": 13578,
@@ -15233,7 +15326,7 @@
       "url": "https://opennana.com/awesome-prompt-gallery/reshape-unique-facial-features",
       "reviewed_at": "2026-04-23T01:40:03.546Z",
       "created_at": "2026-04-22T13:09:36.124Z",
-      "updated_at": "2026-04-29T15:14:56.677Z"
+      "updated_at": "2026-05-05T06:47:19.649Z"
     },
     {
       "id": 13577,
@@ -15271,7 +15364,7 @@
       "url": "https://opennana.com/awesome-prompt-gallery/japanese-kabuki-bar-singer-list",
       "reviewed_at": "2026-04-23T01:40:04.646Z",
       "created_at": "2026-04-22T13:09:32.913Z",
-      "updated_at": "2026-04-29T17:19:29.808Z"
+      "updated_at": "2026-05-05T09:48:00.814Z"
     },
     {
       "id": 13576,
@@ -15309,7 +15402,7 @@
       "url": "https://opennana.com/awesome-prompt-gallery/real-scene-womens-travel-magazine",
       "reviewed_at": "2026-04-23T01:40:08.095Z",
       "created_at": "2026-04-22T13:09:22.428Z",
-      "updated_at": "2026-04-29T07:24:39.576Z"
+      "updated_at": "2026-05-06T10:57:28.291Z"
     },
     {
       "id": 13575,
@@ -15348,7 +15441,7 @@
       "url": "https://opennana.com/awesome-prompt-gallery/live-action-conversion",
       "reviewed_at": "2026-04-23T01:40:09.330Z",
       "created_at": "2026-04-22T13:05:59.659Z",
-      "updated_at": "2026-04-29T16:38:18.075Z"
+      "updated_at": "2026-05-06T15:30:20.575Z"
     },
     {
       "id": 13574,
@@ -15386,7 +15479,7 @@
       "url": "https://opennana.com/awesome-prompt-gallery/subway-phone-beauty",
       "reviewed_at": "2026-04-23T01:38:15.356Z",
       "created_at": "2026-04-22T13:04:39.352Z",
-      "updated_at": "2026-04-29T18:27:00.601Z"
+      "updated_at": "2026-05-06T15:21:52.116Z"
     },
     {
       "id": 13573,
@@ -15424,7 +15517,7 @@
       "url": "https://opennana.com/awesome-prompt-gallery/cold-glamorous-mirror-girl",
       "reviewed_at": "2026-04-23T07:58:39.066Z",
       "created_at": "2026-04-22T13:01:57.666Z",
-      "updated_at": "2026-04-30T07:51:02.494Z"
+      "updated_at": "2026-05-07T00:13:25.655Z"
     },
     {
       "id": 13572,
@@ -15463,7 +15556,7 @@
       "url": "https://opennana.com/awesome-prompt-gallery/vintage-hand-drawn-ramen-recipe-1776862914458",
       "reviewed_at": "2026-04-23T01:40:13.006Z",
       "created_at": "2026-04-22T13:01:54.590Z",
-      "updated_at": "2026-04-29T18:59:43.327Z"
+      "updated_at": "2026-05-06T02:25:41.748Z"
     },
     {
       "id": 13571,
@@ -15501,7 +15594,7 @@
       "url": "https://opennana.com/awesome-prompt-gallery/pokemon-3d-paper-diorama",
       "reviewed_at": "2026-04-23T01:40:15.729Z",
       "created_at": "2026-04-22T13:00:33.845Z",
-      "updated_at": "2026-04-29T06:15:35.205Z"
+      "updated_at": "2026-05-06T16:04:47.587Z"
     },
     {
       "id": 13570,
@@ -15539,7 +15632,7 @@
       "url": "https://opennana.com/awesome-prompt-gallery/korean-girlfriend-shirt-closeup",
       "reviewed_at": "2026-04-23T01:40:18.563Z",
       "created_at": "2026-04-22T12:59:00.244Z",
-      "updated_at": "2026-04-30T01:31:44.326Z"
+      "updated_at": "2026-05-07T00:13:19.519Z"
     },
     {
       "id": 13569,
@@ -15577,7 +15670,7 @@
       "url": "https://opennana.com/awesome-prompt-gallery/stunning-tang-phoenix-beauty-close-up",
       "reviewed_at": "2026-04-23T01:39:07.315Z",
       "created_at": "2026-04-22T12:57:48.877Z",
-      "updated_at": "2026-04-30T00:36:36.642Z"
+      "updated_at": "2026-05-06T17:04:03.707Z"
     },
     {
       "id": 13568,
@@ -15615,7 +15708,7 @@
       "url": "https://opennana.com/awesome-prompt-gallery/steampunk-adventure-storyboard",
       "reviewed_at": "2026-04-23T01:39:05.963Z",
       "created_at": "2026-04-22T12:56:38.521Z",
-      "updated_at": "2026-04-30T01:12:45.688Z"
+      "updated_at": "2026-05-06T20:33:55.584Z"
     },
     {
       "id": 13567,
@@ -15653,7 +15746,7 @@
       "url": "https://opennana.com/awesome-prompt-gallery/personal-brand-kit-design",
       "reviewed_at": "2026-04-23T01:39:03.439Z",
       "created_at": "2026-04-22T12:56:38.520Z",
-      "updated_at": "2026-04-29T15:16:03.922Z"
+      "updated_at": "2026-05-06T13:09:07.771Z"
     },
     {
       "id": 13566,
@@ -15691,7 +15784,7 @@
       "url": "https://opennana.com/awesome-prompt-gallery/goku-all-super-saiyan-forms",
       "reviewed_at": "2026-04-23T01:39:01.205Z",
       "created_at": "2026-04-22T12:53:54.475Z",
-      "updated_at": "2026-04-30T01:15:02.746Z"
+      "updated_at": "2026-05-05T12:24:04.628Z"
     },
     {
       "id": 13565,
@@ -15730,7 +15823,7 @@
       "url": "https://opennana.com/awesome-prompt-gallery/minimalist-destiny-tarot-poster",
       "reviewed_at": "2026-04-23T01:38:59.882Z",
       "created_at": "2026-04-22T12:53:44.163Z",
-      "updated_at": "2026-04-29T23:04:33.900Z"
+      "updated_at": "2026-05-06T19:48:46.539Z"
     },
     {
       "id": 13564,
@@ -15768,7 +15861,7 @@
       "url": "https://opennana.com/awesome-prompt-gallery/arrogant-rebellious-albedo-story",
       "reviewed_at": "2026-04-23T01:38:57.819Z",
       "created_at": "2026-04-22T12:51:49.796Z",
-      "updated_at": "2026-04-29T23:04:58.779Z"
+      "updated_at": "2026-05-06T15:22:26.079Z"
     },
     {
       "id": 13563,
@@ -15806,7 +15899,7 @@
       "url": "https://opennana.com/awesome-prompt-gallery/minecraft-tears-of-the-kingdom-map",
       "reviewed_at": "2026-04-23T01:38:55.529Z",
       "created_at": "2026-04-22T12:50:29.420Z",
-      "updated_at": "2026-04-30T01:24:13.673Z"
+      "updated_at": "2026-05-06T08:40:15.810Z"
     },
     {
       "id": 13562,
@@ -16035,7 +16128,7 @@
       "url": "https://opennana.com/awesome-prompt-gallery/cold-interlocking-lotus-perfume",
       "reviewed_at": "2026-04-23T01:38:53.212Z",
       "created_at": "2026-04-22T08:24:00.252Z",
-      "updated_at": "2026-04-29T07:41:24.390Z"
+      "updated_at": "2026-05-06T08:27:21.955Z"
     },
     {
       "id": 13556,
@@ -16073,7 +16166,7 @@
       "url": "https://opennana.com/awesome-prompt-gallery/apple-style-floppy-keynote",
       "reviewed_at": "2026-04-23T01:38:50.515Z",
       "created_at": "2026-04-22T08:22:25.398Z",
-      "updated_at": "2026-04-29T09:06:59.399Z"
+      "updated_at": "2026-05-06T15:30:09.236Z"
     },
     {
       "id": 13555,
@@ -16111,7 +16204,7 @@
       "url": "https://opennana.com/awesome-prompt-gallery/magical-brush-minimal-oriental",
       "reviewed_at": "2026-04-23T01:38:48.720Z",
       "created_at": "2026-04-22T08:20:45.712Z",
-      "updated_at": "2026-04-29T14:51:20.125Z"
+      "updated_at": "2026-05-06T20:34:19.196Z"
     },
     {
       "id": 13554,
@@ -16378,7 +16471,7 @@
       "url": "https://opennana.com/awesome-prompt-gallery/retro-girly-magazine-page",
       "reviewed_at": "2026-04-22T07:06:48.829Z",
       "created_at": "2026-04-22T03:26:44.362Z",
-      "updated_at": "2026-04-30T01:18:42.210Z"
+      "updated_at": "2026-05-07T12:40:07.006Z"
     },
     {
       "id": 13547,
@@ -17967,7 +18060,7 @@
       "url": "https://opennana.com/awesome-prompt-gallery/pale-porcelain-doll-beach",
       "reviewed_at": "2026-04-21T15:14:23.516Z",
       "created_at": "2026-04-21T15:08:49.837Z",
-      "updated_at": "2026-04-29T14:11:25.105Z"
+      "updated_at": "2026-05-06T12:01:21.380Z"
     },
     {
       "id": 13502,
@@ -22108,7 +22201,7 @@
       "url": "https://opennana.com/awesome-prompt-gallery/lavender-sunrise-dreamy-triptych",
       "reviewed_at": "2026-03-02T15:35:19.980Z",
       "created_at": "2026-03-02T15:35:19.980Z",
-      "updated_at": "2026-04-30T03:46:51.301Z"
+      "updated_at": "2026-05-07T02:48:08.540Z"
     },
     {
       "id": 2879,
@@ -22526,7 +22619,7 @@
       "url": "https://opennana.com/awesome-prompt-gallery/street-model-flaunt-bottle",
       "reviewed_at": "2026-01-31T15:38:22.925Z",
       "created_at": "2026-01-31T15:38:22.925Z",
-      "updated_at": "2026-04-30T01:14:07.291Z"
+      "updated_at": "2026-05-06T20:38:14.448Z"
     },
     {
       "id": 2238,
