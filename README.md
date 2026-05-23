@@ -5,10 +5,10 @@ An open archive of all prompts currently exposed by OpenNana's ChatGPT gallery.
 - Source page: https://opennana.com/awesome-prompt-gallery?model=ChatGPT
 - Source API: `https://api.opennana.com/api/prompts`
 - Sync schedule: every day at **00:00 Asia/Shanghai** via GitHub Actions
-- Reported by source: **1459**
-- Archived in this snapshot: **1459**
+- Reported by source: **1483**
+- Archived in this snapshot: **1483**
 - Failed this run: **0**
-- Fetched at: **2026-05-22T17:53:29.745Z**
+- Fetched at: **2026-05-23T17:00:08.461Z**
 
 ## Files
 
@@ -22,9 +22,33 @@ An open archive of all prompts currently exposed by OpenNana's ChatGPT gallery.
 
 | Title | Tags | Source | Link |
 |---|---|---|---|
+| 超写实户外仰拍中国女性时装摄影 |  | @MrLarus | [detail](https://opennana.com/awesome-prompt-gallery/photorealistic-outdoor-chinese-female-fashion-photography) |
+| 史诗沙漠世界电影角色设计板 |  | @Mind_Boticni | [detail](https://opennana.com/awesome-prompt-gallery/epic-desert-world-cinematic-character-board) |
+| 国潮风高级餐饮徽章Logo设计 |  | @Stellakjbk | [detail](https://opennana.com/awesome-prompt-gallery/guochao-style-catering-badge-logo-design) |
+| 午后公交车上的静谧电影感写真 |  | @Shinning1010 | [detail](https://opennana.com/awesome-prompt-gallery/cinematic-lifestyle-bus-portrait-golden-hour) |
+| 赛博霓虹粉色电竞少女直播 |  | @Shorelyn_ | [detail](https://opennana.com/awesome-prompt-gallery/cyber-neon-pink-gamer-girl-live-stream-aesthetic) |
+| 宝可梦混沌日常手绘草图页 |  | @ponyodong | [detail](https://opennana.com/awesome-prompt-gallery/chaotic-pokemon-sketchbook-daily-life) |
+| 活力波普风涂鸦女孩与橙汁 |  | @MissDelulu9 | [detail](https://opennana.com/awesome-prompt-gallery/vibrant-pop-art-girl-with-doodle-orange-juice) |
+| 好莱坞奢华动漫时尚男大生拼贴画 |  | @Mind_Boticni | [detail](https://opennana.com/awesome-prompt-gallery/hollywood-luxury-anime-fashion-editorial-collage) |
+| 韩国高冷时尚杂志四格拼贴人像 |  | @doctorwasif | [detail](https://opennana.com/awesome-prompt-gallery/korean-high-fashion-editorial-grid-female-portrait) |
+| 高端快餐极简排版广告海报 |  | @oggii_0 | [detail](https://opennana.com/awesome-prompt-gallery/premium-fast-food-advertising-poster-typography-minimalist) |
+| 艺术风格特定主题插画模版 |  | @ZephyraLeigh | [detail](https://opennana.com/awesome-prompt-gallery/art-style-subject-illustration-template) |
+| 简约手绘童话风儿童插画 |  | @jzaib4269 | [detail](https://opennana.com/awesome-prompt-gallery/minimalist-hand-drawn-fairy-tale-children-illustration) |
+| 宝可梦日常互动手绘草图画册 |  | @MissDelulu9 | [detail](https://opennana.com/awesome-prompt-gallery/pokemon-sketchbook-page-interaction-style) |
+| 生成女主角三视图角色卡片 |  | @rionaifantasy | [detail](https://opennana.com/awesome-prompt-gallery/generate-heroine-character-card) |
+| 电影级醉拳动作分镜十二格 |  | @MrLarus | [detail](https://opennana.com/awesome-prompt-gallery/drunken-fist-action-storyboard) |
 | 在温馨卧室中拍摄的精致自拍 |  | @liyue_ai | [detail](https://opennana.com/awesome-prompt-gallery/exquisite-selfies-taken-in-a-cozy-bedroom) |
+| 极简童趣手绘插画风格 |  | @oggii_0 | [detail](https://opennana.com/awesome-prompt-gallery/minimalist-childrens-illustration-prompt) |
+| 极简主义宁静平衡场景生成 |  | @Aiwithkami | [detail](https://opennana.com/awesome-prompt-gallery/minimalist-scene-design-prompt) |
+| 电影感韩国少女写真AI提示词 |  | @Mind_Boticni | [detail](https://opennana.com/awesome-prompt-gallery/cinematic-korean-girl-lifestyle-prompt) |
+| 夜晚都市漫步复古CCD少女 |  | @Chryzleenprompt | [detail](https://opennana.com/awesome-prompt-gallery/night-city-walk-ccd-digicam-portrait) |
+| 卧室女孩超写实人像提示词 |  | @mehvishs25 | [detail](https://opennana.com/awesome-prompt-gallery/ultra-realistic-cozy-bedroom-girl-portrait-prompt) |
+| 写实风格人物九宫格照片 |  | @Shinning1010 | [detail](https://opennana.com/awesome-prompt-gallery/realistic-photo-booth-contact-sheet) |
 | 奢华电影感美妆广告提示词 |  | @sha_zdiii | [detail](https://opennana.com/awesome-prompt-gallery/luxury-beauty-advertisement-prompt) |
+| 物理定律高级信息图生成提示词 |  | @Gdgtify | [detail](https://opennana.com/awesome-prompt-gallery/advanced-physics-infographic-prompt) |
+| 梦幻唯美电影感时尚人像 |  | @harboriis | [detail](https://opennana.com/awesome-prompt-gallery/dreamy-cinematic-fashion-portrait) |
 | 红色光影东亚时尚人像 |  | @doctorwasif | [detail](https://opennana.com/awesome-prompt-gallery/east-asian-fashion-portrait-red-lighting) |
+| 韩国教室窗边年轻女子超写实肖像 |  | @jzaib4269 | [detail](https://opennana.com/awesome-prompt-gallery/ultra-realistic-korean-classroom-portrait) |
 | 高级定制发型时尚海报 |  | @aidavid125 | [detail](https://opennana.com/awesome-prompt-gallery/luxury-hair-editorial-campaign-poster) |
 | 写实肖像组合摄影棚风格 |  | @Shinning1010 | [detail](https://opennana.com/awesome-prompt-gallery/realistic-portrait-collage-prompt) |
 | 忧郁韩剧心理海报 |  | @akkiwani703 | [detail](https://opennana.com/awesome-prompt-gallery/melancholic-korean-drama-poster) |
@@ -48,29 +72,5 @@ An open archive of all prompts currently exposed by OpenNana's ChatGPT gallery.
 | 红牛奢华海报设计提示词 |  | @Ozayrr_irl | [detail](https://opennana.com/awesome-prompt-gallery/redbull-luxury-poster-prompt) |
 | 奢华Vogue撕纸风格人像提示词 |  | @Lianaalane | [detail](https://opennana.com/awesome-prompt-gallery/luxury-vogue-torn-paper-editorial-prompt) |
 | 沙发上穿着长颈鹿背心的少女 |  | @lwaipics | [detail](https://opennana.com/awesome-prompt-gallery/girl-on-couch-with-giraffe-tank-top) |
-| 克什米尔电影感旅行拼贴海报 |  | @hemayxn | [detail](https://opennana.com/awesome-prompt-gallery/kashmir-cinematic-travel-collage-poster) |
-| 海边草地回头肖像 |  | @Shinning1010 | [detail](https://opennana.com/awesome-prompt-gallery/seaside-portrait-over-the-shoulder-reference) |
-| 黑色iPhone微缩工人清洁场景 |  | @akkiwani703 | [detail](https://opennana.com/awesome-prompt-gallery/miniature-workers-cleaning-iphone) |
-| OpenAI工作坊高端海报设计指南 |  | @Diplomeme | [detail](https://opennana.com/awesome-prompt-gallery/openai-workshop-premium-poster-design-prompt) |
-| 超写实女性时尚肖像 |  | @jarvis_og_AI | [detail](https://opennana.com/awesome-prompt-gallery/ultra-realistic-fashion-portrait-prompt) |
-| C罗葡萄牙比赛日海报设计 |  | @SimplyAnnisa | [detail](https://opennana.com/awesome-prompt-gallery/cristiano-ronaldo-match-day-poster) |
-| 3D角色涂鸦风格图像提示词 |  | @Lianaalane | [detail](https://opennana.com/awesome-prompt-gallery/3d-chibi-doodle-image-prompt) |
-| 超写实东亚年轻美女肖像 |  | @heyfatema | [detail](https://opennana.com/awesome-prompt-gallery/ultra-realistic-east-asian-portrait) |
-| 超写实年轻女性美妆肖像照 |  | @saniaspeaks_ | [detail](https://opennana.com/awesome-prompt-gallery/ultra-realistic-beauty-portrait-shoot) |
-| 90年代复古手持摄像机室内艺术写生 |  | @Chryzleenprompt | [detail](https://opennana.com/awesome-prompt-gallery/90s-camcorder-art-studio-aesthetic) |
-| 双重曝光灰金发时尚人像 |  | @ayzalnooor24521 | [detail](https://opennana.com/awesome-prompt-gallery/double-exposure-ash-blonde-portrait) |
-| 高端时尚街头情侣大片 |  | @auqibhabib | [detail](https://opennana.com/awesome-prompt-gallery/luxury-streetwear-couple-editorial) |
-| 电影感国家主题运动海报AI提示词 |  | @Preda2005 | [detail](https://opennana.com/awesome-prompt-gallery/cinematic-national-sports-poster-generator) |
-| 温暖午后三连拍少女写真 |  | @Shinning1010 | [detail](https://opennana.com/awesome-prompt-gallery/sunlit-three-panel-selfie-collage) |
-| 首尔街头北欧美女自拍 |  | @Ankit_patel211 | [detail](https://opennana.com/awesome-prompt-gallery/scandinavian-woman-seoul-street-selfie-prompt) |
-| 木桌上的埃菲尔铁塔微缩场景 |  | @Naiknelofar788 | [detail](https://opennana.com/awesome-prompt-gallery/eiffel-tower-miniature-diorama) |
-| 纸艺风格可爱图像重构 |  | @Ciri_ai | [detail](https://opennana.com/awesome-prompt-gallery/paper-craft-style-recreation) |
-| 夜间车内拍摄的照片 |  | @MissDelulu9 | [detail](https://opennana.com/awesome-prompt-gallery/the-photo-is-taken-inside-a-car) |
-| 高奢珠宝婚嫁海报设计 |  | @obsidian_fr1 | [detail](https://opennana.com/awesome-prompt-gallery/luxury-bridal-jewelry-campaign-poster) |
-| 海滩放风筝的小女孩复古水彩画 |  | @Ozayrr_irl | [detail](https://opennana.com/awesome-prompt-gallery/little-girl-flying-kite-vintage-watercolor) |
-| 森林丁达尔光影夏日写真 |  | @MrLarus | [detail](https://opennana.com/awesome-prompt-gallery/forest-tyndall-light-summer-portrait) |
-| 手机相册中的亚裔美女自拍拼贴 |  | @MissDelulu9 | [detail](https://opennana.com/awesome-prompt-gallery/ultra-realistic-asian-woman-selfie-collage-smartphone-gallery) |
-| 高级时装手绘插画提示词 |  | @ChillaiKalan__ | [detail](https://opennana.com/awesome-prompt-gallery/high-fashion-editorial-illustration-prompt) |
-| 极简大地风美食汉堡摄影 |  | @Sairah_0 | [detail](https://opennana.com/awesome-prompt-gallery/minimal-earthy-gourmet-burger-photography) |
 
 > README only shows the first 50 items. See `data/chatgpt-prompts.json` for the full archive.
