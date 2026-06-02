@@ -5,10 +5,10 @@ An open archive of all prompts currently exposed by OpenNana's ChatGPT gallery.
 - Source page: https://opennana.com/awesome-prompt-gallery?model=ChatGPT
 - Source API: `https://api.opennana.com/api/prompts`
 - Sync schedule: every day at **00:00 Asia/Shanghai** via GitHub Actions
-- Reported by source: **1794**
-- Archived in this snapshot: **1794**
+- Reported by source: **1813**
+- Archived in this snapshot: **1813**
 - Failed this run: **0**
-- Fetched at: **2026-06-01T20:19:50.669Z**
+- Fetched at: **2026-06-02T19:44:52.159Z**
 
 ## Files
 
@@ -23,7 +23,19 @@ An open archive of all prompts currently exposed by OpenNana's ChatGPT gallery.
 | Title | Tags | Source | Link |
 |---|---|---|---|
 | 西海龙王敖润史诗奇幻书籍封面 |  | @SimplyAnnisa | [detail](https://opennana.com/awesome-prompt-gallery/ao-run-west-sea-dragon-king-epic-fantasy-book-cover) |
+| 居酒屋红衣东亚美女电影感氛围写真 |  | @jzaib4269 | [detail](https://opennana.com/awesome-prompt-gallery/east-asian-woman-izakaya-red-sweater-cinematic) |
+| 时尚高端男士配饰巨型皮夹广告海报 |  | @Strength04_X | [detail](https://opennana.com/awesome-prompt-gallery/sleek-premium-mens-accessory-advertisement-poster) |
+| 蕾丝兔耳东亚美女精致人像 |  | @Kunda623270 | [detail](https://opennana.com/awesome-prompt-gallery/east-asian-beauty-lace-bunny-ears-portrait) |
 | 厌恶不屑表情年轻女性特写肖像 |  | @94vanAI | [detail](https://opennana.com/awesome-prompt-gallery/close-up-portrait-young-woman-disdainful-tsk-expression) |
+| 摩纳哥豪华游艇奢华时尚人像 |  | @xRahultripathi | [detail](https://opennana.com/awesome-prompt-gallery/monaco-luxury-yacht-fashion-portrait) |
+| iOS系统界面时尚画报拼贴出框效果 |  | @Mind_Boticni | [detail](https://opennana.com/awesome-prompt-gallery/ios-interface-fashion-collage-out-of-frame) |
+| 唐风华丽仙侠女主精修写真 |  | @liyue_ai | [detail](https://opennana.com/awesome-prompt-gallery/tang-fantasy-gorgeous-female-lead-portrait) |
+| 印度女性黄金时刻四宫格写真 |  | @CaliraVal | [detail](https://opennana.com/awesome-prompt-gallery/indian-woman-golden-hour-portrait-grid) |
+| 极简主义高端时尚社论风东亚女性摄影 |  | @auqibhabib | [detail](https://opennana.com/awesome-prompt-gallery/high-end-minimalist-fashion-editorial-east-asian-woman-photo) |
+| 超写实奢侈品广告海报微观奇幻世界提示词 |  | @sha_zdiii | [detail](https://opennana.com/awesome-prompt-gallery/luxury-commercial-poster-miniature-fantasy-world) |
+| 高端3D等轴测浮空缩微景观旅游海报 |  | @MissDelulu9 | [detail](https://opennana.com/awesome-prompt-gallery/premium-3d-isometric-floating-miniature-travel-poster) |
+| 奶油色毛衣可爱表情少女特写 |  | @ChillaiKalan__ | [detail](https://opennana.com/awesome-prompt-gallery/close-up-portrait-cute-girl-butter-yellow-sweater-duckface) |
+| DHL高端品牌创意设计社交媒体营销海报 |  | @Diplomeme | [detail](https://opennana.com/awesome-prompt-gallery/dhl-premium-social-media-marketing-poster-design) |
 | 奢华电影感瑜伽时尚海报提示词 |  | @aidavid125 | [detail](https://opennana.com/awesome-prompt-gallery/ultra-luxury-cinematic-yoga-editorial-poster-prompt) |
 | 城市味觉档案一城一菜系列海报生成 |  | @MrLarus | [detail](https://opennana.com/awesome-prompt-gallery/city-flavor-archive-one-city-one-dish-poster) |
 | 平成后期日系私写真雨中电话亭 |  | @KeorUnreal | [detail](https://opennana.com/awesome-prompt-gallery/late-heisei-japanese-photobook-rainy-phone-booth) |
@@ -60,17 +72,5 @@ An open archive of all prompts currently exposed by OpenNana's ChatGPT gallery.
 | 3D等距风格旅行海报浮空微缩世界 |  | @Naiknelofar788 | [detail](https://opennana.com/awesome-prompt-gallery/3d-isometric-travel-poster-floating-miniature-world) |
 | 复古水彩意大利波西塔诺旅行海报 |  | @jzaib4269 | [detail](https://opennana.com/awesome-prompt-gallery/vintage-watercolor-positano-italy-travel-poster) |
 | 极简白底动漫时尚女孩镜前自拍 |  | @Sairah_0 | [detail](https://opennana.com/awesome-prompt-gallery/stylish-anime-fashion-girl-mirror-selfie-streetwear) |
-| 红酒玫瑰系列电商详情页视觉提示词 |  | @MrLarus | [detail](https://opennana.com/awesome-prompt-gallery/red-wine-rose-ecommerce-visual-prompts) |
-| 超写实网飞风室内柔光知性人像 |  | @imGopalTiwari | [detail](https://opennana.com/awesome-prompt-gallery/ultra-realistic-netflix-style-indoor-portrait) |
-| 詹妮弗劳伦斯像花园秋千粉色短裙 |  | @BeautyShotX | [detail](https://opennana.com/awesome-prompt-gallery/jennifer-lawrence-lookalike-garden-swing-pink-dress) |
-| 伦敦大本钟与威斯敏斯特宫建筑蓝图 |  | @ZephyraLeigh | [detail](https://opennana.com/awesome-prompt-gallery/big-ben-palace-of-westminster-architectural-blueprint) |
-| 超写实时尚海报文字遮罩肖像 |  | @Maercihh | [detail](https://opennana.com/awesome-prompt-gallery/ultra-realistic-editorial-fashion-poster-typography-portrait) |
-| 好莱坞型男多板块奢侈时尚大片 |  | @Mind_Boticni | [detail](https://opennana.com/awesome-prompt-gallery/hollywood-male-luxury-fashion-editorial-consistency) |
-| 卧室深夜手机镜面自拍写实人像 |  | @Shinning1010 | [detail](https://opennana.com/awesome-prompt-gallery/realistic-bedroom-mirror-selfie-night-flash) |
-| 云朵品牌标志系列海报提示词 |  | @AIwithSynthia | [detail](https://opennana.com/awesome-prompt-gallery/cloud-logo-series-ai-prompt) |
-| 咖啡品牌超现实商业海报提示词 |  | @kingofdairyque | [detail](https://opennana.com/awesome-prompt-gallery/coffee-brand-surreal-commercial-poster-prompts) |
-| 哥特猫系狐系少女写实人像提示词 |  | @Shinning1010 | [detail](https://opennana.com/awesome-prompt-gallery/gothic-cat-fox-girl-realistic-portrait-prompt) |
-| 超写实影棚时尚大片人像摄影 |  | @mehvishs25 | [detail](https://opennana.com/awesome-prompt-gallery/ultra-realistic-editorial-fashion-studio-photography) |
-| 拉斯维加斯奢华赌场名媛人像 |  | @xRahultripathi | [detail](https://opennana.com/awesome-prompt-gallery/luxury-las-vegas-casino-asian-woman-portrait) |
 
 > README only shows the first 50 items. See `data/chatgpt-prompts.json` for the full archive.
