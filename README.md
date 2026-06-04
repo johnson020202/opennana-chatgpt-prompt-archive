@@ -5,10 +5,10 @@ An open archive of all prompts currently exposed by OpenNana's ChatGPT gallery.
 - Source page: https://opennana.com/awesome-prompt-gallery?model=ChatGPT
 - Source API: `https://api.opennana.com/api/prompts`
 - Sync schedule: every day at **00:00 Asia/Shanghai** via GitHub Actions
-- Reported by source: **1875**
-- Archived in this snapshot: **1875**
+- Reported by source: **1893**
+- Archived in this snapshot: **1893**
 - Failed this run: **0**
-- Fetched at: **2026-06-03T19:51:37.104Z**
+- Fetched at: **2026-06-04T18:20:00.129Z**
 
 ## Files
 
@@ -28,6 +28,24 @@ An open archive of all prompts currently exposed by OpenNana's ChatGPT gallery.
 | 春丽时尚优雅 cosplay 穿搭 |  | @underwoodxie96 | [detail](https://opennana.com/awesome-prompt-gallery/chun-li-fashionable-elegant-cosplay-info) |
 | 拳皇不知火舞时尚 cos 页 |  | @underwoodxie96 | [detail](https://opennana.com/awesome-prompt-gallery/the-king-of-fighters-mai-shiranui-fashion-cos-page) |
 | 韩美女博主短视频开场照 |  | @underwoodxie96 | [detail](https://opennana.com/awesome-prompt-gallery/korean-beauty-blogger-short-video-opening-shot) |
+| 20岁韩国女性时尚街头风3D插画 |  | @AvelyrahnAI | [detail](https://opennana.com/awesome-prompt-gallery/stylish-3d-korean-woman-streetwear-illustration) |
+| 时尚女模与微缩奢侈品包超现实大片 |  | @iamsofiaijaz | [detail](https://opennana.com/awesome-prompt-gallery/fashion-model-tiny-luxury-handbag-surreal-contrast) |
+| 繁华街头手持素描本的愤怒Q版少女 |  | @noorwithwifi | [detail](https://opennana.com/awesome-prompt-gallery/anime-chibi-girl-leather-jacket-sketchpad-urban-setting) |
+| 90年代一次性相机屋顶泳池抓拍人像 |  | @Chryzleenprompt | [detail](https://opennana.com/awesome-prompt-gallery/candid-disposable-camera-rooftop-pool-snapshot) |
+| 现代时尚编辑拼贴海报设计 |  | @saniaspeaks_ | [detail](https://opennana.com/awesome-prompt-gallery/modern-editorial-collage-poster-design) |
+| 黄金时段海滩高端时尚杂志排版海报 |  | @Shinning1010 | [detail](https://opennana.com/awesome-prompt-gallery/high-end-vertical-fashion-editorial-beach-poster) |
+| 梦幻优雅奢侈香水时尚杂志封面 |  | @ZephyraLeigh | [detail](https://opennana.com/awesome-prompt-gallery/elara-magazine-luxury-fashion-perfume-editorial) |
+| 坐在地板上的写实亚洲女性人像摄影 |  | @MrLarus | [detail](https://opennana.com/awesome-prompt-gallery/realistic-portrait-asian-woman-sitting-on-floor) |
+| 窗边阳光下的东亚女性写实手机自拍 |  | @john_my07 | [detail](https://opennana.com/awesome-prompt-gallery/ultra-photorealistic-east-asian-woman-smartphone-selfie) |
+| 日系写真深夜末班车中国网红少女 |  | @BubbleBrain | [detail](https://opennana.com/awesome-prompt-gallery/japanese-idol-fashion-late-night-train-portrait) |
+| 复古画图工具换装界面美学 |  | @MissDelulu9 | [detail](https://opennana.com/awesome-prompt-gallery/retro-ms-paint-outfit-builder-aesthetic) |
+| 韩系夏日时尚街拍拼接海报 |  | @Ciri_ai | [detail](https://opennana.com/awesome-prompt-gallery/korean-summer-fashion-street-photography-collage) |
+| 奢华高尔夫度假村女性写实人像 |  | @xRahultripathi | [detail](https://opennana.com/awesome-prompt-gallery/luxury-golf-lifestyle-portrait-asian-female) |
+| 3D叠层纸雕动漫英雄海报 |  | @Taaruk_ | [detail](https://opennana.com/awesome-prompt-gallery/3d-layered-papercraft-anime-hero-poster) |
+| 长银发紫眸忧郁动漫少女石凳背景 |  | @SimplyAnnisa | [detail](https://opennana.com/awesome-prompt-gallery/anime-girl-silver-hair-purple-eyes-stone-bench) |
+| 复古手绘速写本人物设计表 |  | @AiwithLariab | [detail](https://opennana.com/awesome-prompt-gallery/hand-drawn-sketchbook-character-sheet-design) |
+| 耐克鞋类广告海报设计 |  | @Strength04_X | [detail](https://opennana.com/awesome-prompt-gallery/nike-shoe-advertisement-poster-design) |
+| 传统韩国韩屋村街道水彩建筑速写 |  | @kingofdairyque | [detail](https://opennana.com/awesome-prompt-gallery/traditional-korean-hanok-village-watercolor-sketch) |
 | 金色时刻野花草地超写实人像 |  | @frametheory058 | [detail](https://opennana.com/awesome-prompt-gallery/ultra-realistic-golden-hour-wildflower-portrait) |
 | 传统日式水墨风浪人武士背影 |  | @SimplyAnnisa | [detail](https://opennana.com/awesome-prompt-gallery/traditional-japanese-sumie-samurai-ink-painting) |
 | 巴黎街头时尚女性与贵宾犬 |  | @ZephyraLeigh | [detail](https://opennana.com/awesome-prompt-gallery/stylish-woman-beret-poodle-paris-cafe) |
@@ -54,23 +72,5 @@ An open archive of all prompts currently exposed by OpenNana's ChatGPT gallery.
 | 西海龙王敖润史诗奇幻书籍封面 |  | @SimplyAnnisa | [detail](https://opennana.com/awesome-prompt-gallery/ao-run-west-sea-dragon-king-epic-fantasy-book-cover) |
 | 双体船网兜上的红衣女性探险纪实摄影 |  | @Chryzleenprompt | [detail](https://opennana.com/awesome-prompt-gallery/adventurous-woman-catamaran-film-snapshot) |
 | 手持3D立体油管图标写实摄影 |  | @AIwithSynthia | [detail](https://opennana.com/awesome-prompt-gallery/realistic-woman-hand-holding-3d-youtube-logo) |
-| 史诗级潮流街头动漫角色大合集 |  | @Taaruk_ | [detail](https://opennana.com/awesome-prompt-gallery/epic-anime-crossover-streetwear-squad-portrait) |
-| 跨越时空的童年与成年真实合影 |  | @derek_wall90176 | [detail](https://opennana.com/awesome-prompt-gallery/childhood-and-present-self-reunion-photo) |
-| 阿根廷国家足球队数字宣传海报 |  | @SimplyAnnisa | [detail](https://opennana.com/awesome-prompt-gallery/argentina-national-soccer-team-digital-promo-poster) |
-| 居家沙发东亚女性随性手机抓拍 |  | @Live_life_style | [detail](https://opennana.com/awesome-prompt-gallery/casual-smartphone-photo-east-asian-woman-sofa-apartment) |
-| 黑暗奇幻俯视水中坚毅女战士 |  | @Zyrellix | [detail](https://opennana.com/awesome-prompt-gallery/dark-fantasy-warrior-woman-icy-water-cinematic-portrait) |
-| 艾琳莫里亚蒂粉色办公室写真 |  | @KeorUnreal | [detail](https://opennana.com/awesome-prompt-gallery/erin-moriarty-pink-office-editorial) |
-| 超写实标志性运动时尚摄影大片 |  | @akkiwani703 | [detail](https://opennana.com/awesome-prompt-gallery/ultra-realistic-iconic-sports-fashion-masterpiece) |
-| 云端日落拼图路径持牌青年奇幻肖像 |  | @mon010_de | [detail](https://opennana.com/awesome-prompt-gallery/ultra-realistic-fantasy-portrait-young-man-ace-spades-clouds) |
-| 潮流剪贴簿风格南亚青年人像拼贴 |  | @de_mon010 | [detail](https://opennana.com/awesome-prompt-gallery/trendy-scrapbook-style-south-asian-man-collage) |
-| 潮流青少年Instagram里程碑庆典海报 |  | @OrhanGhazi65942 | [detail](https://opennana.com/awesome-prompt-gallery/instagram-milestone-celebration-poster-design) |
-| 赛博能量饮料未来感广告海报 |  | @noorwithwifi | [detail](https://opennana.com/awesome-prompt-gallery/cyber-boost-energy-drink-futuristic-poster) |
-| 高级街头时尚画报编辑风格海报设计 |  | @noorlewisx | [detail](https://opennana.com/awesome-prompt-gallery/premium-high-fashion-editorial-poster-prompt) |
-| 极简阳光房韩系杂志风时尚人像 |  | @ChillaiKalan__ | [detail](https://opennana.com/awesome-prompt-gallery/korean-editorial-fashion-portrait-minimalist-sunlit-room) |
-| 超写实幻想杂志封面水母长裙韩国女性 |  | @ZephyraLeigh | [detail](https://opennana.com/awesome-prompt-gallery/ultra-realistic-fantasy-editorial-magazine-cover-jellyfish-gown-korean-woman) |
-| 越南卧室东亚女学生智能手机纪实摄影 |  | @Ciri_ai | [detail](https://opennana.com/awesome-prompt-gallery/ultra-realistic-vietnamese-bedroom-schoolgirl-smartphone-photo) |
-| 棕色波波头女性精致韩系人像 |  | @Kashberg_0 | [detail](https://opennana.com/awesome-prompt-gallery/woman-orange-cardigan-brown-bob-korean-portrait) |
-| 奢华未来主义水族城市女性人像 |  | @xRahultripathi | [detail](https://opennana.com/awesome-prompt-gallery/luxury-futuristic-aquarium-city-portrait) |
-| 草地旋转牵手第一视角写实摄影 |  | @MissDelulu9 | [detail](https://opennana.com/awesome-prompt-gallery/ultra-realistic-candid-spinning-holding-hands-grass-field) |
 
 > README only shows the first 50 items. See `data/chatgpt-prompts.json` for the full archive.
