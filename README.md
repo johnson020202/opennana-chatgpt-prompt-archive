@@ -5,10 +5,10 @@ An open archive of all prompts currently exposed by OpenNana's ChatGPT gallery.
 - Source page: https://opennana.com/awesome-prompt-gallery?model=ChatGPT
 - Source API: `https://api.opennana.com/api/prompts`
 - Sync schedule: every day at **00:00 Asia/Shanghai** via GitHub Actions
-- Reported by source: **2377**
-- Archived in this snapshot: **2377**
+- Reported by source: **2415**
+- Archived in this snapshot: **2415**
 - Failed this run: **0**
-- Fetched at: **2026-06-14T17:24:20.855Z**
+- Fetched at: **2026-06-15T19:53:06.405Z**
 
 ## Files
 
@@ -22,6 +22,42 @@ An open archive of all prompts currently exposed by OpenNana's ChatGPT gallery.
 
 | Title | Tags | Source | Link |
 |---|---|---|---|
+| 和服少女榻榻米深夜写真肖像 |  | @BubbleBrain | [detail](https://opennana.com/awesome-prompt-gallery/japanese-kimono-boudoir-fashion-portrait) |
+| 海军蓝黑曜CCD滤镜都市冷奢风 |  | @liyue_ai | [detail](https://opennana.com/awesome-prompt-gallery/navy-obsidian-ccd-flash-urban-luxury) |
+| 复古印刷感橙皮冷萃店员海报 |  | @xiaoxiaodong01 | [detail](https://opennana.com/awesome-prompt-gallery/retro-print-orange-peel-cold-brew-poster) |
+| 科技精英男士时尚编辑风格人像 |  | @Sheldon056 | [detail](https://opennana.com/awesome-prompt-gallery/ultra-realistic-tech-founder-editorial-portrait) |
+| 足球传奇图标探索版豪华收藏品展示盒摄影 |  | @sebatheepan | [detail](https://opennana.com/awesome-prompt-gallery/football-legend-icon-discovery-edition-luxury-diorama) |
+| 传奇葡萄牙球星7号足球人像海报 |  | @SimplyAnnisa | [detail](https://opennana.com/awesome-prompt-gallery/legendary-portuguese-footballer-poster-7) |
+| 2026世界杯葡萄牙传奇7号手机壁纸 |  | @harboriis | [detail](https://opennana.com/awesome-prompt-gallery/portugal-2026-world-cup-legend-captain-smartphone-wallpaper) |
+| 传奇足球偶像建筑蓝图海军蓝草图肖像 |  | @jzaib4269 | [detail](https://opennana.com/awesome-prompt-gallery/legendary-football-icon-architectural-blueprint-portrait) |
+| 超写实旅游美食明信片合成摄影 |  | @Naiknelofar788 | [detail](https://opennana.com/awesome-prompt-gallery/hyper-realistic-travel-food-postcard-scene) |
+| 埃隆马斯克超现实主义双重性艺术人像 |  | @noorwithwifi | [detail](https://opennana.com/awesome-prompt-gallery/elon-musk-surreal-digital-portrait-art) |
+| 芙莉莲与菲伦西班牙球赛自拍插画 |  | @GlitterPixely | [detail](https://opennana.com/awesome-prompt-gallery/frieren-fern-spain-soccer-match-selfie) |
+| 葡萄牙传奇球星7号足球人像海报 |  | @Naiknelofar788 | [detail](https://opennana.com/awesome-prompt-gallery/legendary-portugal-footballer-7-portrait-poster) |
+| 梅西背影胜利庆祝足球海报 |  | @auqibhabib | [detail](https://opennana.com/awesome-prompt-gallery/messi-victory-celebration-sports-poster-artwork) |
+| 阿根廷10号球衣女孩街头壁画海报 |  | @Zyrellix | [detail](https://opennana.com/awesome-prompt-gallery/argentina-10-jersey-woman-urban-mural-2026) |
+| 夏日阳光韩风九宫格人像 |  | @Mind_Boticni | [detail](https://opennana.com/awesome-prompt-gallery/vibrant-summer-3x3-grid-photo-collage) |
+| 柯达胶片质感东亚女性拼贴相片 |  | @MissDelulu9 | [detail](https://opennana.com/awesome-prompt-gallery/kodak-portra-400-east-asian-woman-contact-sheet-collage) |
+| 国际艺术馆现代纸艺拼贴海报风 |  | @Adam38363368936 | [detail](https://opennana.com/awesome-prompt-gallery/international-art-museum-modern-paper-collage-poster-style) |
+| 超写实东亚女性时尚美容人像 |  | @auqibhabib | [detail](https://opennana.com/awesome-prompt-gallery/ultra-realistic-high-fashion-east-asian-woman-portrait) |
+| 超写实古典风红衣汉服美女人像 |  | @AiwithLariab | [detail](https://opennana.com/awesome-prompt-gallery/ultra-realistic-classical-chinese-fantasy-hanfu-photography) |
+| 极简奢华3D数字生日里程碑海报 |  | @Taaruk_ | [detail](https://opennana.com/awesome-prompt-gallery/luxury-minimalist-3d-birthday-milestone-poster) |
+| 俯视街头反差感发廊宣传海报 |  | @xiaoxiaodong01 | [detail](https://opennana.com/awesome-prompt-gallery/top-down-street-contrast-barbershop-poster) |
+| 超写实iPhone前置摄像头后台偶发自拍 |  | @saniaspeaks_ | [detail](https://opennana.com/awesome-prompt-gallery/ultra-realistic-iphone-backstage-accidental-selfie-prompt) |
+| 春日樱花秋千少女双重曝光电影感人像 |  | @Shinning1010 | [detail](https://opennana.com/awesome-prompt-gallery/cinematic-double-exposure-cherry-blossom-portrait) |
+| 黑色大G夜间超写实奢华氛围感肖像 |  | @SimplyAnnisa | [detail](https://opennana.com/awesome-prompt-gallery/ultra-realistic-g-wagon-night-luxury-y2k-portrait) |
+| 超写实DSLR电影感沙滩人像拼贴 |  | @AvelyrahnAI | [detail](https://opennana.com/awesome-prompt-gallery/ultra-realistic-dslr-cinematic-beach-photoshoot-collage) |
+| 深夜便利店日系写真时尚人像 |  | @BubbleBrain | [detail](https://opennana.com/awesome-prompt-gallery/photorealistic-japanese-fashion-convenience-store-night) |
+| 超现实苹果风情侣涂鸦手机锁屏壁纸 |  | @im_shahid7 | [detail](https://opennana.com/awesome-prompt-gallery/ultra-realistic-iphone-couple-doodle-wallpaper) |
+| 2026世界杯球星铁王座运动海报 |  | @ChillaiKalan__ | [detail](https://opennana.com/awesome-prompt-gallery/fifa-world-cup-2026-iron-throne-sports-poster) |
+| 黄金时段红墙边的孤独行者 |  | @bmx_ai13 | [detail](https://opennana.com/awesome-prompt-gallery/cinematic-urban-golden-hour-woman-red-wall) |
+| 草地读书的耳机少女动漫插画 |  | @Maercihh | [detail](https://opennana.com/awesome-prompt-gallery/anime-girl-reading-meadow-headphones) |
+| 品牌包装设计提案速览布局 |  | @MrLarus | [detail](https://opennana.com/awesome-prompt-gallery/brand-packaging-design-proposal-quick-view) |
+| 幼儿卡通风格三头身Q版角色 |  | @MissDelulu9 | [detail](https://opennana.com/awesome-prompt-gallery/toddler-cartoon-chibi-3-head-style) |
+| 2026世界杯Kpop偶像哥伦比亚球星贴纸卡 |  | @Kashberg_0 | [detail](https://opennana.com/awesome-prompt-gallery/panini-fifa-2026-kpop-colombia-sticker-card) |
+| 电影级超写实苹果耳机广告时尚情侣 |  | @ZephyraLeigh | [detail](https://opennana.com/awesome-prompt-gallery/cinematic-airpods-pro-commercial-photography-stylish-couple) |
+| 菱形开口折纸纹理男歌手应援海报 |  | @xiaoxiaodong01 | [detail](https://opennana.com/awesome-prompt-gallery/geometric-paper-cut-music-festival-fan-poster) |
+| 艺术街市木椅上的南亚女子写实肖像 |  | @noorlewisx | [detail](https://opennana.com/awesome-prompt-gallery/ultra-realistic-south-asian-woman-art-market-portrait) |
 | 好莱坞男模时尚艺术画报板块 |  | @Mind_Boticni | [detail](https://opennana.com/awesome-prompt-gallery/hollywood-male-model-fashion-art-panels) |
 | 韩国涂鸦足球海报CapCut风格壁画 |  | @Kashberg_0 | [detail](https://opennana.com/awesome-prompt-gallery/viral-south-korea-graffiti-capcut-style) |
 | 霓虹涂鸦画廊快照风格提示词 |  | @im_shahid7 | [detail](https://opennana.com/awesome-prompt-gallery/neon-doodle-gallery-snapshot-style-prompt) |
@@ -36,41 +72,5 @@ An open archive of all prompts currently exposed by OpenNana's ChatGPT gallery.
 | 极致写实时尚杂志封面拼贴 |  | @mon010_de | [detail](https://opennana.com/awesome-prompt-gallery/ultra-realistic-fashion-magazine-cover-collage) |
 | 鱼眼镜头世界杯酒吧预约海报视觉 |  | @xiaoxiaodong01 | [detail](https://opennana.com/awesome-prompt-gallery/fisheye-world-cup-bar-reservation-design) |
 | 清透留白感女性写真摄影提示词 |  | @xiaoxiaodong01 | [detail](https://opennana.com/awesome-prompt-gallery/bright-minimalist-female-portrait-prompt) |
-| 垂直4比5黑白电影感人像摄影提示词 |  | @MrLarus | [detail](https://opennana.com/awesome-prompt-gallery/cinematic-black-and-white-film-portrait-prompt) |
-| 紫光霓虹工作室人脸一致性社交媒体对比海报 |  | @MahnoorAi12 | [detail](https://opennana.com/awesome-prompt-gallery/face-consistency-social-media-comparison-neon-purple-studio) |
-| 山田收银员白天版写实人像 |  | @johnAGI168 | [detail](https://opennana.com/awesome-prompt-gallery/japanese-supermarket-cashier-yamada-realistic-portrait) |
-| 国际顶级时尚杂志封面感视觉 |  | @Adam38363368936 | [detail](https://opennana.com/awesome-prompt-gallery/top-fashion-magazine-cover-visual) |
-| 水彩风三分屏手机画框参考角色 |  | @Mind_Boticni | [detail](https://opennana.com/awesome-prompt-gallery/watercolor-split-screen-phone-frame-reference-character) |
-| 深夜调酒师危险感清俊人设 |  | @liyue_ai | [detail](https://opennana.com/awesome-prompt-gallery/late-night-bartender-dangerous-handsome-style) |
-| 韩式高端运动杂志封面风格男士半身人像 |  | @SimplyAnnisa | [detail](https://opennana.com/awesome-prompt-gallery/korean-style-premium-sports-magazine-cover-male-portrait) |
-| 咒术回战真人版首映礼写实摄影 |  | @Taaruk_ | [detail](https://opennana.com/awesome-prompt-gallery/jujutsu-kaisen-live-action-anime-premiere-photography) |
-| 史诗级足球巨星多重曝光海报 |  | @sha_zdiii | [detail](https://opennana.com/awesome-prompt-gallery/epic-football-superstar-triple-exposure-editorial-poster) |
-| 特朗普80岁生日3D立体纪念封面海报 |  | @xiaoxiaodong01 | [detail](https://opennana.com/awesome-prompt-gallery/trump-80th-birthday-3d-commemorative-cover-poster) |
-| 2026世界杯看台亚洲美女特写电视直播截图 |  | @johnAGI168 | [detail](https://opennana.com/awesome-prompt-gallery/2026-fifa-world-cup-fox-sports-broadcast-spectator-shot) |
-| 写实少年在皮克斯风格街道全力冲刺 |  | @de_mon010 | [detail](https://opennana.com/awesome-prompt-gallery/photorealistic-boy-sprinting-pixar-style-miniature) |
-| 五种电影色调城市街道摄影对比海报 |  | @bmx_ai13 | [detail](https://opennana.com/awesome-prompt-gallery/cinematic-film-genre-color-grading-comparison-poster) |
-| 极简时尚封面美学社论肖像 |  | @VoxcatAI | [detail](https://opennana.com/awesome-prompt-gallery/minimal-fashion-cover-aesthetic-voxcat) |
-| 顶级奢华酸奶品牌旗舰视觉大片 |  | @ElaraNoorAl8 | [detail](https://opennana.com/awesome-prompt-gallery/ultra-iconic-luxury-beverage-advertising-masterpiece) |
-| 甜酷活力世界杯足球宝贝海报 |  | @songguoxiansen | [detail](https://opennana.com/awesome-prompt-gallery/sweet-cool-world-cup-soccer-babe-poster) |
-| 世界杯球员通道足球宝贝运动写真 |  | @Mrpinecone888 | [detail](https://opennana.com/awesome-prompt-gallery/world-cup-soccer-girl-player-tunnel) |
-| 世界杯足球宝贝披国旗商业摄影 |  | @Mrpinecone888 | [detail](https://opennana.com/awesome-prompt-gallery/world-cup-soccer-babe-national-flag-commercial-photography) |
-| 世界杯足球宝贝高级时尚大片 |  | @Mrpinecone888 | [detail](https://opennana.com/awesome-prompt-gallery/world-cup-soccer-babe-high-fashion-editorial) |
-| 世界杯足球宝贝胜利庆祝海报 |  | @Mrpinecone888 | [detail](https://opennana.com/awesome-prompt-gallery/world-cup-soccer-babe-victory-celebration-poster) |
-| 世界杯足球宝贝时尚运动写真 |  | @Mrpinecone888 | [detail](https://opennana.com/awesome-prompt-gallery/world-cup-soccer-babe-fashion-sports-photoshoot) |
-| 世界杯足球宝贝深夜球场时尚大片 |  | @Mrpinecone888 | [detail](https://opennana.com/awesome-prompt-gallery/world-cup-football-babe-stadium-night-fashion) |
-| 足球宝贝赛场看台运动活力商业体育海报 |  | @Mrpinecone888 | [detail](https://opennana.com/awesome-prompt-gallery/world-cup-soccer-girl-stadium-poster) |
-| 高级时尚足球宝贝世界杯商业海报 |  | @Mrpinecone888 | [detail](https://opennana.com/awesome-prompt-gallery/high-fashion-soccer-babe-world-cup-commercial-poster) |
-| 世界杯足球宝贝看台应援海报 |  | @Mrpinecone888 | [detail](https://opennana.com/awesome-prompt-gallery/world-cup-soccer-cheerleader-stadium-poster) |
-| 世界杯足球宝贝高级应援高清摄影封面 |  | @Mrpinecone888 | [detail](https://opennana.com/awesome-prompt-gallery/world-cup-soccer-babe-stadium-photography) |
-| 甜酷潮流世界杯足球宝贝高清海报 |  | @Mrpinecone888 | [detail](https://opennana.com/awesome-prompt-gallery/sweet-cool-style-world-cup-soccer-baby-poster) |
-| 世界杯足球宝贝球场人像摄影 |  | @Mrpinecone888 | [detail](https://opennana.com/awesome-prompt-gallery/world-cup-football-babe-stadium-portrait) |
-| 高端时尚社论东亚女性半身人像 |  | @john_my07 | [detail](https://opennana.com/awesome-prompt-gallery/premium-fashion-editorial-east-asian-woman-portrait) |
-| 麦当劳时尚人像商业广告摄影 |  | @ZephyraLeigh | [detail](https://opennana.com/awesome-prompt-gallery/mcdonalds-fashion-advertising-hyperrealistic-photography) |
-| 未来感Z世代韩系时尚拼贴海报 |  | @Mind_Boticni | [detail](https://opennana.com/awesome-prompt-gallery/futuristic-gen-z-korean-fashion-collage) |
-| 俏皮宇宙马卡龙色系猫咪三岁生日海报 |  | @AiwithLariab | [detail](https://opennana.com/awesome-prompt-gallery/playful-cosmic-pastel-cat-birthday-poster) |
-| 足球传奇史诗奇幻海报设计 |  | @Taaruk_ | [detail](https://opennana.com/awesome-prompt-gallery/cinematic-fantasy-football-legacy-poster) |
-| 悬疑影视感咖啡新品海报窥视视角 |  | @xiaoxiaodong01 | [detail](https://opennana.com/awesome-prompt-gallery/suspense-cinematic-coffee-poster-voyeur-style) |
-| 户外冷淡风纹身女孩街头人像 |  | @johnAGI168 | [detail](https://opennana.com/awesome-prompt-gallery/ultra-realistic-outdoor-asian-tattoo-girl-portrait) |
-| 虚幻引擎3D渲染风格白色背景保持角色外观 |  | @Kashberg_0 | [detail](https://opennana.com/awesome-prompt-gallery/unreal-engine-3d-render-style-white-background) |
 
 > README only shows the first 50 items. See `data/chatgpt-prompts.json` for the full archive.
