@@ -5,10 +5,10 @@ An open archive of all prompts currently exposed by OpenNana's ChatGPT gallery.
 - Source page: https://opennana.com/awesome-prompt-gallery?model=ChatGPT
 - Source API: `https://api.opennana.com/api/prompts`
 - Sync schedule: every day at **00:00 Asia/Shanghai** via GitHub Actions
-- Reported by source: **6711**
-- Archived in this snapshot: **6711**
+- Reported by source: **7196**
+- Archived in this snapshot: **7196**
 - Failed this run: **0**
-- Fetched at: **2026-08-03T18:26:51.146Z**
+- Fetched at: **2026-08-04T18:29:05.043Z**
 
 ## Files
 
@@ -22,55 +22,55 @@ An open archive of all prompts currently exposed by OpenNana's ChatGPT gallery.
 
 | Title | Tags | Source | Link |
 |---|---|---|---|
-| 专业装修协作平台高保真桌面端工作台 | UI设计, 室内装修, 管理系统, 户型设计 | - | [detail](https://opennana.com/awesome-prompt-gallery/professional-renovation-collaboration-workbench) |
-| 智慧农业合作社数字化种植管理 SaaS 界面 | 智慧农业, UI设计, 数据看板, 种植管理 | - | [detail](https://opennana.com/awesome-prompt-gallery/smart-agriculture-saas-ui-design) |
-| 智能连锁餐饮后厨协同管理系统界面设计 | UI设计, 后厨系统, 智能调度, 数据看板 | - | [detail](https://opennana.com/awesome-prompt-gallery/smart-restaurant-kitchen-management-ui) |
-| 墨香校园二手书交换平台高保真UI设计 | UI设计, 二手书, 校园社区, 极简风 | - | [detail](https://opennana.com/awesome-prompt-gallery/ink-campus-book-exchange-ui) |
-| 粤语学习高保真UI界面设计方案 | UI设计, 粤语学习, 高保真, 极简风 | - | [detail](https://opennana.com/awesome-prompt-gallery/cantonese-learning-app-ui-design) |
-| 仲夏雨后滨水之约：今夜沿河慢慢走 | 城市夜景, 商业海报, 氛围感, 滨水步道 | - | [detail](https://opennana.com/awesome-prompt-gallery/summer-night-waterfront-walk) |
-| 灯火阑珊处的老街烟火气纪实海报 | 纪实感, 烟火气, 老街景, 商业感 | - | [detail](https://opennana.com/awesome-prompt-gallery/old-street-night-life-poster) |
-| 夜色开摊孔版印刷市集海报 | 孔版印刷, 夜间市集, 现代民艺, 粗颗粒感 | - | [detail](https://opennana.com/awesome-prompt-gallery/night-market-risograph-poster) |
-| 极简光影：穿过光，遇见夜 | 光影, 极简, 氛围, 构图 | - | [detail](https://opennana.com/awesome-prompt-gallery/minimalist-light-night-walk) |
-| 城市夜游裸眼3D创意转角巨幕海报 | 裸眼3D, 极简风, 城市夜游, 视觉冲击 | - | [detail](https://opennana.com/awesome-prompt-gallery/city-night-tour-3d-billboard) |
-| 掌心围圆：月白陶土中秋艺术海报 | 中秋, 浮雕, 极简, 陶艺 | - | [detail](https://opennana.com/awesome-prompt-gallery/palm-circle-clay-poster) |
-| 每一份抵达都让圆满更近的装置艺术 | 中秋, 极简, 装置, 亚克力 | - | [detail](https://opennana.com/awesome-prompt-gallery/mid-autumn-reunion-installation) |
-| 中秋深夜公交站父女重逢暖心瞬间 | 中秋, 团圆, 温情, 海报 | - | [detail](https://opennana.com/awesome-prompt-gallery/mid-autumn-reunion-bus-stop) |
-| 瑞士网格下的团圆四部曲海报 | 中秋, 极简, 海报, 团圆 | - | [detail](https://opennana.com/awesome-prompt-gallery/swiss-grid-reunion-steps-poster) |
-| 登月阶梯：提灯向月的童心海报 | 中秋节, 字体设计, 极简主义, 创意海报 | - | [detail](https://opennana.com/awesome-prompt-gallery/moon-staircase-child-lantern-poster) |
-| 墨绿光影中秋归家温情橱窗海报 | 中秋, 极简, 橱窗, 海报 | - | [detail](https://opennana.com/awesome-prompt-gallery/mid-autumn-homecoming-window-poster) |
-| 中秋归途：蓝调时刻的江面守望 | 中秋, 归乡, 蓝调, 江南 | - | [detail](https://opennana.com/awesome-prompt-gallery/mid-autumn-homecoming-blue-hour) |
-| 仲秋天台四家邻里拼桌共享团圆海报 | 中秋, 团圆, 邻里, 天台 | - | [detail](https://opennana.com/awesome-prompt-gallery/mid-autumn-rooftop-community-reunion) |
-| 月影格窗：中秋极简主义室内美学海报 | 极简, 中秋, 光影, 禅意 | - | [detail](https://opennana.com/awesome-prompt-gallery/mid-autumn-minimalist-moonlight) |
-| 桂香落月：中秋茶饮感官意境海报 | 中秋, 桂花, 乌龙茶, 微距 | - | [detail](https://opennana.com/awesome-prompt-gallery/osmanthus-moon-tea-poster) |
-| 蛋黄明月藏深情：中秋极简美学海报 | 中秋节, 月饼, 微距, 极简 | - | [detail](https://opennana.com/awesome-prompt-gallery/mooncake-full-moon-aesthetic) |
-| 雨后巷弄深处那一盏守候的暖灯 | 中秋, 归家, 叙事感, 蓝调 | - | [detail](https://opennana.com/awesome-prompt-gallery/mid-autumn-homecoming-alley-light) |
-| 中秋汉字建筑装置围坐成圆海报 | 中秋, 海报, 建筑, 极简 | - | [detail](https://opennana.com/awesome-prompt-gallery/mid-autumn-character-architecture-poster) |
-| 纸雕月落成席：中秋团圆意象海报 | 中秋, 纸雕, 极简, 创意 | - | [detail](https://opennana.com/awesome-prompt-gallery/paper-carving-moon-table-mid-autumn) |
-| 这一桌都是团圆：中秋社区共聚海报 | 中秋节, 团圆饭, 极简风, 俯拍 | - | [detail](https://opennana.com/awesome-prompt-gallery/mid-autumn-community-reunion-poster) |
-| 思念归途：深黛蓝织物上的中秋刺绣 | 中秋, 刺绣, 极简, 黛蓝 | - | [detail](https://opennana.com/awesome-prompt-gallery/longing-home-indigo-embroidery) |
-| 蓝调天台共赏明月的中秋思念海报 | 中秋, 蓝调, 治愈, 氛围 | - | [detail](https://opennana.com/awesome-prompt-gallery/mid-autumn-rooftop-moonlight-call) |
-| 三色孔版几何重构中秋海报 | 极简, 中秋, 孔版, 几何 | - | [detail](https://opennana.com/awesome-prompt-gallery/riso-geometric-mid-autumn-poster) |
-| 城市巨幕中秋玻璃月亮三维海报 | 中秋节, 裸眼3D, 玻璃感, 城市景观 | - | [detail](https://opennana.com/awesome-prompt-gallery/city-billboard-glass-moon-3d) |
-| 月满人间团圆共赏中秋甜意 | 中秋节, 全家福, 商业海报, 现代感 | - | [detail](https://opennana.com/awesome-prompt-gallery/moon-filled-world-mid-autumn-sweetness) |
-| 匠心纸艺五层长卷描绘山河锦绣 | 纸雕, 国庆, 极简, 等轴测 | - | [detail](https://opennana.com/awesome-prompt-gallery/paper-cut-national-day-landscape) |
-| 城市巨幕折射山河光影国庆海报 | 国庆, 三维, 极简, 城市 | - | [detail](https://opennana.com/awesome-prompt-gallery/city-screen-national-day-poster) |
-| 国庆佳节全家出游温馨商业海报 | 国庆节, 全家出游, 高铁站, 商业海报 | - | [detail](https://opennana.com/awesome-prompt-gallery/national-day-family-travel-poster) |
-| 晨光照耀下的西北朱红公路与赭石山脊 | 西北, 公路, 辽阔, 海报 | - | [detail](https://opennana.com/awesome-prompt-gallery/northwest-vermilion-road-ochre-ridge) |
-| 国庆邻里长桌宴：家门口的真实团圆 | 邻里, 国庆, 纪实, 长桌宴 | - | [detail](https://opennana.com/awesome-prompt-gallery/national-day-neighborhood-feast) |
-| 国庆建筑海报：家国同心的现代美学空间 | 建筑设计, 汉字美学, 极简风格, 国庆海报 | - | [detail](https://opennana.com/awesome-prompt-gallery/national-day-architectural-poster-homeland) |
-| 蓝调时刻下共同托举的城市节奏国庆海报 | 国庆, 城市, 蓝调, 极简 | - | [detail](https://opennana.com/awesome-prompt-gallery/urban-rhythm-national-day-poster) |
-| 晨光下的致敬：平凡岗位凝聚向上力量 | 国庆海报, 劳动者, 创意光影, 简约风格 | - | [detail](https://opennana.com/awesome-prompt-gallery/tribute-in-morning-light) |
-| 国庆假期生活碎片九宫格拼贴海报 | 拼贴画, 国庆节, 拍立得, 治愈系 | - | [detail](https://opennana.com/awesome-prompt-gallery/national-day-life-collage) |
-| 三色孔版印刷下的山河列车复古国庆海报 | 孔版印刷, 复古海报, 国庆主题, 极简风格 | - | [detail](https://opennana.com/awesome-prompt-gallery/vintage-risograph-national-day-train-poster) |
-| 穿越双十一红色购物巨门之境 | 双十一, 极简风, 酒红色, 空间感 | - | [detail](https://opennana.com/awesome-prompt-gallery/double-11-red-shopping-gate) |
-| 双11购物清单冲刺终点极简海报 | 双十一, 购物车, 极简风, 商业摄影 | - | [detail](https://opennana.com/awesome-prompt-gallery/double-11-shopping-cart-sprint) |
-| 瑞士主义双11购物指南极简海报 | 瑞士风, 极简主义, 购物清单, 平面设计 | - | [detail](https://opennana.com/awesome-prompt-gallery/swiss-style-double-11-guide) |
-| 双十一真实瞬间朋友客厅拆箱海报 | 双十一, 拆箱, 纪实感, 朋友 | - | [detail](https://opennana.com/awesome-prompt-gallery/double-11-unboxing-real-moment) |
-| 等距纸雕艺术双11购物好物之城海报 | 纸雕, 双11, 等距, 海报 | - | [detail](https://opennana.com/awesome-prompt-gallery/double-11-paper-city-poster) |
-| 城市巨幕震撼来袭：双11红盒破屏瞬间 | 裸眼3D, 双11, 极简风, 城市景观 | - | [detail](https://opennana.com/awesome-prompt-gallery/double-11-red-box-breaking-screen) |
-| 东方极简双十一朱红留白海报 | 极简, 东方, 留白, 海报 | - | [detail](https://opennana.com/awesome-prompt-gallery/oriental-minimalist-double-11-poster) |
-| 极简粗野主义双十一买字负空间海报 | 粗野主义, 负空间, 双十一, 极简风 | - | [detail](https://opennana.com/awesome-prompt-gallery/neo-brutalism-double-11-poster) |
-| 双11物流分拣中心夜间作业宽幅海报 | 物流仓储, 双十一, 工业风, 极简主义 | - | [detail](https://opennana.com/awesome-prompt-gallery/double-11-logistics-night-sorting) |
-| 复古像素风双十一数字互动海报 | 像素风, 双十一, 复古感, 互动感 | - | [detail](https://opennana.com/awesome-prompt-gallery/retro-pixel-double-11-poster) |
+| 极简暗调西梅礼盒品牌视觉大片 | 西梅, 礼盒, 暗调, 品牌 | - | [detail](https://opennana.com/awesome-prompt-gallery/premium-dark-prune-gift-kv) |
+| 少女感精致草莓鲜果盒品牌KV海报 | 草莓, 海报, 商业, 清新 | - | [detail](https://opennana.com/awesome-prompt-gallery/girlish-refined-strawberry-box-brand-kv) |
+| 绿野轻食派：牛油果品牌视觉社交封面 | 牛油果, 轻食风, 商业图, 质感美 | - | [detail](https://opennana.com/awesome-prompt-gallery/green-light-food-avocado-social-cover) |
+| 晨光熠熠：柑橘产地直供超宽品牌视觉KV | 品牌KV, 柑橘鲜果, 极简风, 超宽屏 | - | [detail](https://opennana.com/awesome-prompt-gallery/morning-sunlight-citrus-brand-kv) |
+| 夏末桃礼官网首屏品牌视觉KV | 水蜜桃, 礼盒, 留白, 官网 | - | [detail](https://opennana.com/awesome-prompt-gallery/late-summer-peach-gift-kv) |
+| 海岛晨光下的椰青清凉度假风商业KV | 商业摄影, 夏日清凉, 极简美学, 品牌视觉 | - | [detail](https://opennana.com/awesome-prompt-gallery/hainan-coconut-summer-vacation-kv) |
+| 极简蓝莓鲜果高级感品牌社媒视觉KV | 蓝莓, 高级感, 品牌KV, 极简风 | - | [detail](https://opennana.com/awesome-prompt-gallery/premium-blueberry-brand-kv) |
+| 阳光玫瑰青提冷链质感品牌KV封面 | 商业摄影, 阳光玫瑰, 冷链质感, 品牌视觉 | - | [detail](https://opennana.com/awesome-prompt-gallery/shine-muscat-brand-kv) |
+| 奢华车厘子礼盒高端节令果礼视觉 | 车厘子, 高端感, 礼盒装, 商业摄影 | - | [detail](https://opennana.com/awesome-prompt-gallery/luxury-cherry-gift-box-premium-visual) |
+| 品牌焕新视觉：外壳退场与价值登场 | 品牌感, 极简风, 发布会, 产品秀 | - | [detail](https://opennana.com/awesome-prompt-gallery/brand-renewal-value-reveal) |
+| 连续生长再启新程：品牌年度发布会主视觉 | 发布会, 极简风, 装置艺术, 品牌感 | - | [detail](https://opennana.com/awesome-prompt-gallery/annual-brand-launch-visual) |
+| 观点落下回响开始发布会主视觉 | 发布会, 极简风, 工业感, 机械臂 | - | [detail](https://opennana.com/awesome-prompt-gallery/echo-starts-launch-visual) |
+| 体系焕新：五色阶梯能力矩阵发布会主视觉 | 发布会, 极简风, 商务感, 3D渲染 | - | [detail](https://opennana.com/awesome-prompt-gallery/system-renewal-five-pillar-matrix) |
+| 极简主义品牌战略发布会核心视觉 | 极简风, 发布会, 工业感, 商务感 | - | [detail](https://opennana.com/awesome-prompt-gallery/minimalist-brand-launch-visual) |
+| 发布会倒计时：重要一页此刻翻开 | 倒计时, 极简风, 纸张感, 发布会 | - | [detail](https://opennana.com/awesome-prompt-gallery/launch-countdown-important-page) |
+| 从构想到落地的纸构艺术主视觉 | 设计, 制造, 极简, 构想 | - | [detail](https://opennana.com/awesome-prompt-gallery/from-concept-to-reality-paper-art) |
+| 工业美学精密铝合金系统升级发布会主视觉 | 工业风, 发布会, 金属感, 极简 | - | [detail](https://opennana.com/awesome-prompt-gallery/industrial-tech-launch-visual) |
+| 深蓝幕布下的神秘新品发布海报 | 产品发布, 极简风格, 舞台摄影, 海报设计 | - | [detail](https://opennana.com/awesome-prompt-gallery/mysterious-product-launch-poster) |
+| 极简科技新品发布会主视觉哑光黑银封签 | 新品发布, 科技感, 极简风, 写实摄影 | - | [detail](https://opennana.com/awesome-prompt-gallery/minimalist-tech-launch-visual) |
+| 琥珀流光酸甜火候中式餐饮海报 | 美食, 排骨, 微距, 海报 | - | [detail](https://opennana.com/awesome-prompt-gallery/amber-glaze-pork-ribs-poster) |
+| 极简混凝土空间叙事：跨越边界的可能 | 极简风, 建筑感, 商务感, 空间感 | - | [detail](https://opennana.com/awesome-prompt-gallery/minimalist-concrete-boundary-narrative) |
+| 岁月留痕的岩壁与坚定不移的方向 | 极简, 质感, 品牌, 自然 | - | [detail](https://opennana.com/awesome-prompt-gallery/eternal-rock-direction) |
+| 靛蓝纸艺积木成山：极简主义品牌视觉 | 纸雕, 极简, 商务, 抽象 | - | [detail](https://opennana.com/awesome-prompt-gallery/indigo-paper-mountain) |
+| 精密黄铜齿轮组S型传动品牌视觉大片 | 工业风, 精密感, 金属感, 专业感 | - | [detail](https://opennana.com/awesome-prompt-gallery/precision-brass-gears-brand-kv) |
+| 守住核心扩展影响品牌视觉海报 | 品牌感, 极简风, 螺旋线, 高级感 | - | [detail](https://opennana.com/awesome-prompt-gallery/brand-core-expansion-kv) |
+| 精准校准：四色叠合构筑品牌视觉核心 | 印刷工艺, 品牌视觉, 极简主义, 精准对齐 | - | [detail](https://opennana.com/awesome-prompt-gallery/precision-calibration-brand-visual) |
+| 现代主义棱镜折射光谱品牌视觉大片 | 极简主义, 品牌视觉, 棱镜折射, 现代建筑 | - | [detail](https://opennana.com/awesome-prompt-gallery/modern-prism-spectrum-brand-visual) |
+| 晨光映照下的四格平凡生活纪实 | 纪实摄影, 人本温度, 品牌海报, 晨光氛围 | - | [detail](https://opennana.com/awesome-prompt-gallery/morning-light-daily-life-documentary) |
+| 同心构筑稳稳向前企业品牌海报 | 商务, 极简, 建筑, 品牌 | - | [detail](https://opennana.com/awesome-prompt-gallery/synergistic-brand-bridge-poster) |
+| 蟹月小馆金汤蟹粉豆腐商业美食海报 | 蟹粉豆腐, 江南菜, 美食摄影, 商业海报 | - | [detail](https://opennana.com/awesome-prompt-gallery/xieyue-golden-crab-roe-tofu-poster) |
+| 盐火堂客家古法盐焗鸡品牌海报 | 盐焗鸡, 美食摄影, 客家菜, 餐饮海报 | - | [detail](https://opennana.com/awesome-prompt-gallery/yan-huo-tang-hakka-salt-baked-chicken-poster) |
+| 牧场一刻原制高钙奶酪棒商业海报 | 奶酪棒, 商业摄影, 极简风, 海报设计 | - | [detail](https://opennana.com/awesome-prompt-gallery/pasture-moment-cheese-stick-poster) |
+| 桂下金露：秋日午后的琥珀流光 | 桂花糖, 中式风, 商业图, 琥珀色 | - | [detail](https://opennana.com/awesome-prompt-gallery/osmanthus-gold-dew-amber-flow) |
+| 深夜街头烟火气：丸町九号章鱼烧海报 | 章鱼烧, 美食摄影, 海报设计, 日式街头 | - | [detail](https://opennana.com/awesome-prompt-gallery/marumachi-no9-takoyaki-poster) |
+| 酥条作中式糕点极简风商业摄影海报 | 商业摄影, 沙琪玛, 中式点心, 极简主义 | - | [detail](https://opennana.com/awesome-prompt-gallery/sutiaozuo-minimalist-pastry-poster) |
+| 极简美学果实静止冻干草莓海报 | 冻干草莓, 微距摄影, 商业海报, 极简风格 | - | [detail](https://opennana.com/awesome-prompt-gallery/minimalist-fruit-static-strawberry-poster) |
+| 春笋灶品牌海报：江南慢炖腌笃鲜的极致鲜味 | 腌笃鲜, 春笋, 江南风, 美食摄影 | - | [detail](https://opennana.com/awesome-prompt-gallery/chunsun-zao-yanduxian-poster) |
+| 团圆米仓传统八宝饭极简主义海报 | 八宝饭, 新中式, 美食, 海报 | - | [detail](https://opennana.com/awesome-prompt-gallery/tuanyuan-micang-traditional-rice-poster) |
+| 汉口清晨热干面商业海报：搅拌出的江城烟火气 | 热干面, 商业摄影, 汉口风味, 极简海报 | - | [detail](https://opennana.com/awesome-prompt-gallery/wuhan-noodles-commercial-poster) |
+| 团圆如约而至：中式年货篮商业海报 | 年货节, 商业海报, 纪实摄影, 温暖家居 | - | [detail](https://opennana.com/awesome-prompt-gallery/reunion-cny-basket-poster) |
+| 极简硬核三合一快充数据线天猫搜索主图 | 快充款, 三合一, 安卓用, 结构感 | - | [detail](https://opennana.com/awesome-prompt-gallery/minimalist-hardcore-3-in-1-fast-charge-cable) |
+| 夏日轻盈透气印花修身T恤天猫主图 | 夏日上新, 修身短袖, 亲肤面料, 潮流印花 | - | [detail](https://opennana.com/awesome-prompt-gallery/summer-soft-printed-slim-tshirt) |
+| 冬季长辈礼赠全玻通透煮茶壶套装 | 养生壶, 煮茶器, 长辈礼, 极简风 | - | [detail](https://opennana.com/awesome-prompt-gallery/winter-gift-glass-tea-pot) |
+| 精致护理射频美容仪金属探头礼遇季主图 | 美容仪, 射频仪, 金属感, 礼遇季 | - | [detail](https://opennana.com/awesome-prompt-gallery/rf-beauty-device-gift-season) |
+| 父亲节高端往复式剃须刀参数化主图 | 往复式, 剃须刀, 父亲节, 参数化 | - | [detail](https://opennana.com/awesome-prompt-gallery/premium-reciprocating-shaver-fathers-day) |
+| 柔焦细网便携散粉盒 | 便携盒, 混油皮, 细网格, 控油 | - | [detail](https://opennana.com/awesome-prompt-gallery/soft-focus-mesh-powder-box) |
+| 锁鲜泵头双瓶囤货视觉 | 卸妆油, 囤货装, 通勤风, 泵头款 | - | [detail](https://opennana.com/awesome-prompt-gallery/fresh-pump-double-bottle-stockup) |
+| 加厚折叠收纳箱单只装高效率整理 | 收纳箱, 折叠式, 主图款, 租房用 | - | [detail](https://opennana.com/awesome-prompt-gallery/thick-folding-storage-box-single) |
+| 端午手作：扎紧这一结，也系住人间牵挂 | 端午节, 粽子, 极简风, 海报设计 | - | [detail](https://opennana.com/awesome-prompt-gallery/tying-the-knot-of-longing) |
+| 破浪入水那一刻的端午龙舟力量 | 龙舟, 端午, 特写, 极简 | - | [detail](https://opennana.com/awesome-prompt-gallery/dragon-boat-power-moment) |
 
 > README only shows the first 50 items. See `data/chatgpt-prompts.json` for the full archive.
