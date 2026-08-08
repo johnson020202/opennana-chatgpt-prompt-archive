@@ -5,10 +5,10 @@ An open archive of all prompts currently exposed by OpenNana's ChatGPT gallery.
 - Source page: https://opennana.com/awesome-prompt-gallery?model=ChatGPT
 - Source API: `https://api.opennana.com/api/prompts`
 - Sync schedule: every day at **00:00 Asia/Shanghai** via GitHub Actions
-- Reported by source: **7933**
-- Archived in this snapshot: **7933**
+- Reported by source: **8008**
+- Archived in this snapshot: **8008**
 - Failed this run: **0**
-- Fetched at: **2026-08-07T17:22:18.511Z**
+- Fetched at: **2026-08-08T17:17:28.258Z**
 
 ## Files
 
@@ -48,29 +48,29 @@ An open archive of all prompts currently exposed by OpenNana's ChatGPT gallery.
 | 一轴阅古今：北京文旅品牌视觉大片 | 北京中轴, 城市漫游, 品牌视觉, 古今交融 | - | [detail](https://opennana.com/awesome-prompt-gallery/reading-history-on-the-axis) |
 | 禅意雅致桂花乌龙茶礼盒品牌社交媒体视觉大片 | 品牌视觉, 禅意茶道, 礼盒设计, 商业摄影 | - | [detail](https://opennana.com/awesome-prompt-gallery/zen-osmanthus-oolong-tea-kv) |
 | 尊贵夜宴感桂花米酒品牌全屏视觉大片 | 品牌KV, 桂花酒, 极简风, 质感黑 | - | [detail](https://opennana.com/awesome-prompt-gallery/luxury-night-banquet-osmanthus-wine-kv) |
+| 确认之前再核对一次金融安全公益海报 | 金融, 安全, 写实, 公益 | - | [detail](https://opennana.com/awesome-prompt-gallery/check-before-confirm-safety-poster) |
+| 财富管理艺术：分清远近的稳步规划美学 | 金融美学, 极简风格, 财富管理, 专业主义 | - | [detail](https://opennana.com/awesome-prompt-gallery/wealth-management-planning-art) |
+| 专业理性金融服务方案讲解纪实海报 | 金融服务, 极简风格, 品牌海报, 理性专业 | - | [detail](https://opennana.com/awesome-prompt-gallery/professional-rational-financial-service-poster) |
+| 理性家庭财务规划：先分用途再做安排 | 理财, 家庭, 海报, 极简 | - | [detail](https://opennana.com/awesome-prompt-gallery/rational-family-financial-planning) |
+| 坐轮渡读武汉：江城漫游丝网版画海报 | 丝网版画, 武汉文旅, 扁平插画, 城市名片 | - | [detail](https://opennana.com/awesome-prompt-gallery/wuhan-ferry-screen-print-poster) |
+| 鹤望武汉：高端分层纸雕江城山水 | 纸雕, 插画, 武汉, 国风 | - | [detail](https://opennana.com/awesome-prompt-gallery/he-wang-wuhan-paper-cut) |
+| 东湖慢线等距微缩治愈系品牌插画 | 等距, 插画, 东湖, 清新 | - | [detail](https://opennana.com/awesome-prompt-gallery/east-lake-slow-route-isometric) |
+| 武汉东湖樱花季：春汀花事文旅插画 | 武汉, 樱花, 水彩, 东湖 | - | [detail](https://opennana.com/awesome-prompt-gallery/wuhan-east-lake-cherry-blossom-poster) |
+| 千年编钟回响荆楚文化现代水墨海报 | 荆楚文化, 现代水墨, 曾侯乙, 文博设计 | - | [detail](https://opennana.com/awesome-prompt-gallery/ancient-bells-echo-jingchu-ink-poster) |
+| 汉口行间：瑞士网格下的武汉老街建筑插画 | 建筑线描, 瑞士网格, 武汉老街, 城市漫步 | - | [detail](https://opennana.com/awesome-prompt-gallery/hankou-hangjian-swiss-grid-wuhan-street) |
+| 锦绣江城：两江灯语刺绣风夜航插画 | 刺绣风, 武汉, 拼贴画, 国潮 | - | [detail](https://opennana.com/awesome-prompt-gallery/embroidered-wuhan-night-voyage) |
+| 烟火武汉：过早集油画棒创意插画 | 武汉, 热干面, 油画棒, 插画 | - | [detail](https://opennana.com/awesome-prompt-gallery/wuhan-fireworks-oil-pastel) |
+| 现代木刻版画：跨越长江的城市力量 | 木刻版画, 武汉大桥, 城市海报, 工业美学 | - | [detail](https://opennana.com/awesome-prompt-gallery/wuhan-bridge-power-woodcut) |
+| 武汉拾景：一日穿行江湖城的当代长卷 | 武汉, 长卷, 新工笔, 插画 | - | [detail](https://opennana.com/awesome-prompt-gallery/wuhan-shijing-journey-scroll) |
+| 大唐风华御香师百蕊闻心幻想写真 | 唐风, 仙侠, 御香师, 唯美 | - | [detail](https://opennana.com/awesome-prompt-gallery/tang-dynasty-perfumer-portrait) |
+| 烟藕轻罗听潮使：唐风仙侠湖亭之影 | 唐风, 仙侠, 汉服, 唯美 | - | [detail](https://opennana.com/awesome-prompt-gallery/smoke-lotus-silk-tide-envoy) |
+| 盛唐幻梦：宫苑花笺使回眸一瞬 | 唐风, 仙气, 写真, 唯美 | - | [detail](https://opennana.com/awesome-prompt-gallery/tang-fantasy-palace-messenger) |
+| 大唐风华：凤箫声动春宴仙门乐伶写真 | 唐风, 仙门, 写真, 唯美 | - | [detail](https://opennana.com/awesome-prompt-gallery/tang-dynasty-fantasy-musician) |
+| 栖霞宗护山阵师：石阶之上的端丽守护者 | 唐风, 阵法师, 仙侠, 御姐 | - | [detail](https://opennana.com/awesome-prompt-gallery/xixia-sect-gate-guardian) |
+| 金桂藏秋：唐风仙侠少女酿露图 | 唐风, 仙侠, 秋日, 少女 | - | [detail](https://opennana.com/awesome-prompt-gallery/golden-laurel-autumn-dew-maiden) |
 | 温柔父爱呵护：出水后的第一道温暖怀抱 | 婴儿洗浴, 父子温情, 家居海报, 极简风格 | - | [detail](https://opennana.com/awesome-prompt-gallery/gentle-father-love-warm-embrace) |
 | 亲子成长瞬间：自己探索与身后守护 | 亲子, 育儿, 海报, 极简 | - | [detail](https://opennana.com/awesome-prompt-gallery/parenting-growth-exploration-guard) |
 | 慢慢长大好好记录母婴成长纪念海报 | 母婴, 纪实, 简约, 俯拍 | - | [detail](https://opennana.com/awesome-prompt-gallery/record-growth-baby-poster) |
 | 都会雅绅皮鞋品牌高级杂志感视觉封面 | 商务感, 极简风, 质感大片, 产品摄影 | - | [detail](https://opennana.com/awesome-prompt-gallery/metropolitan-gentleman-shoe-cover) |
-| 雾粉轻奢皮具品牌社媒宫格视觉大片 | 轻奢风, 商业感, 品牌视觉, 极简主义 | - | [detail](https://opennana.com/awesome-prompt-gallery/luxury-leather-grid-visual) |
-| 都市利落风长款风衣品牌开屏视觉 | 品牌视觉, 开屏海报, 都市简约, 质感大片 | - | [detail](https://opennana.com/awesome-prompt-gallery/urban-sharp-trench-coat-brand-kv) |
-| 轻奢针织套装横版品牌官网首屏视觉 | 轻奢, 针织, 留白, 横版 | - | [detail](https://opennana.com/awesome-prompt-gallery/light-luxury-knit-brand-kv) |
-| 都会奢华乐福鞋21:9品牌KV大屏视觉 | 乐福鞋, 品牌KV, 超宽屏, 杂志感 | - | [detail](https://opennana.com/awesome-prompt-gallery/urban-luxury-loafers-kv) |
-| 雾粉轻奢丝绸品牌KV社媒封面大片 | 轻奢风, 丝绸感, 品牌KV, 雾粉色 | - | [detail](https://opennana.com/awesome-prompt-gallery/mist-pink-silk-scarf-brand-kv) |
-| 都市利落风格时尚双肩包品牌视觉海报 | 品牌KV, 都市风, 极简主义, 产品海报 | - | [detail](https://opennana.com/awesome-prompt-gallery/urban-sleek-fashion-backpack-brand-poster) |
-| 都会极简杂志感：高级奶咖色棒球帽品牌视觉 | 时尚, 极简, 杂志感, 棒球帽 | - | [detail](https://opennana.com/awesome-prompt-gallery/urban-minimalist-magazine-cap-kv) |
-| 轻奢托特包品牌官网首屏横幅视觉 | 轻奢, 品牌KV, 托特包, 商业感 | - | [detail](https://opennana.com/awesome-prompt-gallery/luxury-tote-bag-hero-banner) |
-| 都市利落高级感短靴品牌视觉大片 | 商业感, 高级感, 短靴, 极简 | - | [detail](https://opennana.com/awesome-prompt-gallery/urban-sleek-boots-brand-kv) |
-| 屋森品牌插画：让城市屋顶自由呼吸的生态空间 | 城市插画, 现代剪纸, 生态品牌, 屋顶花园 | - | [detail](https://opennana.com/awesome-prompt-gallery/wusen-rooftop-ecology-illustration) |
-| 陶土质感河岸共享客厅品牌插画 | 陶土风, 商业插画, 滨水空间, 治愈系 | - | [detail](https://opennana.com/awesome-prompt-gallery/terracotta-riverbank-living-room-illustration) |
-| 仓艺旧工厂改造：低多边形几何创意街区 | 工业风, 极简主义, 低多边形, 城市更新 | - | [detail](https://opennana.com/awesome-prompt-gallery/cangyi-industrial-rework-low-poly) |
-| 砾章品牌城市生活剖面插画设计 | 插画, 剖面图, 都市感, 品牌设计 | - | [detail](https://opennana.com/awesome-prompt-gallery/lizhang-city-life-cross-section) |
-| 雨夜都市从容漫步雨达品牌态度插画 | 插画, 都市, 极简, 时尚 | - | [detail](https://opennana.com/awesome-prompt-gallery/rainy-city-graceful-pace-illustration) |
-| 城市烟火气：摊趣品牌周末市集插画 | 市集, 插画, 民艺, 商业 | - | [detail](https://opennana.com/awesome-prompt-gallery/urban-fireworks-tan-qu-market) |
-| 阅廊：快节奏城市中的静谧阅读角落 | 装饰艺术, 城市文化, 极简主义, 阅读空间 | - | [detail](https://opennana.com/awesome-prompt-gallery/yuelang-quiet-reading-corner) |
-| 轮路品牌城市慢行系统插画海报 | 城市插画, 扁平风格, 骑行生活, 品牌海报 | - | [detail](https://opennana.com/awesome-prompt-gallery/wheel-way-urban-cycling-slow-travel-poster) |
-| 汉字里的现代博物馆：走进一字千年的时空 | 文创, 插画, 极简, 博物馆 | - | [detail](https://opennana.com/awesome-prompt-gallery/museum-in-chinese-character) |
-| 味径城市美食漫游插画跟着香气识城 | 插画, 美食, 烟火气, 文旅 | - | [detail](https://opennana.com/awesome-prompt-gallery/weijing-urban-food-exploration-illustration) |
-| 檐旅品牌极简材质拼贴文旅插画 | 极简风, 文旅, 建筑, 拼贴 | - | [detail](https://opennana.com/awesome-prompt-gallery/yanlv-minimalist-architectural-illustration) |
 
 > README only shows the first 50 items. See `data/chatgpt-prompts.json` for the full archive.
