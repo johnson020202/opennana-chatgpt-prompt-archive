@@ -5,10 +5,10 @@ An open archive of all prompts currently exposed by OpenNana's ChatGPT gallery.
 - Source page: https://opennana.com/awesome-prompt-gallery?model=ChatGPT
 - Source API: `https://api.opennana.com/api/prompts`
 - Sync schedule: every day at **00:00 Asia/Shanghai** via GitHub Actions
-- Reported by source: **8008**
-- Archived in this snapshot: **8008**
+- Reported by source: **8026**
+- Archived in this snapshot: **7961**
 - Failed this run: **0**
-- Fetched at: **2026-08-08T17:17:28.258Z**
+- Fetched at: **2026-08-09T16:59:08.208Z**
 
 ## Files
 
