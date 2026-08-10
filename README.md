@@ -5,10 +5,10 @@ An open archive of all prompts currently exposed by OpenNana's ChatGPT gallery.
 - Source page: https://opennana.com/awesome-prompt-gallery?model=ChatGPT
 - Source API: `https://api.opennana.com/api/prompts`
 - Sync schedule: every day at **00:00 Asia/Shanghai** via GitHub Actions
-- Reported by source: **8026**
-- Archived in this snapshot: **7961**
+- Reported by source: **8151**
+- Archived in this snapshot: **8151**
 - Failed this run: **0**
-- Fetched at: **2026-08-09T16:59:08.208Z**
+- Fetched at: **2026-08-10T17:23:52.049Z**
 
 ## Files
 
@@ -22,55 +22,55 @@ An open archive of all prompts currently exposed by OpenNana's ChatGPT gallery.
 
 | Title | Tags | Source | Link |
 |---|---|---|---|
+| 现代东方史诗立体纸艺梦境 |  | @liyue_ai | [detail](https://opennana.com/awesome-prompt-gallery/modern-oriental-epic-3d-papercut-dreamscape) |
+| 东方神界三级巨构电影剧照 |  | @liyue_ai | [detail](https://opennana.com/awesome-prompt-gallery/eastern-divine-realm-giant-structure-cinematic-still) |
+| 深红蕾丝裙日本女性都市夜景自拍 |  | @underwoodxie96 | [detail](https://opennana.com/awesome-prompt-gallery/japanese-woman-red-lace-dress-night-city-selfie-1786027436361) |
+| 先锋时尚拼贴真人角色与荒诞蟾蜍数字摄影 |  | @VoxcatAI | [detail](https://opennana.com/awesome-prompt-gallery/avant-garde-fashion-collage-characters-toad-digital-photography) |
+| 黑色修身吊带裙亚洲女性室内人像写真 |  | @DDJCXX | [detail](https://opennana.com/awesome-prompt-gallery/asian-woman-black-slip-dress-indoor-lifestyle-portrait) |
+| 韩系美女公寓窗边黄金时刻手机自拍 |  | @jiwooteasing | [detail](https://opennana.com/awesome-prompt-gallery/korean-woman-apartment-golden-hour-selfie-prompt) |
+| 现代波普平面设计艺术海报指令 |  | @im_shahid7 | [detail](https://opennana.com/awesome-prompt-gallery/editorial-pop-graphics-personal-brand-prompt) |
+| 油画棒质感原点科技青年探索开屏海报 | 油画棒, 手绘风, 科技感, 品牌KV | - | [detail](https://opennana.com/awesome-prompt-gallery/oil-pastel-tech-youth-splash) |
 | 纸雕艺术诠释温润如玉的人本科技 | 纸雕风格, 品牌海报, 人本科技, 极简美学 | - | [detail](https://opennana.com/awesome-prompt-gallery/paper-art-human-tech-brand-kv) |
+| 极简手托夏日果茶清爽广告视觉 |  | @xiaoxiaodong01 | [detail](https://opennana.com/awesome-prompt-gallery/minimalist-hand-held-summer-fruit-tea-ad-visual) |
+| 奶油色床上沉思的年轻女性特写美女人像 |  | @Aqsahere_ | [detail](https://opennana.com/awesome-prompt-gallery/dreamy-beauty-portrait-young-woman-on-bed) |
+| 唐风幻想大女主仙侠高精度角色写真 |  | @liyue_ai | [detail](https://opennana.com/awesome-prompt-gallery/tang-fantasy-female-lead-xianxia-portrait) |
+| 夏日清风旅行少女行李箱全景写真 |  | @MrLarus | [detail](https://opennana.com/awesome-prompt-gallery/summer-travel-woman-suitcase-portrait) |
+| 水彩动漫黄色渔夫帽可爱少女头像 |  | @Taaruk_ | [detail](https://opennana.com/awesome-prompt-gallery/cute-watercolor-anime-girl-yellow-bucket-hat) |
+| 盛夏礁石海岸日本女性人像摄影 |  | @toshi630222 | [detail](https://opennana.com/awesome-prompt-gallery/summer-rocky-coast-portrait-japanese-woman-bikini) |
+| 夕阳草地深红裙东亚女性写实人像 |  | @Soranlan | [detail](https://opennana.com/awesome-prompt-gallery/sunset-meadow-east-asian-woman-red-dress-portrait) |
+| 逆光中绽放的笑容 |  | @CyberTotal2026 | [detail](https://opennana.com/awesome-prompt-gallery/backlit-blooming-smile-portrait) |
+| 极简平面矢量角色海报 |  | @ChillaiKalan__ | [detail](https://opennana.com/awesome-prompt-gallery/editorial-poster-flat-vector-profile) |
+| 夏日晴空极低仰拍视角碎花比基尼少女写真 |  | @AI_money_club | [detail](https://opennana.com/awesome-prompt-gallery/low-angle-summer-sky-bikini-gravure) |
+| 试衣间蜘蛛侠紧身衣少女自拍 |  | @MissDelulu9 | [detail](https://opennana.com/awesome-prompt-gallery/slim-woman-spider-bodysuit-mirror-selfie) |
+| 火影忍者女性角色莫兰迪极简海报 |  | @DracoVibeCoding | [detail](https://opennana.com/awesome-prompt-gallery/naruto-female-character-minimalist-morandi-poster) |
+| 赛博朋克科幻实验室亚洲女性全景肖像 |  | @AIjee_tpe | [detail](https://opennana.com/awesome-prompt-gallery/futuristic-cyberpunk-laboratory-asian-woman-cosplay-portrait) |
+| 工业风格格朗奇时尚杂志封面人像 |  | @CHAseUnre | [detail](https://opennana.com/awesome-prompt-gallery/industrial-grunge-fashion-magazine-cover-prompt) |
+| 乡村花园夏日太阳裙韩系美女 |  | @jiwooteasing | [detail](https://opennana.com/awesome-prompt-gallery/cottage-garden-summer-sundress-korean-model) |
+| 穿工装裤的女性室内镜面自拍人像 |  | @underwoodxie96 | [detail](https://opennana.com/awesome-prompt-gallery/realistic-woman-mirror-selfie-denim-overalls-bedroom) |
+| 高端医美品牌VELORA旗舰宣传海报 |  | @ou_zhen599 | [detail](https://opennana.com/awesome-prompt-gallery/velora-aesthetic-lab-luxury-medical-aesthetics-campaign) |
+| 巨星空中扣篮电影感运动海报插画 |  | @Goodmanprotocol | [detail](https://opennana.com/awesome-prompt-gallery/superstar-mid-air-dunk-cinematic-sports-poster) |
+| 厨房现代简约生活人像摄影 |  | @ToroJushiAi | [detail](https://opennana.com/awesome-prompt-gallery/young-east-asian-woman-modern-kitchen-portrait) |
+| 浴室护肤可爱日本女性手机自拍 |  | @saniaspeaks_ | [detail](https://opennana.com/awesome-prompt-gallery/japanese-woman-skincare-bathroom-selfie) |
+| 冷白清透CCD都市休闲少女摄影 |  | @liyue_ai | [detail](https://opennana.com/awesome-prompt-gallery/cold-white-ccd-urban-leisure-lifestyle-photography) |
+| 超广角强迫透视写实人像提示词 |  | @MrLarus | [detail](https://opennana.com/awesome-prompt-gallery/ultra-wide-forced-perspective-portrait-prompt) |
+| 暖色室内东亚女性手机写实人像 |  | @johnAGI168 | [detail](https://opennana.com/awesome-prompt-gallery/photorealistic-east-asian-woman-smartphone-portrait-night) |
+| 画廊入口复古CCD闪光灯感蹲姿东亚女性 |  | @chenlinspark | [detail](https://opennana.com/awesome-prompt-gallery/retro-ccd-flash-gallery-squat-east-asian-woman) |
+| 真人摄影iPhone前置自拍INS风女性 |  | @AIVideoHub_ | [detail](https://opennana.com/awesome-prompt-gallery/iphone-front-camera-selfie-ins-lifestyle-east-asian-woman) |
+| 赛博中国风天空之城宏大电影画面 |  | @xiaoxiaodong01 | [detail](https://opennana.com/awesome-prompt-gallery/cyber-chinoiserie-sky-city-cinematic-prompt) |
+| 复古书房中式幻想时装写真摄影 |  | @VoxcatAI | [detail](https://opennana.com/awesome-prompt-gallery/vintage-study-oriental-fantasy-fashion-photography) |
+| 灰墙白鞋运动风女性写实写真 |  | @CyberTotal2026 | [detail](https://opennana.com/awesome-prompt-gallery/young-woman-sportswear-grey-concrete-wall) |
+| 奶油蕾丝床幔复古学院风人像 |  | @Soranlan | [detail](https://opennana.com/awesome-prompt-gallery/cream-lace-curtain-retro-campus-portrait) |
+| 日系夏日车内强逆光少女写真 |  | @MANISH1027512 | [detail](https://opennana.com/awesome-prompt-gallery/japanese-summer-car-backlit-girl-portrait) |
+| 锦面宴奢华米线四宫格品牌宣传海报 |  | @ou_zhen599 | [detail](https://opennana.com/awesome-prompt-gallery/jinmian-feast-luxury-chinese-rice-noodle-campaign-poster) |
+| 晨光卧室床边优雅模特俯拍人像 |  | @YUKIMASTERAI | [detail](https://opennana.com/awesome-prompt-gallery/elegant-model-morning-sunlight-high-angle-bedroom-photography) |
+| 冰雪夜晚泡沫节真实感合影提示词生成器 |  | @AI_money_club | [detail](https://opennana.com/awesome-prompt-gallery/realistic-night-foam-festival-prompt-generator) |
+| 高端质感美食食谱信息图海报 |  | @noorwithwifi | [detail](https://opennana.com/awesome-prompt-gallery/premium-recipe-infographic-poster-design) |
+| 学校周年庆典庄重明亮纪念海报视觉 |  | @xiaoxiaodong01 | [detail](https://opennana.com/awesome-prompt-gallery/school-anniversary-commemorative-celebration-visual-poster) |
+| 草原牧场运送白花的田园风少女 |  | @CyberTotal2026 | [detail](https://opennana.com/awesome-prompt-gallery/cottagecore-girl-carrying-white-wildflowers-in-meadow) |
+| 高端咖啡馆极简风广告海报 |  | @Maercihh | [detail](https://opennana.com/awesome-prompt-gallery/premium-cafe-advertisement-poster-minimalist-style) |
+| AURELIS顶级豪宅室内设计展示海报 |  | @ou_zhen599 | [detail](https://opennana.com/awesome-prompt-gallery/luxury-real-estate-interior-sales-presentation-poster) |
 | 豆方卤作蜜汁豆干微距质感品牌海报 | 美食摄影, 微距质感, 中式零食, 产品设计 | - | [detail](https://opennana.com/awesome-prompt-gallery/doufang-honey-tofu-macro-poster) |
 | 谷香热盏冬日暖意油茶面海报 | 油茶面, 暖色调, 美食摄影, 传统冲饮 | - | [detail](https://opennana.com/awesome-prompt-gallery/guxiang-rezhan-winter-warmth-poster) |
 | 礁岸炭火金蒜炭烤生蚝商业海报 | 美食, 海鲜, 海报, 写实 | - | [detail](https://opennana.com/awesome-prompt-gallery/reef-shore-charcoal-garlic-oyster-poster) |
-| 红坛发酵室低温辣白菜微距美食海报 | 美食, 海报, 微距, 写实 | - | [detail](https://opennana.com/awesome-prompt-gallery/red-jar-fermentation-kimchi-poster) |
-| 霜柿小院深秋海报：撕开柿饼的甜美瞬间 | 柿饼, 极简, 微距, 美食 | - | [detail](https://opennana.com/awesome-prompt-gallery/autumn-persimmon-poster) |
-| 弯月坚果社海盐腰果微距构图海报 | 腰果, 微距, 海报, 极简 | - | [detail](https://opennana.com/awesome-prompt-gallery/crescent-moon-cashew-macro-poster) |
-| 慢火圆席淮扬狮子头品牌海报 | 美食, 微距, 淮扬菜, 狮子头 | - | [detail](https://opennana.com/awesome-prompt-gallery/slow-fire-braised-lions-head-poster) |
-| 夏日清苦回甘之古法龟苓膏海报 | 龟苓膏, 中式甜点, 微距摄影, 品牌海报 | - | [detail](https://opennana.com/awesome-prompt-gallery/traditional-herbal-jelly-poster) |
-| 笼上糯香：腊味糯米烧麦中式美学海报 | 烧麦, 广式点心, 美食摄影, 商业海报 | - | [detail](https://opennana.com/awesome-prompt-gallery/glutinous-fragrance-siu-mai-poster) |
-| 品牌旗舰店双屏协同材质体验视觉 | 旗舰店, 橱窗设计, 建筑立面, 材质表现 | - | [detail](https://opennana.com/awesome-prompt-gallery/brand-flagship-material-visual) |
-| 烘焙时间轴橱窗设计：从面团到出炉 | 烘焙美学, 橱窗设计, 原木风格, 面包工艺 | - | [detail](https://opennana.com/awesome-prompt-gallery/bakery-timeline-window-design) |
-| 城市枢纽巨幕品牌时间切片视觉设计 | 户外广告, 光影构图, 极简风格, 品牌形象 | - | [detail](https://opennana.com/awesome-prompt-gallery/urban-hub-giant-screen-time-slices) |
-| 砖红暖白圆柱巨幕城市新声主视觉 | 城市文化, 圆柱屏幕, 极简主义, 户外媒体 | - | [detail](https://opennana.com/awesome-prompt-gallery/urban-new-sound-cylindrical-screen) |
-| 城市巨幕折叠页品牌创意视觉大片 | 户外巨幕, 品牌视觉, 极简主义, 超宽比例 | - | [detail](https://opennana.com/awesome-prompt-gallery/urban-screen-folding-page-brand-visual) |
-| 城市样本盒：转角巨幕极简科技展陈 | 3D广告, 工业设计, 极简风格, 城市景观 | - | [detail](https://opennana.com/awesome-prompt-gallery/city-sample-box-corner-display) |
-| 步步成长的软萌治愈系亲子品牌橱窗 | 亲子, 橱窗, 治愈, 极简 | - | [detail](https://opennana.com/awesome-prompt-gallery/growth-ladder-bear-window) |
-| 深蓝绒面衬托下的克制奢华珠宝橱窗 | 珠宝, 橱窗, 极简, 光影 | - | [detail](https://opennana.com/awesome-prompt-gallery/restrained-luxury-jewelry-window) |
-| 晨露实验台：纯净秩序下的极简美妆橱窗 | 极简主义, 美妆陈列, 秩序美感, 橱窗设计 | - | [detail](https://opennana.com/awesome-prompt-gallery/morning-dew-lab-minimalist-window) |
-| 极简美学品牌橱窗新季时装视觉 | 橱窗设计, 极简主义, 时尚摄影, 装置艺术 | - | [detail](https://opennana.com/awesome-prompt-gallery/minimalist-brand-window-visual) |
-| 年味刻进生活：现代木刻版画国潮插画 | 木刻版画, 国潮文创, 春节插画, 现代简约 | - | [detail](https://opennana.com/awesome-prompt-gallery/carving-new-year-flavor-into-modern-life) |
-| 复古丝网版画风合意酥房新春团圆海报 | 丝网版画, 新春海报, 中式点心, 团圆氛围 | - | [detail](https://opennana.com/awesome-prompt-gallery/vintage-screenprint-new-year-pastry) |
-| 春山有信：新工笔极简美学商务茶礼海报 | 新工笔, 茶文化, 极简风, 商务礼 | - | [detail](https://opennana.com/awesome-prompt-gallery/spring-mountain-message-tea-poster) |
-| 一轴阅古今：北京文旅品牌视觉大片 | 北京中轴, 城市漫游, 品牌视觉, 古今交融 | - | [detail](https://opennana.com/awesome-prompt-gallery/reading-history-on-the-axis) |
-| 禅意雅致桂花乌龙茶礼盒品牌社交媒体视觉大片 | 品牌视觉, 禅意茶道, 礼盒设计, 商业摄影 | - | [detail](https://opennana.com/awesome-prompt-gallery/zen-osmanthus-oolong-tea-kv) |
-| 尊贵夜宴感桂花米酒品牌全屏视觉大片 | 品牌KV, 桂花酒, 极简风, 质感黑 | - | [detail](https://opennana.com/awesome-prompt-gallery/luxury-night-banquet-osmanthus-wine-kv) |
-| 确认之前再核对一次金融安全公益海报 | 金融, 安全, 写实, 公益 | - | [detail](https://opennana.com/awesome-prompt-gallery/check-before-confirm-safety-poster) |
-| 财富管理艺术：分清远近的稳步规划美学 | 金融美学, 极简风格, 财富管理, 专业主义 | - | [detail](https://opennana.com/awesome-prompt-gallery/wealth-management-planning-art) |
-| 专业理性金融服务方案讲解纪实海报 | 金融服务, 极简风格, 品牌海报, 理性专业 | - | [detail](https://opennana.com/awesome-prompt-gallery/professional-rational-financial-service-poster) |
-| 理性家庭财务规划：先分用途再做安排 | 理财, 家庭, 海报, 极简 | - | [detail](https://opennana.com/awesome-prompt-gallery/rational-family-financial-planning) |
-| 坐轮渡读武汉：江城漫游丝网版画海报 | 丝网版画, 武汉文旅, 扁平插画, 城市名片 | - | [detail](https://opennana.com/awesome-prompt-gallery/wuhan-ferry-screen-print-poster) |
-| 鹤望武汉：高端分层纸雕江城山水 | 纸雕, 插画, 武汉, 国风 | - | [detail](https://opennana.com/awesome-prompt-gallery/he-wang-wuhan-paper-cut) |
-| 东湖慢线等距微缩治愈系品牌插画 | 等距, 插画, 东湖, 清新 | - | [detail](https://opennana.com/awesome-prompt-gallery/east-lake-slow-route-isometric) |
-| 武汉东湖樱花季：春汀花事文旅插画 | 武汉, 樱花, 水彩, 东湖 | - | [detail](https://opennana.com/awesome-prompt-gallery/wuhan-east-lake-cherry-blossom-poster) |
-| 千年编钟回响荆楚文化现代水墨海报 | 荆楚文化, 现代水墨, 曾侯乙, 文博设计 | - | [detail](https://opennana.com/awesome-prompt-gallery/ancient-bells-echo-jingchu-ink-poster) |
-| 汉口行间：瑞士网格下的武汉老街建筑插画 | 建筑线描, 瑞士网格, 武汉老街, 城市漫步 | - | [detail](https://opennana.com/awesome-prompt-gallery/hankou-hangjian-swiss-grid-wuhan-street) |
-| 锦绣江城：两江灯语刺绣风夜航插画 | 刺绣风, 武汉, 拼贴画, 国潮 | - | [detail](https://opennana.com/awesome-prompt-gallery/embroidered-wuhan-night-voyage) |
-| 烟火武汉：过早集油画棒创意插画 | 武汉, 热干面, 油画棒, 插画 | - | [detail](https://opennana.com/awesome-prompt-gallery/wuhan-fireworks-oil-pastel) |
-| 现代木刻版画：跨越长江的城市力量 | 木刻版画, 武汉大桥, 城市海报, 工业美学 | - | [detail](https://opennana.com/awesome-prompt-gallery/wuhan-bridge-power-woodcut) |
-| 武汉拾景：一日穿行江湖城的当代长卷 | 武汉, 长卷, 新工笔, 插画 | - | [detail](https://opennana.com/awesome-prompt-gallery/wuhan-shijing-journey-scroll) |
-| 大唐风华御香师百蕊闻心幻想写真 | 唐风, 仙侠, 御香师, 唯美 | - | [detail](https://opennana.com/awesome-prompt-gallery/tang-dynasty-perfumer-portrait) |
-| 烟藕轻罗听潮使：唐风仙侠湖亭之影 | 唐风, 仙侠, 汉服, 唯美 | - | [detail](https://opennana.com/awesome-prompt-gallery/smoke-lotus-silk-tide-envoy) |
-| 盛唐幻梦：宫苑花笺使回眸一瞬 | 唐风, 仙气, 写真, 唯美 | - | [detail](https://opennana.com/awesome-prompt-gallery/tang-fantasy-palace-messenger) |
-| 大唐风华：凤箫声动春宴仙门乐伶写真 | 唐风, 仙门, 写真, 唯美 | - | [detail](https://opennana.com/awesome-prompt-gallery/tang-dynasty-fantasy-musician) |
-| 栖霞宗护山阵师：石阶之上的端丽守护者 | 唐风, 阵法师, 仙侠, 御姐 | - | [detail](https://opennana.com/awesome-prompt-gallery/xixia-sect-gate-guardian) |
-| 金桂藏秋：唐风仙侠少女酿露图 | 唐风, 仙侠, 秋日, 少女 | - | [detail](https://opennana.com/awesome-prompt-gallery/golden-laurel-autumn-dew-maiden) |
-| 温柔父爱呵护：出水后的第一道温暖怀抱 | 婴儿洗浴, 父子温情, 家居海报, 极简风格 | - | [detail](https://opennana.com/awesome-prompt-gallery/gentle-father-love-warm-embrace) |
-| 亲子成长瞬间：自己探索与身后守护 | 亲子, 育儿, 海报, 极简 | - | [detail](https://opennana.com/awesome-prompt-gallery/parenting-growth-exploration-guard) |
-| 慢慢长大好好记录母婴成长纪念海报 | 母婴, 纪实, 简约, 俯拍 | - | [detail](https://opennana.com/awesome-prompt-gallery/record-growth-baby-poster) |
-| 都会雅绅皮鞋品牌高级杂志感视觉封面 | 商务感, 极简风, 质感大片, 产品摄影 | - | [detail](https://opennana.com/awesome-prompt-gallery/metropolitan-gentleman-shoe-cover) |
 
 > README only shows the first 50 items. See `data/chatgpt-prompts.json` for the full archive.
