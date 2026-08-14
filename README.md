@@ -5,10 +5,10 @@ An open archive of all prompts currently exposed by OpenNana's ChatGPT gallery.
 - Source page: https://opennana.com/awesome-prompt-gallery?model=ChatGPT
 - Source API: `https://api.opennana.com/api/prompts`
 - Sync schedule: every day at **00:00 Asia/Shanghai** via GitHub Actions
-- Reported by source: **8657**
-- Archived in this snapshot: **8657**
+- Reported by source: **8734**
+- Archived in this snapshot: **8734**
 - Failed this run: **0**
-- Fetched at: **2026-08-13T17:28:51.449Z**
+- Fetched at: **2026-08-14T17:28:36.194Z**
 
 ## Files
 
@@ -22,8 +22,22 @@ An open archive of all prompts currently exposed by OpenNana's ChatGPT gallery.
 
 | Title | Tags | Source | Link |
 |---|---|---|---|
+| 象牙白与鼠尾草绿：布外之形的艺术海报 | 电影感, 人体美, 极简风, 艺术感 | - | [detail](https://opennana.com/awesome-prompt-gallery/ivory-sage-sculptural-poster) |
+| 彩虹多巴胺风格六格大头贴 | 大头贴, 多巴胺, 六宫格, 拼贴画 | - | [detail](https://opennana.com/awesome-prompt-gallery/rainbow-dopamine-six-grid-purikura) |
+| 未来科技感透明圆柱人偶包装摄影 | 盲盒设计, 赛博朋克, 商品摄影, 模型包装 | - | [detail](https://opennana.com/awesome-prompt-gallery/futuristic-capsule-action-figure-packaging) |
+| 苔藓绿六边形蜂巢模块化潮玩包装设计 | 潮玩设计, 蜂巢结构, 商品摄影, 模块包装 | - | [detail](https://opennana.com/awesome-prompt-gallery/moss-green-hexagonal-modular-toy) |
+| 瑞士国际主义风格人像摄影拼贴海报 | 瑞士风, 拼贴画, 摄影感, 极简主义 | - | [detail](https://opennana.com/awesome-prompt-gallery/swiss-international-portrait-collage-poster) |
+| 银盐档案：复古拼贴风格人物纪实海报 | 复古风, 拼贴画, 胶片感, 肖像画 | - | [detail](https://opennana.com/awesome-prompt-gallery/vintage-archival-collage-portrait) |
+| 现代波普丝网印刷多视角人像海报 | 波普风, 拼贴画, 多视角, 丝网印 | - | [detail](https://opennana.com/awesome-prompt-gallery/modern-pop-silkscreen-multi-view-poster) |
+| 电影感胶片接触印样身份一致性海报 | 电影感, 胶片风, 人像, 高保真 | - | [detail](https://opennana.com/awesome-prompt-gallery/cinematic-contact-sheet-identity-consistency) |
+| 键盘上的微缩力士：回形针营救行动 | 微缩世界, 写实微距, 机械键盘, 力量感 | - | [detail](https://opennana.com/awesome-prompt-gallery/miniature-hero-on-keyboard-paperclip-rescue) |
+| 掌心上的奇幻旅程：微缩测量员的纹路探险 | 微缩景观, 写实微距, 掌心世界, 细节狂魔 | - | [detail](https://opennana.com/awesome-prompt-gallery/miniature-surveyor-palm-expedition) |
+| 咖啡杯缘的微缩探险者：写实巨物世界景观 | 微缩景观, 写实摄影, 巨物视觉, 细节还原 | - | [detail](https://opennana.com/awesome-prompt-gallery/miniature-explorer-on-coffee-cup-rim) |
+| 饼干森林里的微型建筑师：搭建曲奇遮蔽点 | 微缩, 写实, 饼干, 微距 | - | [detail](https://opennana.com/awesome-prompt-gallery/miniature-architect-cookie-shelter) |
 | 俯瞰视角百叶窗光影下的仰躺少女 | 俯拍, 百叶窗, 木地板, 极简风 | - | [detail](https://opennana.com/awesome-prompt-gallery/bird-eye-view-shadow-girl) |
 | 成年写实Q版风格八枚表情包贴纸页 | 贴纸, Q版, 表情包, 真人风 | - | [detail](https://opennana.com/awesome-prompt-gallery/adult-chibi-realistic-sticker-sheet) |
+| 繁华都市夜色下的五星酒店生日名媛写真 | 生日, 酒店, 礼服, 夜景 | - | [detail](https://opennana.com/awesome-prompt-gallery/luxury-hotel-birthday-portrait) |
+| 十八岁成年礼黑色礼服生日写真 | 生日, 礼服, 质感, 氛围 | - | [detail](https://opennana.com/awesome-prompt-gallery/adult-birthday-black-gown-portrait) |
 | 黎明时分的生日余晖：酒店套房里的安静写真 | 电影感, 生日派对, 低光摄影, 优雅少女 | - | [detail](https://opennana.com/awesome-prompt-gallery/dawn-birthday-aftermath-portrait) |
 | 真实人脸重塑轻盈精灵短发 | 短发改型, 写实肖像, 人脸保持, 精灵短发 | - | [detail](https://opennana.com/awesome-prompt-gallery/real-face-pixie-cut-transformation) |
 | 写实人像发型改造：锁骨直发身份锁定 | 写实, 发型, 锁骨发, 人像 | - | [detail](https://opennana.com/awesome-prompt-gallery/realistic-portrait-hairstyle-makeover) |
@@ -33,6 +47,7 @@ An open archive of all prompts currently exposed by OpenNana's ChatGPT gallery.
 | 草莓粉蜡笔手绘涂鸦标注设计 | 蜡笔, 手绘, 涂鸦, 标注 | - | [detail](https://opennana.com/awesome-prompt-gallery/strawberry-pink-crayon-graffiti-annotation) |
 | 复古档案风桌面人物拼贴海报设计 | 复古档案, 人像拼贴, 胶片质感, 纪实风格 | - | [detail](https://opennana.com/awesome-prompt-gallery/vintage-archival-desktop-collage-poster) |
 | 电影质感胶片联系表多帧人像海报 | 胶片感, 联系表, 人像, 复古 | - | [detail](https://opennana.com/awesome-prompt-gallery/film-contact-sheet-portrait-poster) |
+| 焦糖色调复古照相亭四格人像摄影 | 照相亭, 胶片感, 四宫格, 焦糖色 | - | [detail](https://opennana.com/awesome-prompt-gallery/caramel-vintage-photobooth-portrait) |
 | 银白闪光四格大头贴成年女性写真 | 大头贴, 四宫格, 胶片感, 银白色 | - | [detail](https://opennana.com/awesome-prompt-gallery/silver-glitter-photo-booth-woman) |
 | 薰衣草之梦：四格梦幻紫色大头贴 | 薰衣草, 四宫格, 梦幻感, 少女感 | - | [detail](https://opennana.com/awesome-prompt-gallery/lavender-dream-four-grid-photo) |
 | 极简雾霾蓝四格拼贴成年女性高级感肖像 | 四宫格, 高级感, 肖像画, 胶片感 | - | [detail](https://opennana.com/awesome-prompt-gallery/aesthetic-blue-grey-quad-portrait) |
@@ -57,20 +72,5 @@ An open archive of all prompts currently exposed by OpenNana's ChatGPT gallery.
 | 职场精英与闲暇自我的跨时空对望 | 双生, 写实, 光影, 对比 | - | [detail](https://opennana.com/awesome-prompt-gallery/elite-work-and-leisure-self-dialogue) |
 | 昼夜交替间的一体两面双生人像 | 双生, 昼夜, 光影, 极简 | - | [detail](https://opennana.com/awesome-prompt-gallery/day-night-duality-portrait) |
 | 光与影的时尚博弈：双重自我的成人隐喻 | 双生花, 时尚感, 光影感, 极简风 | - | [detail](https://opennana.com/awesome-prompt-gallery/fashion-metaphor-dual-self) |
-| 同一人物四种情绪圆桌多重人像构图 | 多重人格, 圆桌构图, 情绪表达, 写实人像 | - | [detail](https://opennana.com/awesome-prompt-gallery/four-emotions-round-table-portrait) |
-| 手掌上的微缩奇迹：五厘米蓝色夹克小人宏观摄影 | 微缩摄影, 掌中小人, 宏观镜头, 超写实 | - | [detail](https://opennana.com/awesome-prompt-gallery/palm-miracle-mini-man-macro) |
-| 微缩世界：坐在巨型咖啡杯沿上的精致迷你人 | 微缩, 摄影, 治愈, 写实 | - | [detail](https://opennana.com/awesome-prompt-gallery/miniature-person-on-coffee-cup) |
-| 微缩景观下的键盘赛博都市宏观摄影 | 微缩景观, 宏观摄影, 赛博朋克, 机能风 | - | [detail](https://opennana.com/awesome-prompt-gallery/miniature-keyboard-city-macro-photography) |
-| 梳妆台上的微缩奇迹：粉灰西装小人与大口红 | 微缩模型, 宏观摄影, 美妆空间, 精致写实 | - | [detail](https://opennana.com/awesome-prompt-gallery/miniature-miracle-on-dressing-table) |
-| 草莓蛋糕上的三厘米微缩奇遇 | 微缩世界, 甜点景观, 微距摄影, 奇幻创意 | - | [detail](https://opennana.com/awesome-prompt-gallery/miniature-strawberry-cake-adventure) |
-| 办公桌上的微缩职场打工人 | 微缩, 微距, 创意, 写实 | - | [detail](https://opennana.com/awesome-prompt-gallery/miniature-office-worker-on-desk) |
-| 极高精度玻璃罩微缩人偶典藏景观 | 微缩景观, 玻璃罩, 手办模型, 极高精度 | - | [detail](https://opennana.com/awesome-prompt-gallery/high-precision-miniature-glass-dome-collectible) |
-| 东方神界超尺度皇家建筑摄影 |  | @liyue_ai | [detail](https://opennana.com/awesome-prompt-gallery/oriental-divine-realm-megastructure-architectural-photography) |
-| 东方神界皇家都城超尺度摄影 |  | @liyue_ai | [detail](https://opennana.com/awesome-prompt-gallery/oriental-divine-realm-super-scale-royal-capital-cinematic) |
-| 立秋实验字体海报：暑未尽秋已来 | 立秋, 海报, 字体, 极简 | - | [detail](https://opennana.com/awesome-prompt-gallery/liqiu-experimental-typography-poster) |
-| 立秋时节青黄交替陶罐静物摄影海报 | 立秋, 静物, 极简, 摄影 | - | [detail](https://opennana.com/awesome-prompt-gallery/beginning-of-autumn-ceramic-jar-poster) |
-| 立秋水墨丹青：清风徐来远山如黛意境海报 | 立秋, 水墨画, 新中式, 节气 | - | [detail](https://opennana.com/awesome-prompt-gallery/liqiu-ink-wash-mountain-poster) |
-| 立秋纸雕艺术海报风翻新序视觉呈现 | 立秋, 纸雕, 节气, 极简 | - | [detail](https://opennana.com/awesome-prompt-gallery/li-qiu-paper-carving-poster-wind) |
-| 窗前立秋：掠过纱帘的夏末金色余晖 | 立秋, 纪实, 窗景, 节气 | - | [detail](https://opennana.com/awesome-prompt-gallery/start-of-autumn-window-breeze) |
 
 > README only shows the first 50 items. See `data/chatgpt-prompts.json` for the full archive.
