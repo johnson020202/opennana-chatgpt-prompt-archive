@@ -5,10 +5,10 @@ An open archive of all prompts currently exposed by OpenNana's ChatGPT gallery.
 - Source page: https://opennana.com/awesome-prompt-gallery?model=ChatGPT
 - Source API: `https://api.opennana.com/api/prompts`
 - Sync schedule: every day at **00:00 Asia/Shanghai** via GitHub Actions
-- Reported by source: **8837**
-- Archived in this snapshot: **8837**
+- Reported by source: **9106**
+- Archived in this snapshot: **9106**
 - Failed this run: **0**
-- Fetched at: **2026-08-15T16:57:47.910Z**
+- Fetched at: **2026-08-16T17:13:38.633Z**
 
 ## Files
 
@@ -22,55 +22,55 @@ An open archive of all prompts currently exposed by OpenNana's ChatGPT gallery.
 
 | Title | Tags | Source | Link |
 |---|---|---|---|
-| 象牙白与鼠尾草绿：布外之形的艺术海报 | 电影感, 人体美, 极简风, 艺术感 | - | [detail](https://opennana.com/awesome-prompt-gallery/ivory-sage-sculptural-poster) |
-| 现代中式攒盒结构模块化潮流人偶礼盒 | 潮玩, 中式, 包装设计, 产品摄影 | - | [detail](https://opennana.com/awesome-prompt-gallery/modern-chinese-zuanhe-modular-toy-box) |
-| 彩虹多巴胺风格六格大头贴 | 大头贴, 多巴胺, 六宫格, 拼贴画 | - | [detail](https://opennana.com/awesome-prompt-gallery/rainbow-dopamine-six-grid-purikura) |
-| 像素游戏风格八格写实少女大头贴 | 像素风, 大头贴, 写实, 角色卡 | - | [detail](https://opennana.com/awesome-prompt-gallery/pixel-rpg-girl-eight-grid-photo) |
-| 手绘象牙白便笺风细节标注 | 手绘, 涂鸦, 标注, 极简 | - | [detail](https://opennana.com/awesome-prompt-gallery/ivory-white-hand-drawn-annotation) |
-| 干刷丙烯时装速写艺术感 | 干刷, 手绘, 松弛, 速写 | - | [detail](https://opennana.com/awesome-prompt-gallery/dry-brush-acrylic-fashion-sketch) |
-| 未来科技感透明圆柱人偶包装摄影 | 盲盒设计, 赛博朋克, 商品摄影, 模型包装 | - | [detail](https://opennana.com/awesome-prompt-gallery/futuristic-capsule-action-figure-packaging) |
-| 苔藓绿六边形蜂巢模块化潮玩包装设计 | 潮玩设计, 蜂巢结构, 商品摄影, 模块包装 | - | [detail](https://opennana.com/awesome-prompt-gallery/moss-green-hexagonal-modular-toy) |
-| 瑞士国际主义风格人像摄影拼贴海报 | 瑞士风, 拼贴画, 摄影感, 极简主义 | - | [detail](https://opennana.com/awesome-prompt-gallery/swiss-international-portrait-collage-poster) |
-| 银盐档案：复古拼贴风格人物纪实海报 | 复古风, 拼贴画, 胶片感, 肖像画 | - | [detail](https://opennana.com/awesome-prompt-gallery/vintage-archival-collage-portrait) |
-| 现代波普丝网印刷多视角人像海报 | 波普风, 拼贴画, 多视角, 丝网印 | - | [detail](https://opennana.com/awesome-prompt-gallery/modern-pop-silkscreen-multi-view-poster) |
-| 电影感胶片接触印样身份一致性海报 | 电影感, 胶片风, 人像, 高保真 | - | [detail](https://opennana.com/awesome-prompt-gallery/cinematic-contact-sheet-identity-consistency) |
-| 巨型人像与微缩城市的超现实剪贴海报 | 超现实, 拼贴风, 极简主义, 微缩景观 | - | [detail](https://opennana.com/awesome-prompt-gallery/giant-monument-miniature-city) |
-| 键盘上的微缩力士：回形针营救行动 | 微缩世界, 写实微距, 机械键盘, 力量感 | - | [detail](https://opennana.com/awesome-prompt-gallery/miniature-hero-on-keyboard-paperclip-rescue) |
-| 掌心上的奇幻旅程：微缩测量员的纹路探险 | 微缩景观, 写实微距, 掌心世界, 细节狂魔 | - | [detail](https://opennana.com/awesome-prompt-gallery/miniature-surveyor-palm-expedition) |
-| 咖啡杯缘的微缩探险者：写实巨物世界景观 | 微缩景观, 写实摄影, 巨物视觉, 细节还原 | - | [detail](https://opennana.com/awesome-prompt-gallery/miniature-explorer-on-coffee-cup-rim) |
-| 黑胶沟槽间的微缩奇旅：成年清洁工 | 微缩, 写实, 黑胶, 微距 | - | [detail](https://opennana.com/awesome-prompt-gallery/vinyl-cleaning-miniature) |
-| 皮箱里的微观旅程：五厘米小人的奇幻冒险 | 微缩, 写实, 微距, 奇幻 | - | [detail](https://opennana.com/awesome-prompt-gallery/micro-journey-in-suitcase) |
-| 化妆台上的微观奇迹：擦拭镜面的小小人 | 微缩景观, 微距摄影, 写实主义, 化妆台 | - | [detail](https://opennana.com/awesome-prompt-gallery/micro-wonder-on-vanity) |
-| 饼干森林里的微型建筑师：搭建曲奇遮蔽点 | 微缩, 写实, 饼干, 微距 | - | [detail](https://opennana.com/awesome-prompt-gallery/miniature-architect-cookie-shelter) |
-| 借来的灯：雨后天台的微光抉择 | 都市奇幻, 电影海报, 氛围感, 极简主义 | - | [detail](https://opennana.com/awesome-prompt-gallery/borrowed-light-rooftop-choice) |
-| 荒诞职场寓言：当绿植开始要求审批 | 荒诞派, 电影感, 薄荷绿, 丝网印 | - | [detail](https://opennana.com/awesome-prompt-gallery/absurd-office-allegory) |
-| 90年代街机风像素拼贴动感人像海报 | 街机风, 像素画, 拼贴感, 赛博感 | - | [detail](https://opennana.com/awesome-prompt-gallery/90s-arcade-pixel-collage-poster) |
-| 梦幻童心毛毡拼贴与蜡笔绘梦海报 | 毛毡拼贴, 蜡笔手绘, 童趣风格, 真实人脸 | - | [detail](https://opennana.com/awesome-prompt-gallery/dream-felt-collage-crayon-poster) |
-| 雨后街头水洼倒影中的回眸瞬间 | 写实, 倒影, 街拍, 唯美 | - | [detail](https://opennana.com/awesome-prompt-gallery/rainy-street-puddle-reflection-glance) |
-| 俯瞰视角百叶窗光影下的仰躺少女 | 俯拍, 百叶窗, 木地板, 极简风 | - | [detail](https://opennana.com/awesome-prompt-gallery/bird-eye-view-shadow-girl) |
-| 复古套色印刷风格成年真人表情包贴纸页 | 复古, 贴纸, 表情包, 套色 | - | [detail](https://opennana.com/awesome-prompt-gallery/retro-offset-print-adult-sticker-sheet) |
-| 成年写实Q版风格八枚表情包贴纸页 | 贴纸, Q版, 表情包, 真人风 | - | [detail](https://opennana.com/awesome-prompt-gallery/adult-chibi-realistic-sticker-sheet) |
-| 真人手账风高保真成年女性表情贴纸 | 手账风, 表情包, 真人写实, 拼贴剪纸 | - | [detail](https://opennana.com/awesome-prompt-gallery/real-person-scrapbook-stickers) |
-| 繁华都市夜色下的五星酒店生日名媛写真 | 生日, 酒店, 礼服, 夜景 | - | [detail](https://opennana.com/awesome-prompt-gallery/luxury-hotel-birthday-portrait) |
-| 十八岁成年礼黑色礼服生日写真 | 生日, 礼服, 质感, 氛围 | - | [detail](https://opennana.com/awesome-prompt-gallery/adult-birthday-black-gown-portrait) |
-| 黎明时分的生日余晖：酒店套房里的安静写真 | 电影感, 生日派对, 低光摄影, 优雅少女 | - | [detail](https://opennana.com/awesome-prompt-gallery/dawn-birthday-aftermath-portrait) |
-| 真实人脸重塑轻盈精灵短发 | 短发改型, 写实肖像, 人脸保持, 精灵短发 | - | [detail](https://opennana.com/awesome-prompt-gallery/real-face-pixie-cut-transformation) |
-| 写实人像发型改造：锁骨直发身份锁定 | 写实, 发型, 锁骨发, 人像 | - | [detail](https://opennana.com/awesome-prompt-gallery/realistic-portrait-hairstyle-makeover) |
-| 韩式柔弯锁骨发：极致还原真实面部特征与发丝质感 | 韩系风, 锁骨发, 真实感, 发型图 | - | [detail](https://opennana.com/awesome-prompt-gallery/korean-soft-wavy-lob-realistic-portrait) |
-| 法式松弛感大波浪写实人像造型改造 | 法式风, 大波浪, 写实感, 人像照 | - | [detail](https://opennana.com/awesome-prompt-gallery/french-effortless-waves-portrait) |
-| 真实人像复刻水波纹长发造型 | 真实感, 水波纹, 发型秀, 高保真 | - | [detail](https://opennana.com/awesome-prompt-gallery/realistic-portrait-water-wave-hair) |
-| 法式优雅低位盘发写实人像写真 | 法式发髻, 人脸一致, 写实摄影, 盘发造型 | - | [detail](https://opennana.com/awesome-prompt-gallery/elegant-low-french-bun-portrait) |
-| 极致人脸一致性冷茶棕挑染锁骨发造型 | 一致性, 锁骨发, 冷茶棕, 挑染 | - | [detail](https://opennana.com/awesome-prompt-gallery/cold-tea-brown-clavicle-hair) |
-| 创意透明胶囊迷你雨衣男士人偶模型 | 盲盒, 人偶, 写实, 微缩 | - | [detail](https://opennana.com/awesome-prompt-gallery/creative-transparent-capsule-mini-raincoat-figure) |
-| 典藏级树脂雕像书型礼盒商品摄影 | 雕像, 潮玩, 摄影, 写实 | - | [detail](https://opennana.com/awesome-prompt-gallery/premium-resin-statue-book-box) |
-| 蓝白疾速运动风写实可动人偶包装设计 | 潮玩, 运动风, 包装设计, 可动人偶 | - | [detail](https://opennana.com/awesome-prompt-gallery/blue-white-speed-action-figure) |
-| 居家创作者1比6收藏级人偶包装设计 | 人偶, 包装, 创作者, 手办 | - | [detail](https://opennana.com/awesome-prompt-gallery/home-creator-collectible-doll) |
-| 极简森系兴趣装备成年人身份定制潮玩包装 | 潮玩设计, 商品摄影, 森系配色, 搪胶公仔 | - | [detail](https://opennana.com/awesome-prompt-gallery/minimalist-forest-hobbyist-toy-packaging) |
-| 收藏级1:6职业西装行动人偶包装摄影 | 手办, 包装, 写实, 潮玩 | - | [detail](https://opennana.com/awesome-prompt-gallery/collector-grade-professional-suit-action-figure) |
-| 极简墨笔边缘批注与手写感心语叠加 | 极简, 手绘, 批注, 留白 | - | [detail](https://opennana.com/awesome-prompt-gallery/minimalist-ink-annotations-handwritten) |
-| 草莓粉蜡笔手绘涂鸦标注设计 | 蜡笔, 手绘, 涂鸦, 标注 | - | [detail](https://opennana.com/awesome-prompt-gallery/strawberry-pink-crayon-graffiti-annotation) |
-| 极简粉笔白手绘月光氛围感晚安海报 | 治愈系, 极简风, 粉笔画, 氛围感 | - | [detail](https://opennana.com/awesome-prompt-gallery/minimalist-chalk-white-moonlight-night-poster) |
-| 香槟金纤细线条勾勒礼遇瞬间 | 香槟金, 极简风, 手写体, 氛围感 | - | [detail](https://opennana.com/awesome-prompt-gallery/champagne-gold-delicate-outline) |
-| 清澈浅水下仰视视角的蓝色泳装人像 | 水下人像, 仰视视角, 阳光焦散, 蓝色泳装 | - | [detail](https://opennana.com/awesome-prompt-gallery/clear-shallow-water-upward-portrait) |
+| 蔚县剪纸非遗开屏：以刀代笔让纸窗盛开 | 非遗, 剪纸, 蔚县, 艺术 | - | [detail](https://opennana.com/awesome-prompt-gallery/yuxian-papercut-mobile-splash) |
+| 岭南非遗香云纱：日晒与大地的褐金史诗 | 非遗, 香云纱, 岭南, 品牌感 | - | [detail](https://opennana.com/awesome-prompt-gallery/xiangyunsha-heritage-brown-gold-epic) |
+| 匠心传承杨柳青木版年画品牌视觉 | 非遗, 年画, 杨柳青, 国风 | - | [detail](https://opennana.com/awesome-prompt-gallery/yangliuqing-heritage-kv) |
+| 丝成金：非遗花丝镶嵌工艺发布海报 | 非遗, 金工, 匠心, 奢华 | - | [detail](https://opennana.com/awesome-prompt-gallery/filigree-inlay-brand-kv) |
+| 龙泉青瓷非遗品牌官网视觉大片 | 青瓷, 非遗, 品牌, 釉色 | - | [detail](https://opennana.com/awesome-prompt-gallery/longquan-celadon-brand-visual) |
+| 知性御姐妮可罗宾藏书室优雅侧坐 | 妮可罗宾, 极致写实, 知性御姐, 藏书室 | - | [detail](https://opennana.com/awesome-prompt-gallery/elegant-nico-robin-library) |
+| 绝美蛇姬汉库克：黑金宫廷冷艳女帝姿态 | 汉库克, 女帝, 海贼王, 冷艳 | - | [detail](https://opennana.com/awesome-prompt-gallery/boa-hancock-empress-palace) |
+| 海贼王薇薇公主绝美真人COS摄影 | 海贼王, 薇薇, 真人, 礼服 | - | [detail](https://opennana.com/awesome-prompt-gallery/one-piece-vivi-cosplay-photography) |
+| 极致还原佩罗娜哥特幻想真人摄影 | 佩罗娜, 哥特风, 角色扮演, 双马尾 | - | [detail](https://opennana.com/awesome-prompt-gallery/ultimate-perona-gothic-cosplay) |
+| 绝美日和：和风茶室里的青瓷剪影 | 海贼王, 光月日和, 唯美, 和风 | - | [detail](https://opennana.com/awesome-prompt-gallery/beautiful-hiyori-celadon-silhouette) |
+| 盛夏嘉宝果官网首屏品牌视觉大片 | 嘉宝果, 雨林风, 商业感, 品牌图 | - | [detail](https://opennana.com/awesome-prompt-gallery/summer-jabuticaba-brand-kv) |
+| 初秋鸡心小苹果品牌视觉海报 | 初秋, 鲜果, 海报, 写实 | - | [detail](https://opennana.com/awesome-prompt-gallery/early-autumn-apple-brand-kv) |
+| 仲秋山野八月瓜自然熟透官网海报 | 八月瓜, 仲秋, 山野感, 品牌KV | - | [detail](https://opennana.com/awesome-prompt-gallery/mid-autumn-akebia-hero-banner) |
+| 盛夏金铃：东方窗影下的红籽韵味 | 东方美学, 品牌视觉, 鲜果摄影, 盛夏氛围 | - | [detail](https://opennana.com/awesome-prompt-gallery/midsummer-jinlingzi-oriental-shadow) |
+| 杏日品牌KV：定格暖阳下的柔韧杏脯 | 品牌KV, 商业摄影, 纸雕风格, 食品视觉 | - | [detail](https://opennana.com/awesome-prompt-gallery/apricot-sun-brand-kv) |
+| 复古酸甜山楂卷品牌商业海报设计 | 山楂卷, 零食, 商业, 复古 | - | [detail](https://opennana.com/awesome-prompt-gallery/vintage-sweet-sour-hawthorn-roll) |
+| 菠萝蜜冻干脆片品牌首屏失重感KV | 菠萝蜜, 冻干脆, 商业感, 失重感 | - | [detail](https://opennana.com/awesome-prompt-gallery/jackfruit-freeze-dried-hero-kv) |
+| 奇绿品牌KV：通透果纹与慢烘柔韧美学 | 品牌KV, 奇异果, 果干, 极简 | - | [detail](https://opennana.com/awesome-prompt-gallery/kiwi-brand-kv-aesthetic) |
+| 高原沙棘果糕官网首屏品牌视觉设计 | 沙棘糕, 品牌感, 高原风, 极简美 | - | [detail](https://opennana.com/awesome-prompt-gallery/plateau-seaberry-brand-kv) |
+| 霜柿凝冬：传统挂霜柿饼品牌视觉海报 | 挂霜柿饼, 品牌KV, 冬季美学, 食品摄影 | - | [detail](https://opennana.com/awesome-prompt-gallery/frost-persimmon-winter-kv) |
+| 弹青蒟蒻青提果冻品牌开屏视觉 | 果冻, 品牌感, 小清新, 食品摄影 | - | [detail](https://opennana.com/awesome-prompt-gallery/jelly-green-brand-kv) |
+| 盐焗腰果品牌官网首屏级视觉大片 | 盐焗腰果, 极简风, 官网海报, 质感大片 | - | [detail](https://opennana.com/awesome-prompt-gallery/salted-cashew-hero-banner) |
+| 琥珀流光：一碗温润如玉的桂花藕粉羹 | 新中式, 治愈系, 藕粉羹, 极简风 | - | [detail](https://opennana.com/awesome-prompt-gallery/amber-osmanthus-lotus-soup) |
+| 妮可罗宾御姐风室内写真高精度还原 | 妮可罗宾, 御姐, 真实摄影, 海贼王 | - | [detail](https://opennana.com/awesome-prompt-gallery/nico-robin-mature-indoor-portrait) |
+| 绝美汉库克：黑金宫廷中的冷艳女帝姿态 | 海贼王, 汉库克, 御姐风, 绝美摄影 | - | [detail](https://opennana.com/awesome-prompt-gallery/beautiful-hancock-empress-palace) |
+| 绝美纲手COS：成熟御姐气质与东方幻想美学 | 纲手, 御姐, 高画质, 摄影 | - | [detail](https://opennana.com/awesome-prompt-gallery/stunning-tsunade-cosplay-oriental-fantasy) |
+| 赛博之魂：草薙素子东方幻想高清摄影 | 赛博朋克, 草薙素子, 真人摄影, 东方幻想 | - | [detail](https://opennana.com/awesome-prompt-gallery/cyber-soul-motoko-oriental-fantasy) |
+| 星际牛仔菲瓦伦丁：复古科幻写实人像 | 复古科幻, 星际牛仔, 极致写实, 氛围人像 | - | [detail](https://opennana.com/awesome-prompt-gallery/cowboy-bebop-faye-valentine-retro-sci-fi) |
+| 绝代双枪：暗黑酒店走廊的莱薇魅影 | 黑礁, 莱薇, 御姐, 拟真 | - | [detail](https://opennana.com/awesome-prompt-gallery/black-lagoon-revy-hotel-corridor) |
+| 龙珠布尔玛成年版未来实验室绝美COS | 龙珠, 布尔玛, 未来感, 赛博 | - | [detail](https://opennana.com/awesome-prompt-gallery/bulma-adult-cosplay-futuristic-lab) |
+| 东方幻想风叛逆的鲁路修CC女神精修 | 角色扮演, 东方幻想, 唯美摄影, 优雅气质 | - | [detail](https://opennana.com/awesome-prompt-gallery/oriental-fantasy-cc-cosplay) |
+| 晨光花房中的绝美娜美Cosplay摄影 | 娜美, 海贼王, 写实摄影, 绝美 | - | [detail](https://opennana.com/awesome-prompt-gallery/stunning-nami-cosplay-morning-light) |
+| 间谍过家家约尔福杰黑红礼服真人摄影 | 约尔福杰, 真人摄影, 东方礼服, 电影质感 | - | [detail](https://opennana.com/awesome-prompt-gallery/yor-forger-oriental-fantasy-cosplay) |
+| 生鲜供应链数字化管理平台高保真UI界面 | UI设计, 生鲜管理, 数据看板, 冷链追踪 | - | [detail](https://opennana.com/awesome-prompt-gallery/fresh-supply-chain-digital-ui) |
+| 克制Y2K风格电竞社区高保真UI界面设计 | 电竞, UI设计, Y2K, 深色模式 | - | [detail](https://opennana.com/awesome-prompt-gallery/restrained-y2k-esports-app-ui) |
+| 东方留白美学数字家谱平板应用界面设计 | 界面设计, 数字家谱, 东方美学, 家族记忆 | - | [detail](https://opennana.com/awesome-prompt-gallery/oriental-digital-genealogy-ui) |
+| 极简高级感新拟物化服装定制移动端UI设计 | UI设计, 移动端, 新拟物, 服装定制 | - | [detail](https://opennana.com/awesome-prompt-gallery/minimalist-luxury-neumorphic-clothing-customization-ui) |
+| 智慧物流社区驿站包裹管理终端界面设计 | 物流UI, 界面设计, 触控交互, 后台系统 | - | [detail](https://opennana.com/awesome-prompt-gallery/smart-logistics-parcel-terminal-ui) |
+| 极简主义大字报刊风摄影约拍App界面设计 | UI设计, 约拍App, 极简风格, 移动交互 | - | [detail](https://opennana.com/awesome-prompt-gallery/minimalist-editorial-photography-app) |
+| 专业企业级知识产权管理系统高保真界面 | 法律科技, 界面设计, 知识产权, 后台系统 | - | [detail](https://opennana.com/awesome-prompt-gallery/professional-enterprise-ip-management-ui) |
+| 森林绿意智能社区回收小程序UI设计 | 环保, UI设计, 图形化, 小程序 | - | [detail](https://opennana.com/awesome-prompt-gallery/smart-green-recycling-ui-design) |
+| 专业舞台剧排练协同系统超宽屏UI界面设计 | UI设计, 舞台调度, 协作平台, 超宽屏 | - | [detail](https://opennana.com/awesome-prompt-gallery/professional-theater-rehearsal-collaborative-ui) |
+| 都市租房移动端高保真三联界面设计 | 界面设计, 移动应用, 租房软件, 极简风格 | - | [detail](https://opennana.com/awesome-prompt-gallery/urban-rental-app-ui-triptych) |
+| 多猫家庭整箱囤货除味猫砂主图 | 猫砂, 囤货, 除味, 多猫 | - | [detail](https://opennana.com/awesome-prompt-gallery/multi-cat-bulk-odor-control-litter) |
+| 户外精品折叠咖啡滤杯精密结构主图 | 户外精品, 折叠结构, 金属拉丝, 通勤咖啡 | - | [detail](https://opennana.com/awesome-prompt-gallery/outdoor-premium-folding-coffee-dripper) |
+| 父亲节轻量双风嘴专业吹风机主图 | 父亲节, 双风嘴, 轻量化, 长发用 | - | [detail](https://opennana.com/awesome-prompt-gallery/fathers-day-lightweight-dual-nozzle-dryer) |
+| 秋冬干皮囤货首选双瓶身体乳主图 | 秋冬款, 身体乳, 囤货装, 双瓶装 | - | [detail](https://opennana.com/awesome-prompt-gallery/autumn-winter-dry-skin-body-lotion-set) |
+| 极简燕麦色护手霜三支装秋冬礼赠主图 | 护手霜, 三支装, 燕麦白, 秋冬款 | - | [detail](https://opennana.com/awesome-prompt-gallery/minimalist-oatmeal-hand-cream-set) |
+| 夏日通勤双支装防晒霜天猫结构化主图 | 防晒霜, 双支装, 通勤风, 结构化 | - | [detail](https://opennana.com/awesome-prompt-gallery/summer-commute-sunscreen-2pack-tmall) |
+| 618会场滴管粉底液精准色阶识别主图 | 粉底液, 滴管, 六一八, 色号 | - | [detail](https://opennana.com/awesome-prompt-gallery/618-dropper-foundation-shade-recognition) |
 
 > README only shows the first 50 items. See `data/chatgpt-prompts.json` for the full archive.
