@@ -5,10 +5,10 @@ An open archive of all prompts currently exposed by OpenNana's ChatGPT gallery.
 - Source page: https://opennana.com/awesome-prompt-gallery?model=ChatGPT
 - Source API: `https://api.opennana.com/api/prompts`
 - Sync schedule: every day at **00:00 Asia/Shanghai** via GitHub Actions
-- Reported by source: **9106**
-- Archived in this snapshot: **9106**
+- Reported by source: **9126**
+- Archived in this snapshot: **9126**
 - Failed this run: **0**
-- Fetched at: **2026-08-16T17:13:38.633Z**
+- Fetched at: **2026-08-17T17:22:16.743Z**
 
 ## Files
 
@@ -22,6 +22,7 @@ An open archive of all prompts currently exposed by OpenNana's ChatGPT gallery.
 
 | Title | Tags | Source | Link |
 |---|---|---|---|
+| 少女晨间刚睡醒手机自拍特写 |  | @Naiknelofar788 | [detail](https://opennana.com/awesome-prompt-gallery/smartphone-selfie-morning-wake-up-girl) |
 | 蔚县剪纸非遗开屏：以刀代笔让纸窗盛开 | 非遗, 剪纸, 蔚县, 艺术 | - | [detail](https://opennana.com/awesome-prompt-gallery/yuxian-papercut-mobile-splash) |
 | 岭南非遗香云纱：日晒与大地的褐金史诗 | 非遗, 香云纱, 岭南, 品牌感 | - | [detail](https://opennana.com/awesome-prompt-gallery/xiangyunsha-heritage-brown-gold-epic) |
 | 匠心传承杨柳青木版年画品牌视觉 | 非遗, 年画, 杨柳青, 国风 | - | [detail](https://opennana.com/awesome-prompt-gallery/yangliuqing-heritage-kv) |
@@ -71,6 +72,5 @@ An open archive of all prompts currently exposed by OpenNana's ChatGPT gallery.
 | 秋冬干皮囤货首选双瓶身体乳主图 | 秋冬款, 身体乳, 囤货装, 双瓶装 | - | [detail](https://opennana.com/awesome-prompt-gallery/autumn-winter-dry-skin-body-lotion-set) |
 | 极简燕麦色护手霜三支装秋冬礼赠主图 | 护手霜, 三支装, 燕麦白, 秋冬款 | - | [detail](https://opennana.com/awesome-prompt-gallery/minimalist-oatmeal-hand-cream-set) |
 | 夏日通勤双支装防晒霜天猫结构化主图 | 防晒霜, 双支装, 通勤风, 结构化 | - | [detail](https://opennana.com/awesome-prompt-gallery/summer-commute-sunscreen-2pack-tmall) |
-| 618会场滴管粉底液精准色阶识别主图 | 粉底液, 滴管, 六一八, 色号 | - | [detail](https://opennana.com/awesome-prompt-gallery/618-dropper-foundation-shade-recognition) |
 
 > README only shows the first 50 items. See `data/chatgpt-prompts.json` for the full archive.
