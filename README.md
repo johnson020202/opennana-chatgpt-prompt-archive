@@ -5,10 +5,10 @@ An open archive of all prompts currently exposed by OpenNana's ChatGPT gallery.
 - Source page: https://opennana.com/awesome-prompt-gallery?model=ChatGPT
 - Source API: `https://api.opennana.com/api/prompts`
 - Sync schedule: every day at **00:00 Asia/Shanghai** via GitHub Actions
-- Reported by source: **9279**
-- Archived in this snapshot: **9279**
+- Reported by source: **9467**
+- Archived in this snapshot: **9467**
 - Failed this run: **0**
-- Fetched at: **2026-08-18T17:27:11.933Z**
+- Fetched at: **2026-08-19T17:15:18.242Z**
 
 ## Files
 
@@ -22,55 +22,55 @@ An open archive of all prompts currently exposed by OpenNana's ChatGPT gallery.
 
 | Title | Tags | Source | Link |
 |---|---|---|---|
-| 漩涡鸣人坚持意志版画神谕卡 | 版画, 火影, 神谕卡, 鸣人 | - | [detail](https://opennana.com/awesome-prompt-gallery/naruto-persistence-woodcut-oracle-card) |
-| 自由之魂路飞复古旅行海报风神谕卡 | 海贼王, 神谕卡, 复古风, 路飞 | - | [detail](https://opennana.com/awesome-prompt-gallery/luffy-freedom-oracle-card-vintage) |
-| 悟空突破神谕卡：界限并非终点 | 龙珠, 神谕卡, 浮雕感, 孙悟空 | - | [detail](https://opennana.com/awesome-prompt-gallery/goku-breakthrough-oracle-card) |
-| 守护之月：美少女战士主题艺术神谕卡 | 美少女, 神谕卡, 新艺术, 月野兔 | - | [detail](https://opennana.com/awesome-prompt-gallery/guardian-moon-sailor-moon-oracle-card) |
-| 鬼灭之刃炭治郎慈悲主题神谕卡 | 鬼灭之刃, 炭治郎, 工笔重彩, 神谕卡 | - | [detail](https://opennana.com/awesome-prompt-gallery/demon-slayer-tanjiro-compassion-oracle) |
-| 薇尔莉特神谕卡：心意传递的理解之光 | 薇尔莉特, 神谕卡, 铜版画, 水彩风 | - | [detail](https://opennana.com/awesome-prompt-gallery/violet-oracle-understanding-light) |
-| 钢炼爱德华代价主题中世纪手抄本神谕卡 | 钢之炼金术师, 中世纪风格, 神谕卡, 爱德华 | - | [detail](https://opennana.com/awesome-prompt-gallery/edward-the-price-manuscript-oracle) |
-| 黄金十二宫桌游卡牌天龙座紫龙 | 圣斗士, 天龙座, 紫龙, 桌游卡 | - | [detail](https://opennana.com/awesome-prompt-gallery/golden-zodiac-dragon-shiryu-card) |
-| 黄金十二宫桌游白鸟座冰河角色卡 | 圣斗士, 冰河, 桌游, 极光 | - | [detail](https://opennana.com/awesome-prompt-gallery/cygnus-hyoga-board-game-card) |
-| 圣斗士星矢仙女座瞬精美桌游卡牌 | 圣斗士, 桌游卡, 二次元, 仙女座 | - | [detail](https://opennana.com/awesome-prompt-gallery/saint-seiya-andromeda-shun-card) |
-| 圣斗士凤凰座一辉桌游卡牌视觉设计 | 圣斗士, 一辉, 桌游卡, 二次元 | - | [detail](https://opennana.com/awesome-prompt-gallery/phoenix-ikki-board-game-card-design) |
-| 星矢第七感爆发天马流星拳觉醒卡 | 圣斗士, 角色卡, 第七感, 二次元 | - | [detail](https://opennana.com/awesome-prompt-gallery/seiya-7th-sense-awakening-card) |
-| 紫龙天龙座舍身之盾觉醒卡 | 圣斗士, 紫龙, 卡牌设计, 天龙座 | - | [detail](https://opennana.com/awesome-prompt-gallery/shiryu-shield-of-sacrifice-awakening-card) |
-| 圣斗士冰河绝对零度觉醒卡牌设计 | 圣斗士, 二次元, 卡牌, 冰雪 | - | [detail](https://opennana.com/awesome-prompt-gallery/hyoga-absolute-zero-awakening-card) |
-| 瞬星云爆发觉醒角色卡设计 | 圣斗士, 角色卡, 仙女座, 卡牌 | - | [detail](https://opennana.com/awesome-prompt-gallery/shun-nebula-storm-awakening-card) |
-| 一辉凤凰涅槃觉醒卡牌：暗红余烬中的重生战神 | 一辉, 凤凰座, 卡牌设计, 冷烫感 | - | [detail](https://opennana.com/awesome-prompt-gallery/ikki-phoenix-rebirth-awakening-card) |
-| 圣斗士星矢天马座青铜角色桌游卡牌设计 | 圣斗士, 桌游卡, 星矢, 二次元 | - | [detail](https://opennana.com/awesome-prompt-gallery/pegasus-seiya-bronze-saint-card-design) |
-| 黄金圣斗士白羊座穆：星屑旋转的修复时刻 | 圣斗士, 白羊座, 角色卡, 黄金风 | - | [detail](https://opennana.com/awesome-prompt-gallery/aries-mu-golden-saint-repair-moment) |
-| 圣斗士星矢金牛座阿鲁迪巴黄金收藏卡片 | 圣斗士, 金牛座, 角色卡, 黄金圣衣 | - | [detail](https://opennana.com/awesome-prompt-gallery/saint-seiya-taurus-aldebaran-golden-card) |
-| 圣斗士星矢双子座撒加黄金典藏角色卡 | 圣斗士, 双子座, 撒加, 角色卡 | - | [detail](https://opennana.com/awesome-prompt-gallery/saint-seiya-gemini-saga-golden-card) |
-| 黄金圣斗士巨蟹座迪斯马斯克典藏卡牌 | 圣斗士, 巨蟹座, 卡牌, 黄金甲 | - | [detail](https://opennana.com/awesome-prompt-gallery/cancer-deathmask-golden-card) |
-| 圣斗士狮子座艾欧里亚等离子光速拳卡牌 | 圣斗士, 狮子座, 金箔感, 艾欧里亚 | - | [detail](https://opennana.com/awesome-prompt-gallery/leo-aiolia-plasma-lightning-card) |
-| 处女座沙加黄金圣衣角色卡牌设计 | 处女座, 沙加, 黄金卡, 圣斗士 | - | [detail](https://opennana.com/awesome-prompt-gallery/virgo-shaka-golden-character-card) |
-| 圣斗士星矢天秤座童虎典藏黄金角色卡 | 圣斗士, 天秤座, 童虎, 黄金卡 | - | [detail](https://opennana.com/awesome-prompt-gallery/libra-dohko-gold-character-card) |
-| 圣斗士星矢天蝎座米罗黄金角色卡设计 | 天蝎座, 圣斗士, 角色卡, 黄金漆 | - | [detail](https://opennana.com/awesome-prompt-gallery/saint-seiya-scorpio-milo-gold-card) |
-| 射手座艾俄洛斯黄金圣斗士典藏角色卡 | 圣斗士, 黄金卡, 射手座, 二次元 | - | [detail](https://opennana.com/awesome-prompt-gallery/sagittarius-aiolos-golden-collector-card) |
-| 黄金圣斗士山羊座修罗：圣剑艾斯卡利巴之刃 | 圣斗士, 黄金卡, 山羊座, 二次元 | - | [detail](https://opennana.com/awesome-prompt-gallery/capricorn-shura-excalibur-gold-card) |
-| 凤凰座一辉凤翼天翔技能卡设计 | 圣斗士, 技能卡, 凤凰座, 游戏UI | - | [detail](https://opennana.com/awesome-prompt-gallery/phoenix-wings-ascension-card) |
-| 凤凰涅槃圣斗士一辉绝技卡片设计 | 圣斗士, 技能卡, 凤凰座, 游戏卡 | - | [detail](https://opennana.com/awesome-prompt-gallery/phoenix-nirvana-ikki-skill-card) |
-| 极地寒冷龙卷风冰系技能卡牌设计 | 技能卡, 冰系, 龙卷风, 银箔 | - | [detail](https://opennana.com/awesome-prompt-gallery/cold-tornado-ice-skill-card) |
-| 圣斗士绝招：曙光女神之宽恕设计卡 | 圣斗士, 技能卡, 极寒, 卡牌 | - | [detail](https://opennana.com/awesome-prompt-gallery/aurora-execution-skill-card) |
-| 圣斗士瞬星云锁链：玫瑰银箔精致技能卡设计 | 圣斗士, 技能卡, 卡牌, 金属感 | - | [detail](https://opennana.com/awesome-prompt-gallery/saint-seiya-shun-nebula-chain-card) |
-| 瞬之守护：环形防御三层锁链技能卡 | 技能卡, 锁链, 珠光, 防御 | - | [detail](https://opennana.com/awesome-prompt-gallery/shun-guardian-circular-defense-skill-card) |
-| 仙女座瞬星云风暴全息技能卡 | 圣斗士, 技能卡, 星云, 全息感 | - | [detail](https://opennana.com/awesome-prompt-gallery/andromeda-shun-nebula-storm-card) |
-| 圣斗士一辉凤凰幻魔拳技能卡设计 | 圣斗士, 技能卡, 二次元, 酷炫 | - | [detail](https://opennana.com/awesome-prompt-gallery/phoenix-illusion-demon-fist-card) |
-| 燃烧小宇宙青铜拳套星空资源卡 | 圣斗士, 资源卡, 拳套, 星空 | - | [detail](https://opennana.com/awesome-prompt-gallery/burning-cosmo-bronze-gauntlet-card) |
-| 圣斗士冰河钻石星尘拳技能卡设计 | 圣斗士, 技能卡, 冰晶感, 冷烫感 | - | [detail](https://opennana.com/awesome-prompt-gallery/hyoga-diamond-dust-skill-card) |
-| 圣斗士第七感觉醒全息资源卡 | 第七感, 资源卡, 全息感, 圣斗士 | - | [detail](https://opennana.com/awesome-prompt-gallery/saint-seiya-seventh-sense-card) |
-| 圣域巅峰之十二宫曙光终局卡面 | 圣域, 卡牌, 金箔, 十二宫 | - | [detail](https://opennana.com/awesome-prompt-gallery/dawn-of-the-zodiac-endgame-card) |
-| 黄金箭的倒计时：末日黄昏危机卡牌设计 | 卡牌, 金箔, 十二宫, 倒计时 | - | [detail](https://opennana.com/awesome-prompt-gallery/countdown-of-the-golden-arrow-crisis-card) |
-| 圣斗士星矢雅典娜的祈祷传奇支援卡 | 圣斗士, 雅典娜, 卡牌感, 二次元 | - | [detail](https://opennana.com/awesome-prompt-gallery/athenas-prayer-legendary-support-card) |
-| 凤凰重生之火：圣衣觉醒资源卡 | 卡牌设计, 凤凰座, 圣衣, 涅槃重生 | - | [detail](https://opennana.com/awesome-prompt-gallery/phoenix-rebirth-fire-card) |
-| 圣域白羊座穆之铠甲修复神迹 | 白羊座, 圣斗士, 卡牌感, 金箔画 | - | [detail](https://opennana.com/awesome-prompt-gallery/mu-repair-saint-cloth-miracle) |
-| 黄金之血圣衣修复资源卡设计 | 资源卡, 圣衣, 黄金, 修复 | - | [detail](https://opennana.com/awesome-prompt-gallery/golden-blood-repair-card) |
-| 圣衣龟裂状态卡：银色胸甲与微弱小宇宙 | 圣衣, 龟裂, 卡牌, 银箔 | - | [detail](https://opennana.com/awesome-prompt-gallery/saint-cloth-cracking-status-card) |
-| 极限燃烧银色宇宙核心圣衣设计卡 | 卡牌, 游戏UI, 华丽, 燃烧 | - | [detail](https://opennana.com/awesome-prompt-gallery/limit-burn-silver-universe-card) |
-| 神秘预知卡牌第六感深蓝星空银色激光 | 卡牌, 星空, 科技感, 磨砂 | - | [detail](https://opennana.com/awesome-prompt-gallery/mystery-foresight-card-sixth-sense) |
-| 少女晨间刚睡醒手机自拍特写 |  | @Naiknelofar788 | [detail](https://opennana.com/awesome-prompt-gallery/smartphone-selfie-morning-wake-up-girl) |
-| 蔚县剪纸非遗开屏：以刀代笔让纸窗盛开 | 非遗, 剪纸, 蔚县, 艺术 | - | [detail](https://opennana.com/awesome-prompt-gallery/yuxian-papercut-mobile-splash) |
-| 三彩入窑盛唐觉醒：非遗工艺品牌视觉大片 | 唐三彩, 非遗, 陶瓷工艺, 品牌海报 | - | [detail](https://opennana.com/awesome-prompt-gallery/tang-sancai-glaze-awakening) |
+| 印心小馆七夕一印相知文创插画设计 | 七夕, 篆刻, 中国风, 文创 | - | [detail](https://opennana.com/awesome-prompt-gallery/yinxin-xiaoguan-qixi-seal-illustration) |
+| 篆香遇七夕：香气有形思念有迹中国风插画 | 中国风, 香文化, 商业插画, 七夕礼赠 | - | [detail](https://opennana.com/awesome-prompt-gallery/zhuan-xiang-yu-qixi-illustration) |
+| 花窗小叙：苏式园林里的七夕浪漫茶席 | 七夕, 园林, 工笔, 插画 | - | [detail](https://opennana.com/awesome-prompt-gallery/huachuang-qixi-garden-tea) |
+| 弦上知音：古琴谱与现代木刻版画的七夕礼赞 | 七夕, 古琴, 版画, 中国风 | - | [detail](https://opennana.com/awesome-prompt-gallery/heard-by-heart-tanabata-woodcut) |
+| 青花相映恰好成双：七夕东方瓷礼包装设计 | 青花瓷, 七夕, 商业插画, 东方美学 | - | [detail](https://opennana.com/awesome-prompt-gallery/blue-and-white-qixi-gift) |
+| 经纬交织寸锦相思七夕高端丝绸插画 | 中国风, 宋锦, 缂丝, 七夕 | - | [detail](https://opennana.com/awesome-prompt-gallery/cunjin-xiangsi-silk-illustration) |
+| 玉见卿七夕商业插画：温润如玉的东方礼赞 | 中国风, 珠宝感, 浅浮雕, 七夕礼 | - | [detail](https://opennana.com/awesome-prompt-gallery/yujianqing-qixi-jade-illustration) |
+| 敦煌色彩与现代几何构成的七夕视觉设计 | 七夕, 敦煌, 国风, 商业 | - | [detail](https://opennana.com/awesome-prompt-gallery/dunhuang-modern-qixi-visual) |
+| 宋韵新风鹊书七夕礼赞山水意境插画 | 宋韵, 七夕, 绢本, 国风 | - | [detail](https://opennana.com/awesome-prompt-gallery/song-dynasty-style-qixi-illustration) |
+| 唯美微醺星河彩色玻璃七夕插画 | 七夕, 玻璃, 香槟, 插画 | - | [detail](https://opennana.com/awesome-prompt-gallery/beautiful-tipsy-galaxy-stained-glass-qixi) |
+| 暮色蔷薇七夕花园约会马赛克壁画插画 | 马赛克, 七夕, 蔷薇, 商业插画 | - | [detail](https://opennana.com/awesome-prompt-gallery/twilight-rose-qixi-garden-mosaic) |
+| 恒星之间：天文铜版蚀刻风七夕婚戒商业插画 | 铜版画, 婚戒, 七夕, 天文 | - | [detail](https://opennana.com/awesome-prompt-gallery/between-the-stars-etching-wedding-ring) |
+| 柔美风语七夕丝巾流体纸艺商业插画 | 七夕, 丝巾, 插画, 流体 | - | [detail](https://opennana.com/awesome-prompt-gallery/romantic-wind-qixi-silk-scarf-illustration) |
+| 极简美学七夕巧克力包装设计插画 | 七夕礼赠, 商业插画, 浮雕质感, 微距摄影 | - | [detail](https://opennana.com/awesome-prompt-gallery/minimal-qixi-chocolate-packaging) |
+| 潮汐相拥：七夕海洋灵感珍珠母贝商业插画 | 珠宝, 珍珠母, 七夕, 商业 | - | [detail](https://opennana.com/awesome-prompt-gallery/tidal-embrace-qixi-jewelry-illustration) |
+| 浪漫纸雕与活版印刷：七夕字里相见礼盒插画 | 纸雕, 七夕, 文艺, 礼盒 | - | [detail](https://opennana.com/awesome-prompt-gallery/qixi-paper-carving-letterpress) |
+| 七夕温柔梦境：梦里见品牌色铅笔插画 | 七夕, 商业插画, 治愈系, 粉彩画 | - | [detail](https://opennana.com/awesome-prompt-gallery/qixi-dream-pajamas-illustration) |
+| 鎏喜七夕：掐丝珐琅工艺耳饰商业插画 | 七夕礼赠, 掐丝珐琅, 东方美学, 商业插画 | - | [detail](https://opennana.com/awesome-prompt-gallery/liuxi-qixi-cloisonne-jewelry-illustration) |
+| 波普漫画风七夕限定气泡饮商业海报 | 波普风, 七夕, 商业插画, 气泡水 | - | [detail](https://opennana.com/awesome-prompt-gallery/qixi-pop-art-sparkling-drink-poster) |
+| 七夕心花广场中庭大型充气花朵美陈插画 | 七夕美陈, 充气艺术, 商业插画, 场景设计 | - | [detail](https://opennana.com/awesome-prompt-gallery/qixi-heart-bloom-plaza-atrium) |
+| 热恋百货七夕节庆纸艺橱窗舞台插画 | 纸艺, 七夕, 橱窗, 插画 | - | [detail](https://opennana.com/awesome-prompt-gallery/qixi-hot-love-paper-cut-window) |
+| 双喜出游七夕限定复古旅行插画海报 | 七夕, 复古, 旅行, 插画 | - | [detail](https://opennana.com/awesome-prompt-gallery/double-joy-qixi-retro-travel-poster) |
+| 鹊来报喜：现代皮影戏七夕文创商业插画 | 七夕, 文创, 皮影, 插画 | - | [detail](https://opennana.com/awesome-prompt-gallery/magpie-joy-qixi-illustration) |
+| 红桌喜宴现代民艺七夕团圆商业插画 | 现代民艺, 七夕插画, 餐饮营销, 几何纹样 | - | [detail](https://opennana.com/awesome-prompt-gallery/modern-folk-art-qixi-feast) |
+| 绯色心动七夕限定漆艺美妆礼盒插画 | 七夕, 漆艺, 美妆, 插画 | - | [detail](https://opennana.com/awesome-prompt-gallery/crimson-heartbeat-qixi-lacquer-giftbox) |
+| 桃喜糖铺七夕礼盒：高调示爱分享甜蜜 | 七夕, 孔版印刷, 包装设计, 商业插画 | - | [detail](https://opennana.com/awesome-prompt-gallery/qixi-peach-candy-celebration) |
+| 当代剪纸风喜逢礼所七夕品牌海报设计 | 七夕, 剪纸, 插画, 礼赠 | - | [detail](https://opennana.com/awesome-prompt-gallery/contemporary-papercut-qixi-poster) |
+| 同屋日记：七夕等距微缩家居浪漫空间 | 等距投影, 商业插画, 治愈家居, 矢量风格 | - | [detail](https://opennana.com/awesome-prompt-gallery/life-together-qixi-isometric-home) |
+| 瑞士网格美学：刻间七夕共享时刻 | 瑞士网格, 商业插画, 七夕礼物, 极简主义 | - | [detail](https://opennana.com/awesome-prompt-gallery/swiss-grid-kejian-qixi-watch) |
+| 莓好发生：七夕油画棒治愈系甜点插画 | 油画棒, 七夕节, 甜点店, 氛围感 | - | [detail](https://opennana.com/awesome-prompt-gallery/berry-good-happenings-qixi-dessert) |
+| 七夕并肩而行的浪漫骑行画卷 | 七夕, 骑行, 插画, 运动 | - | [detail](https://opennana.com/awesome-prompt-gallery/qixi-side-by-side-cycling) |
+| 波普幻境七夕限定时尚眼镜插画设计 | 波普风, 七夕节, 商业插画, 视觉错视 | - | [detail](https://opennana.com/awesome-prompt-gallery/pop-art-qixi-eyewear-design) |
+| 浪漫七夕向你生长植物科学插画 | 植物绘, 七夕礼, 商业感, 治愈系 | - | [detail](https://opennana.com/awesome-prompt-gallery/growing-towards-you-botanical-illustration) |
+| 蓝晒艺术风七夕家居礼插画：晚安合伙人 | 蓝晒, 七夕, 家居, 版画 | - | [detail](https://opennana.com/awesome-prompt-gallery/cyanotype-qixi-goodnight-partner) |
+| 七夕宠物生活：我们仨的温馨客厅时刻 | 七夕, 宠物, 插画, 拼贴 | - | [detail](https://opennana.com/awesome-prompt-gallery/qixi-pet-life-we-three) |
+| 结一寸：针脚间的七夕浪漫礼赞 | 拼贴风, 亚麻感, 七夕礼, 结一寸 | - | [detail](https://opennana.com/awesome-prompt-gallery/tie-an-inch-qixi-romance) |
+| 复古拼贴黑胶唱片七夕特别版封面 | 七夕, 黑胶, 拼贴, 复古 | - | [detail](https://opennana.com/awesome-prompt-gallery/retro-vinyl-qixi-special) |
+| 喜欢无需盛大也会准时抵达七夕花礼插画 | 水彩风, 七夕节, 叙事感, 治愈系 | - | [detail](https://opennana.com/awesome-prompt-gallery/qixi-flower-gift-narrative-illustration) |
+| 丝网版画风格半分甜七夕巧克力礼盒插画 | 丝网版画, 七夕礼盒, 商业插画, 巧克力 | - | [detail](https://opennana.com/awesome-prompt-gallery/qixi-chocolate-screen-print) |
+| 七夕陶土雕塑感高端香氛商业海报 | 陶土风, 香氛, 七夕, 极简 | - | [detail](https://opennana.com/awesome-prompt-gallery/qixi-clay-fragrance-poster) |
+| 今晚散步：七夕都市浪漫生活切片 | 七夕, 插画, 都市, 浪漫 | - | [detail](https://opennana.com/awesome-prompt-gallery/tonight-walk-qixi-urban-slice) |
+| 七夕双人席建筑剖面叙事商业插画 | 建筑剖面, 商业插画, 七夕营销, 暖色平涂 | - | [detail](https://opennana.com/awesome-prompt-gallery/qixi-double-seat-architectural-illustration) |
+| 浪漫七夕并肩出发：纸雕风旅行品牌插画 | 纸雕, 七夕, 旅行, 插画 | - | [detail](https://opennana.com/awesome-prompt-gallery/qixi-travel-papercut-illustration) |
+| 极简几何风格七夕同频情感商业插画 | 低多边形, 商业插画, 极简主义, 七夕主题 | - | [detail](https://opennana.com/awesome-prompt-gallery/minimalist-geometry-qixi-commercial-illustration) |
+| 星河有约：现代水墨构成的七夕文创商业插画 | 七夕, 水墨, 国风, 极简 | - | [detail](https://opennana.com/awesome-prompt-gallery/starry-river-modern-ink) |
+| 答案是你七夕汉字图形共构商业插画 | 七夕, 商业插画, 汉字图形, 几何拼贴 | - | [detail](https://opennana.com/awesome-prompt-gallery/you-are-the-answer-qixi-kanji-illustration) |
+| 极简主义艺术风格VOGUE个人概念封面设计 | 极简主义, 时尚封面, 留白美学, 高级感 | - | [detail](https://opennana.com/awesome-prompt-gallery/minimalist-vogue-concept-cover) |
+| VOGUE午夜蓝调时尚杂志封面 | 杂志封面, 午夜蓝调, 缎面礼服, 城市夜景 | - | [detail](https://opennana.com/awesome-prompt-gallery/vogue-midnight-blue-cover) |
+| 极简黑白VOGUE动态建筑感时装封面 | 时尚封面, 动态摄影, 极简风格, 建筑感 | - | [detail](https://opennana.com/awesome-prompt-gallery/vogue-minimalist-dynamic-architecture-cover) |
+| 克莱因蓝几何构图艺术杂志封面 | 时尚志, 极简风, 几何感, 高定感 | - | [detail](https://opennana.com/awesome-prompt-gallery/cobalt-blue-geometric-vogue-cover) |
 
 > README only shows the first 50 items. See `data/chatgpt-prompts.json` for the full archive.
