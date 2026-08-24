@@ -5,10 +5,10 @@ An open archive of all prompts currently exposed by OpenNana's ChatGPT gallery.
 - Source page: https://opennana.com/awesome-prompt-gallery?model=ChatGPT
 - Source API: `https://api.opennana.com/api/prompts`
 - Sync schedule: every day at **00:00 Asia/Shanghai** via GitHub Actions
-- Reported by source: **9989**
-- Archived in this snapshot: **9989**
+- Reported by source: **10061**
+- Archived in this snapshot: **10061**
 - Failed this run: **0**
-- Fetched at: **2026-08-23T17:20:25.716Z**
+- Fetched at: **2026-08-24T17:37:42.419Z**
 
 ## Files
 
@@ -29,7 +29,13 @@ An open archive of all prompts currently exposed by OpenNana's ChatGPT gallery.
 | 象牙白立体纱花艺术品牌视觉大片 | 品牌视觉, 薄纱艺术, 立体胸花, 时尚大片 | - | [detail](https://opennana.com/awesome-prompt-gallery/ivory-bloom-tulle-art-kv) |
 | 宝石蓝水滴镂空高级感视觉 | 宝石蓝, KV视觉, 水滴镂空, 薄纱蕾丝 | - | [detail](https://opennana.com/awesome-prompt-gallery/sapphire-blue-keyhole-dress-kv) |
 | 桂月宫香：唐风幻境中的端雅药官 | 唐风, 仙气, 唯美, 古风 | - | [detail](https://opennana.com/awesome-prompt-gallery/laurel-palace-fragrance-medicine-official) |
+| 霜叶归锋：秋霜剑阁下的清冷女修 | 唐风, 女修, 剑阵, 秋景 | - | [detail](https://opennana.com/awesome-prompt-gallery/frost-leaf-returning-blade) |
+| 盛唐幻梦：东海灵塔守灯人 | 唐风幻想, 仙侠写真, 唯美古风, 守灯丽人 | - | [detail](https://opennana.com/awesome-prompt-gallery/tang-fantasy-spirit-tower-keeper) |
+| 故宫任天堂联名款宫门双启Joy-Con手柄 | 故宫, 任天堂, 国风, 工业设计 | - | [detail](https://opennana.com/awesome-prompt-gallery/forbidden-city-nintendo-joycon-set) |
 | 故宫联名任天堂御路竞游手柄 | 故宫, 任天堂, 工业设计, 国风 | - | [detail](https://opennana.com/awesome-prompt-gallery/forbidden-city-nintendo-pro-controller) |
+| 青柠运动蕾丝裙新品发布品牌海报 | 运动风, 品牌KV, 蕾丝裙, 青柠绿 | - | [detail](https://opennana.com/awesome-prompt-gallery/lime-sport-lace-dress-launch-poster) |
+| 海棠粉蕾丝束腰裙品牌视觉大片 | 海棠粉, 束腰裙, 花房, 品牌KV | - | [detail](https://opennana.com/awesome-prompt-gallery/begonia-pink-corset-lace-brand-kv) |
+| 莓红蕾丝立体剪裁夏夜派对品牌大片 | 品牌大片, 蕾丝短裙, 夏夜派对, 时装摄影 | - | [detail](https://opennana.com/awesome-prompt-gallery/raspberry-lace-party-brand-kv) |
 | 霞光西天门落日巡云东方天宫全景 | 东方神话, 天宫盛景, 落日余晖, 仙侠风格 | - | [detail](https://opennana.com/awesome-prompt-gallery/sunset-patrol-west-heaven-gate) |
 | 铸龙台神兵出云火东方天宫造物史诗 | 东方玄幻, 史诗感, 仙侠风, 宽银幕 | - | [detail](https://opennana.com/awesome-prompt-gallery/dragon-casting-platform-celestial-epic) |
 | 山海天图云上帝阙：东方神话终极全景视界 | 东方神话, 金碧山水, 宏大叙事, 天宫建筑 | - | [detail](https://opennana.com/awesome-prompt-gallery/mountain-sea-heaven-map-celestial-palace) |
@@ -38,6 +44,8 @@ An open archive of all prompts currently exposed by OpenNana's ChatGPT gallery.
 | 北国宫苑雪霁图：红墙白雪下的孤身画师 | 雪景, 古风, 建筑, 界画 | - | [detail](https://opennana.com/awesome-prompt-gallery/northern-palace-snow-painter) |
 | 盛唐皇家园林晨曦金碧山水全景画 | 盛唐, 园林, 金碧, 晨曦 | - | [detail](https://opennana.com/awesome-prompt-gallery/tang-dynasty-royal-garden-dawn) |
 | 月照姑苏园林深处仕女提灯入画 | 苏州园林, 宋韵工笔, 月下仕女, 古典美学 | - | [detail](https://opennana.com/awesome-prompt-gallery/moonlit-suzhou-garden-lady) |
+| 九品莲台云海讲道东方神话仙境大景 | 东方神话, 仙境大景, 唯美古风, 云海仙山 | - | [detail](https://opennana.com/awesome-prompt-gallery/nine-grade-lotus-preaching-scene) |
+| 天河云港千帆竞发东方神话史诗画卷 | 东方神话, 天宫之境, 星河云海, 古典神舟 | - | [detail](https://opennana.com/awesome-prompt-gallery/tianhe-cloud-port-epic-voyage) |
 | 凌霄宝殿云海御道磅礴中轴全景图 | 东方神话, 建筑摄影, 史诗感, 仙侠风 | - | [detail](https://opennana.com/awesome-prompt-gallery/majestic-lingxiao-palace-panorama) |
 | 东方史诗南天门晨曦启幕万象新 | 南天门, 史诗感, 仙侠风, 晨曦感 | - | [detail](https://opennana.com/awesome-prompt-gallery/epic-oriental-southern-heavenly-gate) |
 | 唯美东方神话月宫金桂全景画卷 | 国风, 神话, 月宫, 仙境 | - | [detail](https://opennana.com/awesome-prompt-gallery/oriental-moon-palace-panorama) |
@@ -50,6 +58,7 @@ An open archive of all prompts currently exposed by OpenNana's ChatGPT gallery.
 | 雪霁玉京北天门史诗神话奇观 | 东方神话, 雪后初晴, 天宫建筑, 史诗质感 | - | [detail](https://opennana.com/awesome-prompt-gallery/snowy-yujing-north-heaven-gate-epic) |
 | 磅礴东方神话：赤金天坛日宫启曜盛典 | 东方神话, 天宫建筑, 日出晨曦, 赤金美学 | - | [detail](https://opennana.com/awesome-prompt-gallery/majestic-oriental-myth-golden-sun-temple) |
 | 东方天宫风雨云台四海行云调度大景 | 东方神话, 仙侠, 唯美, 宏大 | - | [detail](https://opennana.com/awesome-prompt-gallery/oriental-celestial-weather-platform) |
+| 四时天宫之天地轮转东方神话宏大奇观 | 东方神话, 建筑美学, 云海仙境, 金碧山水 | - | [detail](https://opennana.com/awesome-prompt-gallery/four-seasons-heavenly-palace-mythology) |
 | 大汉昭君塞外雪原典藏卡 | 王昭君, 汉服, 典藏卡, 工笔画 | - | [detail](https://opennana.com/awesome-prompt-gallery/wang-zhaojun-sss-collection-card) |
 | 华夏红颜SSS级典藏卡：闭月佳人貂蝉 | 貂蝉, 收藏卡, 古风, 新艺术 | - | [detail](https://opennana.com/awesome-prompt-gallery/hua-xia-hong-yan-sss-diao-chan) |
 | 盛世大唐杨玉环SSS典藏级集卡设计 | 杨玉环, 盛唐风, 收藏卡, 牡丹花 | - | [detail](https://opennana.com/awesome-prompt-gallery/grand-tang-yang-yuhuan-card) |
@@ -62,15 +71,6 @@ An open archive of all prompts currently exposed by OpenNana's ChatGPT gallery.
 | 专业个人品牌视觉识别卡钴蓝系列 | 职场风, 品牌感, 极简主义, 商务感 | - | [detail](https://opennana.com/awesome-prompt-gallery/professional-personal-branding-card-cobalt) |
 | 大地丰收万家月圆：田月丰物现代商插 | 丰收节, 中秋节, 扁平风, 农民画 | - | [detail](https://opennana.com/awesome-prompt-gallery/harvest-moon-modern-peasant-art) |
 | 青瓷月影：高端中秋茶礼龙泉釉色插画 | 中秋, 青瓷, 茶礼, 极简 | - | [detail](https://opennana.com/awesome-prompt-gallery/celadon-moon-mid-autumn-tea-illustration) |
-| 木版水印风格中秋糕点商业插画设计 | 中秋, 版画, 插画, 月饼 | - | [detail](https://opennana.com/awesome-prompt-gallery/woodblock-mid-autumn-pastry-illustration) |
-| 青铜月影：铜月纪中秋文创商业海报设计 | 中秋文创, 青铜纹样, 商业海报, 现代插画 | - | [detail](https://opennana.com/awesome-prompt-gallery/bronze-moon-cultural-poster) |
-| 中秋榫卯花灯手作亲子商业插画 | 中秋, 榫卯, 亲子, 插画 | - | [detail](https://opennana.com/awesome-prompt-gallery/mid-autumn-mortise-lantern-parent-child) |
-| 中秋限定泥塑风插画：兔陶坊玉兔送甜来 | 中秋节, 泥塑风, 玉兔, 商业插画 | - | [detail](https://opennana.com/awesome-prompt-gallery/mid-autumn-clay-sculpture-illustration) |
-| 治愈系云端邮差晴邮邮三维角色设定图 | 角色设定, 三维渲染, 治愈风格, 多视图 | - | [detail](https://opennana.com/awesome-prompt-gallery/healing-cloud-messenger-character-sheet) |
-| 柚子舱袖珍宇航员3D多角度角色设定页 | 角色设定, 3D建模, Q版风格, 盲盒质感 | - | [detail](https://opennana.com/awesome-prompt-gallery/yuzu-capsule-character-sheet) |
-| 软萌3D面包师泡面包多角度角色设定图 | 角色设计, 设定图, 3D模型, 软萌风 | - | [detail](https://opennana.com/awesome-prompt-gallery/soft-3d-baker-bao-mian-bao) |
-| 瓷砖缝隙间的微缩艺术家彩色粉笔绘梦 | 微缩景观, 宏观摄影, 写实主义, 创意构图 | - | [detail](https://opennana.com/awesome-prompt-gallery/miniature-artist-on-tile-grout) |
-| 山谷丰收与村寨共迎羌年新岁视觉 | 羌年, 非遗, 民俗, 品牌 | - | [detail](https://opennana.com/awesome-prompt-gallery/qiang-new-year-harvest-celebration) |
-| 弦语江南：苏州评弹文化官网品牌主视觉 | 苏州评弹, 非遗文化, 江南美学, 品牌视觉 | - | [detail](https://opennana.com/awesome-prompt-gallery/suzhou-pingtan-brand-kv) |
+| 竹月编中秋礼盒商业插画视觉大片 | 竹编工艺, 中秋佳节, 商业插画, 品牌设计 | - | [detail](https://opennana.com/awesome-prompt-gallery/zhu-yue-bian-mid-autumn-commercial-art) |
 
 > README only shows the first 50 items. See `data/chatgpt-prompts.json` for the full archive.
