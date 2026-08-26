@@ -5,10 +5,10 @@ An open archive of all prompts currently exposed by OpenNana's ChatGPT gallery.
 - Source page: https://opennana.com/awesome-prompt-gallery?model=ChatGPT
 - Source API: `https://api.opennana.com/api/prompts`
 - Sync schedule: every day at **00:00 Asia/Shanghai** via GitHub Actions
-- Reported by source: **10224**
-- Archived in this snapshot: **10224**
+- Reported by source: **10327**
+- Archived in this snapshot: **10327**
 - Failed this run: **0**
-- Fetched at: **2026-08-25T17:40:57.954Z**
+- Fetched at: **2026-08-26T17:57:29.340Z**
 
 ## Files
 
@@ -22,6 +22,23 @@ An open archive of all prompts currently exposed by OpenNana's ChatGPT gallery.
 
 | Title | Tags | Source | Link |
 |---|---|---|---|
+| 日系街拍Y2K时尚混凝土墙边日本女性 |  | @Ai_akamon | [detail](https://opennana.com/awesome-prompt-gallery/japanese-woman-y2k-street-fashion-concrete-wall-photography) |
+| 火山之吻高端辣酱超写实商业海报 |  | @ou_zhen599 | [detail](https://opennana.com/awesome-prompt-gallery/volcano-bite-hot-sauce-commercial-poster-prompt) |
+| 极低机位超广角黑丝自拍 |  | @rongsanhei462 | [detail](https://opennana.com/awesome-prompt-gallery/ultra-wide-low-angle-black-stockings-selfie) |
+| 时尚摄影韩系偶像沙滩比基尼夕阳 |  | @sualabs | [detail](https://opennana.com/awesome-prompt-gallery/fashion-photography-korean-idol-beach-bikini-sunset) |
+| 高级像素游戏旅行海报 |  | @Hamburgerai | [detail](https://opennana.com/awesome-prompt-gallery/high-end-pixel-game-travel-poster) |
+| 极具日系氛围感的甜美粉白碎花系带比基尼 | 日系风, 少女感, 比基尼, 甜美系 | @AI_money_club | [detail](https://opennana.com/awesome-prompt-gallery/japanese-sweet-floral-bikini) |
+| 大胆排版商业海报视觉设计 |  | @MrLarus | [detail](https://opennana.com/awesome-prompt-gallery/bold-editorial-typography-campaign-poster) |
+| 东方古典贵女鸢尾雾银珠光美妆写真 |  | @liyue_ai | [detail](https://opennana.com/awesome-prompt-gallery/oriental-classical-noblewoman-iris-mist-silver-pearl-makeup-portrait) |
+| 蝴蝶贴纸与黑色相机竖屏自拍 |  | @CyberTotal2026 | [detail](https://opennana.com/awesome-prompt-gallery/butterfly-stickers-and-black-camera-mirror-selfie) |
+| 高级艺术设计海报几何极简诗意视觉寓言 |  | @xiaoxiaodong01 | [detail](https://opennana.com/awesome-prompt-gallery/high-end-artistic-poster-geometric-minimalist-visual-allegory) |
+| 庭院凉亭中的粉色旗袍少女手机摄影 |  | @underwoodxie96 | [detail](https://opennana.com/awesome-prompt-gallery/smartphone-style-pink-qipao-garden-portrait) |
+| 四等分风格演进高级海报设计 |  | @zhidawang219555 | [detail](https://opennana.com/awesome-prompt-gallery/four-layer-style-evolution-poster-design) |
+| 俯视室内闭眼日本女性奶油上衣碎花布肖像 |  | @AiPhotoDesigner | [detail](https://opennana.com/awesome-prompt-gallery/top-down-portrait-japanese-woman-cream-top-floral-fabric) |
+| 夏日清晨海滩一字马日系写真 |  | @sdjn_wgc | [detail](https://opennana.com/awesome-prompt-gallery/summer-morning-beach-lateral-split-japanese-portrait) |
+| 超写实森林溪谷桥上跪坐女性人像摄影 |  | @DDJCXX | [detail](https://opennana.com/awesome-prompt-gallery/ultra-realistic-forest-valley-bridge-kneeling-female-portrait) |
+| 俏皮韩国女性木质长椅侧影写真 |  | @Kunda623270 | [detail](https://opennana.com/awesome-prompt-gallery/playful-korean-woman-beige-dress-wooden-bench) |
+| 昭和复古CCD质感粉发台湾少女 |  | @BubbleBrain | [detail](https://opennana.com/awesome-prompt-gallery/showa-retro-ccd-taiwanese-girl-pink-hair) |
 | 极简视界：SECOND WAIST 悬浮腰线高定艺术 | 旗舰视觉, 瓷感肌肤, 极简主义, 高定时尚 | - | [detail](https://opennana.com/awesome-prompt-gallery/minimalist-vision-second-waist-floating-waistline) |
 | 醒狮转运金珠：岭南风尚与潮玩美学的商业大片 | 醒狮, 珠宝, 潮玩, 金饰 | - | [detail](https://opennana.com/awesome-prompt-gallery/lion-dance-gold-charm-kv) |
 | 剧院光影下的夏日高定巴斯克腰纱裙视觉 | 夏日女装, 高定纱裙, 剧场光影, 沙漏身材 | - | [detail](https://opennana.com/awesome-prompt-gallery/theater-light-basque-tulle) |
@@ -29,6 +46,7 @@ An open archive of all prompts currently exposed by OpenNana's ChatGPT gallery.
 | 盛放牡丹高定粉色渐变格纹蕾丝短裙 | 高定, 牡丹, 粉色, 时尚 | - | [detail](https://opennana.com/awesome-prompt-gallery/peony-gradient-haute-couture-dress) |
 | 樱桃红心形领薄纱裙品牌视觉大片 | 樱桃红, 薄纱裙, 品牌KV, 浪漫风 | - | [detail](https://opennana.com/awesome-prompt-gallery/cherry-red-sweetheart-tulle-kv) |
 | 薰衣草紫系带薄纱裙花房回眸视觉海报 | 薰衣草, 薄纱裙, 品牌感, 花房风 | - | [detail](https://opennana.com/awesome-prompt-gallery/lavender-tulle-back-lace-up-kv) |
+| 深海青薄纱蕾丝裙海港品牌视觉大片 | 品牌大片, 薄纱蕾丝, 深海青, 港风美学 | - | [detail](https://opennana.com/awesome-prompt-gallery/deep-sea-teal-godet-tulle-harbor-kv) |
 | 鸢上春风传统纸鸢亲子教育商业插画 | 中国风, 商业插画, 风筝, 亲子 | - | [detail](https://opennana.com/awesome-prompt-gallery/kite-spring-breeze-parent-child) |
 | 榫卯之美：新中式茶空间设计图解 | 新中式, 等距, 榫卯, 商业插画 | - | [detail](https://opennana.com/awesome-prompt-gallery/beauty-of-mortise-and-tenon) |
 | 金丝一念：花丝镶嵌玉兰胸针高端商业插画 | 花丝镶嵌, 东方美学, 商业插画, 高端礼赠 | - | [detail](https://opennana.com/awesome-prompt-gallery/jinsi-yinian-filigree-magnolia) |
@@ -47,30 +65,12 @@ An open archive of all prompts currently exposed by OpenNana's ChatGPT gallery.
 | 故宫联名任天堂御路竞游手柄 | 故宫, 任天堂, 工业设计, 国风 | - | [detail](https://opennana.com/awesome-prompt-gallery/forbidden-city-nintendo-pro-controller) |
 | 青柠运动蕾丝裙新品发布品牌海报 | 运动风, 品牌KV, 蕾丝裙, 青柠绿 | - | [detail](https://opennana.com/awesome-prompt-gallery/lime-sport-lace-dress-launch-poster) |
 | 海棠粉蕾丝束腰裙品牌视觉大片 | 海棠粉, 束腰裙, 花房, 品牌KV | - | [detail](https://opennana.com/awesome-prompt-gallery/begonia-pink-corset-lace-brand-kv) |
+| 湖水青不对称蕾丝海崖风品牌开屏海报 | 湖水青, 不对称, 海风感, 品牌KV | - | [detail](https://opennana.com/awesome-prompt-gallery/lake-blue-asymmetric-lace-cliff-kv) |
 | 金碧重彩绘就蓬莱仙境之晨曦 | 金碧山水, 蓬莱仙岛, 矿物重彩, 东方美学 | - | [detail](https://opennana.com/awesome-prompt-gallery/jinbi-shanshui-penglai-dawn) |
 | 莓红蕾丝立体剪裁夏夜派对品牌大片 | 品牌大片, 蕾丝短裙, 夏夜派对, 时装摄影 | - | [detail](https://opennana.com/awesome-prompt-gallery/raspberry-lace-party-brand-kv) |
-| ROSÉVA高端法式覆盆子甜点商业摄影海报 |  | @ou_zhen599 | [detail](https://opennana.com/awesome-prompt-gallery/roseva-premium-raspberry-dessert-campaign-poster) |
-| 日系偶像感哥特朋克少女夜色街拍 |  | @AI_money_club | [detail](https://opennana.com/awesome-prompt-gallery/japanese-gothic-punk-idol-night-street) |
-| 韩系女友深夜街边CCD直闪抓拍 |  | @chenlinspark | [detail](https://opennana.com/awesome-prompt-gallery/korean-girlfriend-night-street-ccd-flash) |
-| 公园阳光下的东亚少女夏日慵懒街拍 |  | @saniaspeaks_ | [detail](https://opennana.com/awesome-prompt-gallery/east-asian-woman-park-sunny-afternoon-portrait) |
-| 2000年代复古数码相机厨房人像 |  | @MrLarus | [detail](https://opennana.com/awesome-prompt-gallery/early-2000s-digicam-kitchen-portrait-woman) |
-| 都市未来感宝石蓝针织裙清冷CCD写真 |  | @liyue_ai | [detail](https://opennana.com/awesome-prompt-gallery/urban-futuristic-sapphire-blue-ccd-photography) |
-| 暖色调木质室内女性手机镜面自拍 |  | @underwoodxie96 | [detail](https://opennana.com/awesome-prompt-gallery/warm-interior-smartphone-mirror-selfie-woman) |
-| 碎花吊带背心短发韩国女性人像 |  | @Kunda623270 | [detail](https://opennana.com/awesome-prompt-gallery/korean-woman-short-bob-floral-camisole-portrait) |
-| 抬起白色高跟鞋的午后少女 |  | @CyberTotal2026 | [detail](https://opennana.com/awesome-prompt-gallery/afternoon-white-heels-sitting-woman) |
-| 侧卧在青蓝色背景上的红唇美女肖像 |  | @jzaib4269 | [detail](https://opennana.com/awesome-prompt-gallery/ultra-realistic-candid-portrait-glamorous-woman-turquoise-background) |
-| 高度风格化3D漫画人物形象 |  | @Ciri_ai | [detail](https://opennana.com/awesome-prompt-gallery/stylized-3d-caricature-character-prompt-1787237052454) |
-| 极简现代风黄金菠萝奶油特饮商业摄影海报 |  | @ou_zhen599 | [detail](https://opennana.com/awesome-prompt-gallery/premium-solara-sip-golden-pine-cream-beverage-poster) |
-| 极简人文抽象艺术海报设计 |  | @xiaoxiaodong01 | [detail](https://opennana.com/awesome-prompt-gallery/minimalist-humanistic-abstract-poster-design) |
-| 博物馆大理石阳台女性摄影写实肖像 |  | @sidona | [detail](https://opennana.com/awesome-prompt-gallery/woman-black-turtleneck-museum-atrium-portrait) |
-| 夏日街头清凉瞬间 |  | @toshi630222 | [detail](https://opennana.com/awesome-prompt-gallery/summer-street-cooling-moment) |
-| 超写实深夜卧室韩系少女手机直闪抓拍 |  | @jiwooteasing | [detail](https://opennana.com/awesome-prompt-gallery/ultra-realistic-korean-woman-bedroom-iphone-flash-photo) |
-| 山间温泉落日下的东亚女性写实摄影 |  | @christosina | [detail](https://opennana.com/awesome-prompt-gallery/east-asian-woman-mountain-hot-spring-sunset-editorial-photography) |
-| 高级梦幻手作纸艺拼接风景人像摄影 |  | @MahnoorAi12 | [detail](https://opennana.com/awesome-prompt-gallery/premium-whimsical-handcrafted-paper-collage-diorama-prompt) |
-| 仰拍构图白色背心日本女性自拍 |  | @tonomisugi | [detail](https://opennana.com/awesome-prompt-gallery/low-angle-selfie-japanese-woman-white-tank-top) |
-| 北宋江南园林雨后墨色书生全景图 | 北宋, 江南园林, 书生, 水彩 | - | [detail](https://opennana.com/awesome-prompt-gallery/northern-song-jiangnan-garden-scholar) |
-| 青绿山水间叠石造园的绝美俯瞰画卷 | 青绿山水, 岩彩画, 古典园林, 中式建筑 | - | [detail](https://opennana.com/awesome-prompt-gallery/blue-green-garden-overlook) |
-| 霞光西天门落日巡云东方天宫全景 | 东方神话, 天宫盛景, 落日余晖, 仙侠风格 | - | [detail](https://opennana.com/awesome-prompt-gallery/sunset-patrol-west-heaven-gate) |
-| 铸龙台神兵出云火东方天宫造物史诗 | 东方玄幻, 史诗感, 仙侠风, 宽银幕 | - | [detail](https://opennana.com/awesome-prompt-gallery/dragon-casting-platform-celestial-epic) |
+| 楚汉漆艺：月夜峡谷孤舟渡口长卷 | 楚汉风, 漆器画, 螺钿艺, 月夜渡 | - | [detail](https://opennana.com/awesome-prompt-gallery/chu-han-lacquer-moonlight-canyon) |
+| 云门内望天宫第一重：东方神话史诗画卷 | 中式神话, 天宫建筑, 史诗场景, 云海仙境 | - | [detail](https://opennana.com/awesome-prompt-gallery/cloud-gate-heavenly-palace-epic) |
+| 青碧玉阙正午云城东方天宫全景 | 东方美学, 仙境, 建筑, 青绿 | - | [detail](https://opennana.com/awesome-prompt-gallery/celadon-jade-palace-midday-cloud-city) |
+| 男友视角日本女性偶像气质粉色睡裙 |  | @sualabs | [detail](https://opennana.com/awesome-prompt-gallery/boyfriend-pov-japanese-woman-pink-silk-nightgown) |
 
 > README only shows the first 50 items. See `data/chatgpt-prompts.json` for the full archive.
