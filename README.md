@@ -5,10 +5,10 @@ An open archive of all prompts currently exposed by OpenNana's ChatGPT gallery.
 - Source page: https://opennana.com/awesome-prompt-gallery?model=ChatGPT
 - Source API: `https://api.opennana.com/api/prompts`
 - Sync schedule: every day at **00:00 Asia/Shanghai** via GitHub Actions
-- Reported by source: **13402**
-- Archived in this snapshot: **13402**
+- Reported by source: **13422**
+- Archived in this snapshot: **13422**
 - Failed this run: **0**
-- Fetched at: **2026-10-02T21:21:14.006Z**
+- Fetched at: **2026-10-03T20:16:08.455Z**
 
 ## Files
 
@@ -26,7 +26,27 @@ An open archive of all prompts currently exposed by OpenNana's ChatGPT gallery.
 | 私人音乐室里的层次狼尾发时尚少女 | 狼尾发, 音乐室, 写实风, 时尚感 | - | [detail](https://opennana.com/awesome-prompt-gallery/layered-wolf-cut-music-room) |
 | 繁华东京夜色下的玫红亮片兔女郎派对 | 超写实, 兔女郎, 东京夜, 数码风 | - | [detail](https://opennana.com/awesome-prompt-gallery/tokyo-night-rose-sequin-bunny-party) |
 | 都市高空酒廊兔女郎派对纪实合影 | 超写实, 兔女郎, 派对感, 都市感 | - | [detail](https://opennana.com/awesome-prompt-gallery/urban-lounge-bunny-party-snap) |
+| 奢华私人飞机头等舱韩系空姐摄影 |  | @AIjee_tpe | [detail](https://opennana.com/awesome-prompt-gallery/luxury-private-jet-cabin-crew-editorial-photography) |
+| 公交车窗边的白昼午后少女 |  | @CyberTotal2026 | [detail](https://opennana.com/awesome-prompt-gallery/afternoon-daylight-japanese-bus-window-woman) |
+| 素人生活失败废片九宫格集合 |  | @sereinworld | [detail](https://opennana.com/awesome-prompt-gallery/amateur-failed-photos-lifestyle-grid) |
+| 咖啡馆酒红丝绒东亚美女环境人像 |  | @maplejohn01 | [detail](https://opennana.com/awesome-prompt-gallery/east-asian-beauty-cafe-burgundy-velvet-portrait) |
+| 地铁车厢东亚女性手机纪实摄影 |  | @shanyanggm | [detail](https://opennana.com/awesome-prompt-gallery/east-asian-woman-subway-mobile-documentary-photography) |
+| 日本车站候车区超广角低机位摄影 |  | @DDJCXX | [detail](https://opennana.com/awesome-prompt-gallery/japanese-station-low-angle-ultra-wide-photography) |
+| 星巴克东亚少女时尚人偶 |  | @0xkyne | [detail](https://opennana.com/awesome-prompt-gallery/east-asian-girl-starbucks-fashion-doll) |
+| 居酒屋俯拍冰蓝色西装亚裔美女 |  | @johnAGI168 | [detail](https://opennana.com/awesome-prompt-gallery/high-angle-japanese-izakaya-woman-ice-blue-blazer) |
+| 90年代中国家庭乡野童年生活135胶片 |  | @DeepBlueX0 | [detail](https://opennana.com/awesome-prompt-gallery/90s-chinese-family-rural-childhood-135-film) |
+| 实验性日系平面设计对角构图海报 |  | @MrLarus | [detail](https://opennana.com/awesome-prompt-gallery/experimental-japanese-graphic-design-diagonal-poster) |
 | 红樱桃镜面不锈钢盒全身构图提示词 |  | @0xkyne | [detail](https://opennana.com/awesome-prompt-gallery/red-cherries-mirror-stainless-steel-box-full-body-composition-prompt) |
+| 刚洗完澡涂指甲油的时尚少女房间 |  | @nox_field27 | [detail](https://opennana.com/awesome-prompt-gallery/fashionable-20-year-old-girl-painting-nails-after-bath) |
+| 真实照片与通用银行券雕刻对比海报 |  | @Hamburgerai | [detail](https://opennana.com/awesome-prompt-gallery/banknote-intaglio-engraving-study-poster) |
+| 黄色花海中年轻女子与壮丽山脉人像 |  | @Aqsahere_ | [detail](https://opennana.com/awesome-prompt-gallery/young-woman-wildflower-field-mountain-portrait) |
+| 海边夕阳回眸亚洲女性写实人像 |  | @Adam38363368936 | [detail](https://opennana.com/awesome-prompt-gallery/young-asian-woman-beach-sunset-candid-snapshot) |
+| 高端体育营销海报极致透视排版提示词 |  | @VigoCreativeAI | [detail](https://opennana.com/awesome-prompt-gallery/premium-sports-campaign-poster-extreme-perspective) |
+| 手机抓拍第一视角跪姿女性 |  | @shanyanggm | [detail](https://opennana.com/awesome-prompt-gallery/pov-mobile-snapshot-kneeling-woman-sticker) |
+| 蓝花吊带睡裙沉睡女性写实摄影 |  | @CyberTotal2026 | [detail](https://opennana.com/awesome-prompt-gallery/sleeping-woman-blue-floral-camisole-photorealistic) |
+| 咖啡馆俏皮东亚女性环境肖像 |  | @maplejohn01 | [detail](https://opennana.com/awesome-prompt-gallery/cafe-playful-east-asian-woman-environmental-portrait) |
+| 现代极简室内金发时尚女性人像摄影 |  | @AIjee_tpe | [detail](https://opennana.com/awesome-prompt-gallery/photorealistic-blonde-woman-minimalist-living-room-athletic-bodysuit) |
+| 中国大学自习室绝美时尚女性手机纪实抓拍 |  | @sdjn_wgc | [detail](https://opennana.com/awesome-prompt-gallery/ultra-realistic-chinese-university-study-room-documentary-snap) |
 | 豪车后排少女淡紫色镂空上衣自拍 |  | @Kunda623270 | [detail](https://opennana.com/awesome-prompt-gallery/young-woman-luxury-car-selfie-lavender-knit-top) |
 | 网红亚洲女孩正面俯身局部特写 |  | @FufuCreates | [detail](https://opennana.com/awesome-prompt-gallery/influencer-asian-girl-front-lean-close-up) |
 | 晨光微醺下的温柔凝视东亚女性人像 | 写实, 人像, 柔光, 胶片 | - | [detail](https://opennana.com/awesome-prompt-gallery/gentle-gaze-morning-portrait) |
@@ -52,25 +72,5 @@ An open archive of all prompts currently exposed by OpenNana's ChatGPT gallery.
 | 傍晚露台抽烟的东亚女子电影感人像 |  | @christosina | [detail](https://opennana.com/awesome-prompt-gallery/cinematic-east-asian-woman-balcony-dusk) |
 | 昏暗室内仰视视角的优雅蕾丝女性肖像 |  | @AiPhotoDesigner | [detail](https://opennana.com/awesome-prompt-gallery/dim-interior-lace-woman-upward-gaze-portrait) |
 | 黑暗中大幅侧倾的东亚女性古典明暗叙事人像 |  | @Soranlan | [detail](https://opennana.com/awesome-prompt-gallery/east-asian-female-narrative-chiaroscuro-portrait-low-light) |
-| 纹身女性在日式榻榻米室内的人像摄影 |  | @AIjee_tpe | [detail](https://opennana.com/awesome-prompt-gallery/tattooed-woman-japanese-minimalist-interior-portrait) |
-| 日本秋季街头时尚人像摄影 |  | @Ai_akamon | [detail](https://opennana.com/awesome-prompt-gallery/japanese-autumn-street-fashion-woman-portrait) |
-| 泳池底部鱼视角比基尼美女四宫格 |  | @3burst_x_Lab | [detail](https://opennana.com/awesome-prompt-gallery/pool-bottom-fish-view-bikini-girls-grid) |
-| 实验性时尚编辑海报设计 |  | @MrLarus | [detail](https://opennana.com/awesome-prompt-gallery/experimental-fashion-editorial-poster-design) |
-| 室内床边年轻女性写实生活自拍 |  | @Aqsahere_ | [detail](https://opennana.com/awesome-prompt-gallery/photorealistic-lifestyle-selfie-young-woman-bedroom) |
-| 超写实地铁车厢都市女性随手拍 |  | @DDJCXX | [detail](https://opennana.com/awesome-prompt-gallery/realistic-subway-commuter-woman-phone-snapshot) |
-| 中秋主题徽派老宅东亚美女写真 |  | @sdjn_wgc | [detail](https://opennana.com/awesome-prompt-gallery/mid-autumn-huizhou-courtyard-east-asian-beauty) |
-| 户外咖啡馆黑色条纹挂脖背心年轻女子写真 |  | @Kunda623270 | [detail](https://opennana.com/awesome-prompt-gallery/photorealistic-outdoor-cafe-woman-pinstripe-crop-top) |
-| Y2K韩系偶像泳池CCD风格人像写真 |  | @BubbleBrain | [detail](https://opennana.com/awesome-prompt-gallery/y2k-korean-idol-poolside-ccd-photography) |
-| 成年女性深陷毛绒沙发广角透视写实 |  | @boniusex | [detail](https://opennana.com/awesome-prompt-gallery/adult-female-plush-sofa-wide-angle-perspective) |
-| 靛蓝幻彩纱汉服Q萌写实美女全身照 |  | @fdtreesky | [detail](https://opennana.com/awesome-prompt-gallery/chinese-q-cute-beauty-hanfu-iphone-snapshot) |
-| 实验性黑白竖向切片社论海报 |  | @VigoCreativeAI | [detail](https://opennana.com/awesome-prompt-gallery/experimental-editorial-poster-vertical-slices) |
-| 中秋节地点人物竖版六宫格失败照 |  | @DeepBlueX0 | [detail](https://opennana.com/awesome-prompt-gallery/mid-autumn-festival-failed-photos-6-grid) |
-| 现代厨房低机位东亚女性超写实摄影 |  | @DDJCXX | [detail](https://opennana.com/awesome-prompt-gallery/modern-kitchen-low-angle-portrait-east-asian-woman) |
-| 古风可爱少女手持透明玻璃盒宣传照 |  | @FufuCreates | [detail](https://opennana.com/awesome-prompt-gallery/ancient-style-cute-girl-glass-box-promotional-photo) |
-| 办公室慌乱捡文件的25岁日本女性 |  | @komari_ai | [detail](https://opennana.com/awesome-prompt-gallery/japanese-office-lady-spilling-documents) |
-| 绝美东亚美女中秋无边泳池写真 |  | @sdjn_wgc | [detail](https://opennana.com/awesome-prompt-gallery/stunning-east-asian-beauty-mid-autumn-infinity-pool) |
-| 晨光卧室中抬起双腿微笑的女性全身肖像 |  | @CyberTotal2026 | [detail](https://opennana.com/awesome-prompt-gallery/morning-bedroom-white-legs-raised-smiling-woman) |
-| 高端社论风食物海报物理排版设计 |  | @MrLarus | [detail](https://opennana.com/awesome-prompt-gallery/premium-editorial-food-typography-poster) |
-| 东方禅意极简中秋女性向封面海报 |  | @liyue_ai | [detail](https://opennana.com/awesome-prompt-gallery/oriental-zen-minimalist-mid-autumn-feminine-poster) |
 
 > README only shows the first 50 items. See `data/chatgpt-prompts.json` for the full archive.
