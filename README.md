@@ -5,10 +5,10 @@ An open archive of all prompts currently exposed by OpenNana's ChatGPT gallery.
 - Source page: https://opennana.com/awesome-prompt-gallery?model=ChatGPT
 - Source API: `https://api.opennana.com/api/prompts`
 - Sync schedule: every day at **00:00 Asia/Shanghai** via GitHub Actions
-- Reported by source: **13703**
-- Archived in this snapshot: **13703**
+- Reported by source: **13743**
+- Archived in this snapshot: **13743**
 - Failed this run: **0**
-- Fetched at: **2026-10-10T20:40:23.344Z**
+- Fetched at: **2026-10-11T21:00:43.873Z**
 
 ## Files
 
@@ -22,6 +22,7 @@ An open archive of all prompts currently exposed by OpenNana's ChatGPT gallery.
 
 | Title | Tags | Source | Link |
 |---|---|---|---|
+| 泰坦尼克号风格现代美女古典人体素描 |  | @Lonely__MH | [detail](https://opennana.com/awesome-prompt-gallery/titanic-style-modern-woman-classical-figure-sketch) |
 | 理性消费的未来一周生活计划水彩海报 | 水彩风, 双十一, 极简风, 理性派 | - | [detail](https://opennana.com/awesome-prompt-gallery/rational-life-plan-watercolor-poster) |
 | 充气质感双十一红色创意主视觉海报 | 双十一, 海报, 充气风, 极简 | - | [detail](https://opennana.com/awesome-prompt-gallery/inflatable-double-11-visual) |
 | 八十年代复古美学双十一国货海报 | 复古, 国货, 海报, 水粉 | - | [detail](https://opennana.com/awesome-prompt-gallery/80s-retro-national-goods-poster) |
@@ -54,23 +55,22 @@ An open archive of all prompts currently exposed by OpenNana's ChatGPT gallery.
 | 海风中摇曳的淡粉色少女背影 |  | @CyberTotal2026 | [detail](https://opennana.com/awesome-prompt-gallery/pale-pink-swaying-in-the-sea-breeze) |
 | 东方仙侠女武神高空战斗 |  | @sereinworld | [detail](https://opennana.com/awesome-prompt-gallery/oriental-xianxia-valkyrie-battle) |
 | 主体中国传统刺绣工艺重构宋式极简封面标注 |  | @DeepBlueX0 | [detail](https://opennana.com/awesome-prompt-gallery/traditional-chinese-embroidery-song-style-minimalist-editorial-cover) |
+| 零食包装袋国家微缩景观插画艺术 |  | @Naiknelofar788 | [detail](https://opennana.com/awesome-prompt-gallery/creative-snack-packaging-country-illustration) |
+| 聚焦红色的都市时尚女性社论肖像 | 时尚, 胶片, 红色, 人像 | @AiwithLariab | [detail](https://opennana.com/awesome-prompt-gallery/red-focus-urban-female-portrait) |
+| 高端餐厅白蕾丝短裙女性时尚写真 |  | @AIjee_tpe | [detail](https://opennana.com/awesome-prompt-gallery/upscale-restaurant-white-lace-dress-fashion-editorial) |
+| 绢结晨光美容摄影棚写真 |  | @sdjn_wgc | [detail](https://opennana.com/awesome-prompt-gallery/silk-knot-morning-light-beauty-studio-portrait) |
+| 极简现代风格大廓形白衬衫东亚女性人像 |  | @christosina | [detail](https://opennana.com/awesome-prompt-gallery/east-asian-woman-white-shirt-minimalist-portrait-kodak-portra-400) |
+| 粉色蕾丝准备平铺衣物少女背影俯拍 |  | @CyberTotal2026 | [detail](https://opennana.com/awesome-prompt-gallery/pink-lace-preparation-flat-lay-clothing-woman-back-view) |
+| 等高线抽象流动中国风景观海报 |  | @MrLarus | [detail](https://opennana.com/awesome-prompt-gallery/refined-topographic-abstract-landscape-poster) |
+| 清晨起床大伸懒腰生活写真 |  | @komari_ai | [detail](https://opennana.com/awesome-prompt-gallery/morning-stretch-natural-awakening-photo) |
+| 极简抽象实验单色印刷海报 |  | @xiaoxiaodong | [detail](https://opennana.com/awesome-prompt-gallery/experimental-monochrome-ai-border-poster) |
+| 古风海棠粉贵女人像摄影 |  | @liyue_ai | [detail](https://opennana.com/awesome-prompt-gallery/classical-oriental-lady-begonia-makeup-portrait) |
+| 湖畔野餐的韩国精致女性人像摄影 |  | @jiwooteasing | [detail](https://opennana.com/awesome-prompt-gallery/korean-woman-lakeside-picnic-lounge-set-photography) |
+| 几何形状拼贴风格人物海报 |  | @VigoCreativeAI | [detail](https://opennana.com/awesome-prompt-gallery/geometric-collage-editorial-character-poster) |
+| 独立第二世界海报视觉设计提示词 |  | @0xkyne | [detail](https://opennana.com/awesome-prompt-gallery/independent-second-world-poster-design-prompt) |
+| 俯拍池边慵懒神情 |  | @Hamburgerai | [detail](https://opennana.com/awesome-prompt-gallery/high-angle-poolside-languid-expression) |
 | 真实摄影与白色手绘线稿创意插画 |  | @hann7712 | [detail](https://opennana.com/awesome-prompt-gallery/photography-hand-drawn-doodle-mixed-media-illustration) |
-| 主体几何艺术数学解析科学图谱 |  | @DeepBlueX0 | [detail](https://opennana.com/awesome-prompt-gallery/subject-geometric-art-mathematical-principles-scientific-atlas) |
-| 东方意境地形线构艺术海报 |  | @MrLarus | [detail](https://opennana.com/awesome-prompt-gallery/minimalist-topographic-line-art-poster-landscape) |
-| 极简主义建筑艺术海报设计 |  | @nima2qisi2 | [detail](https://opennana.com/awesome-prompt-gallery/minimalist-architectural-art-poster-design) |
-| 俯拍搞怪表情年轻女子户外电影感人像 |  | @Kunda623270 | [detail](https://opennana.com/awesome-prompt-gallery/cinematic-high-angle-pouty-woman-portrait-1791300017745) |
-| 俯拍搞怪表情年轻女子户外电影感人像 |  | @Kunda623270 | [detail](https://opennana.com/awesome-prompt-gallery/cinematic-high-angle-pouty-woman-portrait) |
-| 凌晨海岸观测记录海报视觉风格 |  | @xiaoxiaodong | [detail](https://opennana.com/awesome-prompt-gallery/late-night-coast-observation-poster-design) |
-| 现代厨房双人女性居家时尚摄影 |  | @AIjee_tpe | [detail](https://opennana.com/awesome-prompt-gallery/two-women-modern-kitchen-fashion-photography) |
-| 怀旧剪贴画风格阿尔卑斯少女与小羊海报 |  | @Alina_with_Ai | [detail](https://opennana.com/awesome-prompt-gallery/nostalgic-alpine-scrapbook-travel-poster) |
-| 古戏楼后台薄罗抹胸逆光人像 |  | @Hamburgerai | [detail](https://opennana.com/awesome-prompt-gallery/ancient-opera-house-backstage-portrait) |
-| 日间清亮高光CCD都市出行生活写真 |  | @liyue_ai | [detail](https://opennana.com/awesome-prompt-gallery/daytime-clear-highlight-ccd-urban-lifestyle-photography) |
-| 另类漫画电影海报风格人物插画 |  | @VoxcatAI | [detail](https://opennana.com/awesome-prompt-gallery/alternative-comic-film-poster-character-illustration) |
-| 真实感日本秋季公园街头时尚人像 |  | @Ai_akamon | [detail](https://opennana.com/awesome-prompt-gallery/photorealistic-japanese-autumn-fashion-portrait) |
-| 东方禅意简约治愈白鹿女子封面 |  | @liyue_ai | [detail](https://opennana.com/awesome-prompt-gallery/oriental-zen-minimalist-healing-white-deer-woman) |
-| 超写实IMAX风格黑白电影感人像 |  | @imGopalTiwari | [detail](https://opennana.com/awesome-prompt-gallery/hyper-realistic-imax-netflix-cinematic-portrait) |
-| 东方禅意极简古风女子诗笺封面 |  | @liyue_ai | [detail](https://opennana.com/awesome-prompt-gallery/oriental-zen-minimalist-woman-poem-slips-cover) |
-| 白色寝具中伸手仰卧的女性 |  | @CyberTotal2026 | [detail](https://opennana.com/awesome-prompt-gallery/woman-stretching-arms-on-white-bedding) |
-| 3比4竖版电影质感高级旅游海报 |  | @Goodmanprotocol | [detail](https://opennana.com/awesome-prompt-gallery/premium-cinematic-travel-poster-prompt) |
+| 夏日草地酷感辣妹古早DV质感人像 |  | @Adam38363368936 | [detail](https://opennana.com/awesome-prompt-gallery/summer-meadow-cool-girl-dv-aesthetic) |
+| 真实摄影与治愈水彩食物拟人对比海报 |  | @Hamburgerai | [detail](https://opennana.com/awesome-prompt-gallery/real-photo-vs-watercolor-food-journal-poster) |
 
 > README only shows the first 50 items. See `data/chatgpt-prompts.json` for the full archive.
