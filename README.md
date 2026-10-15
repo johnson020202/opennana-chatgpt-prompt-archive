@@ -5,10 +5,10 @@ An open archive of all prompts currently exposed by OpenNana's ChatGPT gallery.
 - Source page: https://opennana.com/awesome-prompt-gallery?model=ChatGPT
 - Source API: `https://api.opennana.com/api/prompts`
 - Sync schedule: every day at **00:00 Asia/Shanghai** via GitHub Actions
-- Reported by source: **13896**
-- Archived in this snapshot: **13896**
+- Reported by source: **13915**
+- Archived in this snapshot: **13915**
 - Failed this run: **0**
-- Fetched at: **2026-10-14T21:01:20.941Z**
+- Fetched at: **2026-10-15T21:02:36.356Z**
 
 ## Files
 
@@ -30,7 +30,21 @@ An open archive of all prompts currently exposed by OpenNana's ChatGPT gallery.
 | 超写实东亚少女卧室仰拍生活照 |  | @MissDelulu9 | [detail](https://opennana.com/awesome-prompt-gallery/ultra-realistic-low-angle-east-asian-girl-selfie) |
 | 保持人物面部一致的十二种分镜动作姿态 |  | @nanyuan0412 | [detail](https://opennana.com/awesome-prompt-gallery/twelve-panel-consistent-character-poses) |
 | 泰坦尼克号风格现代美女古典人体素描 |  | @Lonely__MH | [detail](https://opennana.com/awesome-prompt-gallery/titanic-style-modern-woman-classical-figure-sketch) |
+| 世界城市水彩旅行海报京都伦敦迪拜 |  | @KrishnaBio1 | [detail](https://opennana.com/awesome-prompt-gallery/world-cities-watercolor-travel-poster-kyoto-london-dubai) |
+| 厨房水槽修管湿透女性写实摄影 |  | @huahuansfw1 | [detail](https://opennana.com/awesome-prompt-gallery/wet-female-fixing-leaking-sink-realistic-photography) |
+| 直闪手机摄影复古肌肉车与叛逆少女 |  | @DanjiTosaka | [detail](https://opennana.com/awesome-prompt-gallery/flash-photo-girl-muscle-car-garage-realism) |
+| 真实照片与横向线条轮廓标本转绘 |  | @Hamburgerai | [detail](https://opennana.com/awesome-prompt-gallery/real-photo-to-horizontal-contour-specimen) |
+| 孔版印刷风格超大物体日常插画海报 |  | @VigoCreativeAI | [detail](https://opennana.com/awesome-prompt-gallery/risograph-oversized-object-everyday-illustration) |
+| 都市小巷中提裙的23岁少女水色短恤 |  | @3burst_x_Lab | [detail](https://opennana.com/awesome-prompt-gallery/23-year-old-urban-alley-aqua-shirt-lifting-skirt) |
+| 新中式细线设色古诗词艺术海报 |  | @MrLarus | [detail](https://opennana.com/awesome-prompt-gallery/new-chinese-fine-line-poetry-art-poster) |
+| 极简马赛克艺术海报摄影与像素拼接 |  | @Taaruk_ | [detail](https://opennana.com/awesome-prompt-gallery/minimalist-mosaic-art-poster-design) |
+| 午后泳池回眸的粉衣女性 |  | @CyberTotal2026 | [detail](https://opennana.com/awesome-prompt-gallery/afternoon-poolside-glance-back-woman) |
+| 超写实户外花园长发绿裙侧坐东亚女性 |  | @DDJCXX | [detail](https://opennana.com/awesome-prompt-gallery/ultra-realistic-garden-portrait-east-asian-woman-green-outfit) |
+| 海边码头沉思女孩与猫水彩插画 |  | @Minahil42298354 | [detail](https://opennana.com/awesome-prompt-gallery/watercolor-illustration-woman-cat-coastal-dock) |
+| 室内直闪粉色天鹅绒连衣裙跪姿人像 |  | @underwoodxie96 | [detail](https://opennana.com/awesome-prompt-gallery/nighttime-indoor-direct-flash-velvet-dress-portrait) |
+| 真人电影级超写实高端时尚人像摄影东方女性 |  | @imeilin0520 | [detail](https://opennana.com/awesome-prompt-gallery/cinematic-hyper-realistic-fashion-portrait-oriental-woman) |
 | 第二世界超现实写实摄影拼贴 |  | @Goodmanprotocol | [detail](https://opennana.com/awesome-prompt-gallery/second-world-surreal-photo-collage-prompt) |
+| 手持数码相机的深色长发女生人像 |  | @lishishen7i | [detail](https://opennana.com/awesome-prompt-gallery/girl-holding-digital-camera-portrait) |
 | 恐怖瓷偶艺伎童女暗黑东方恐怖视觉 |  | @liluocheng13 | [detail](https://opennana.com/awesome-prompt-gallery/haunting-porcelain-geisha-child-dark-eastern-horror) |
 | 秋季旅行手帐拼贴水彩插画 |  | @Goodmanprotocol | [detail](https://opennana.com/awesome-prompt-gallery/autumn-travel-journal-watercolor-split-illustration) |
 | 怪萌吉祥物时装毛绒潮玩角色暗黑童趣真人化摄影 |  | @VoxcatAI | [detail](https://opennana.com/awesome-prompt-gallery/weird-cute-mascot-fashion-plush-toy-humanoid-photography) |
@@ -58,19 +72,5 @@ An open archive of all prompts currently exposed by OpenNana's ChatGPT gallery.
 | 手绘水彩极简旅行社论海报 |  | @Goodmanprotocol | [detail](https://opennana.com/awesome-prompt-gallery/minimalist-watercolor-travel-editorial-poster-prompt) |
 | 午夜奶油复古电影海报全新构图版 |  | @maplejohn01 | [detail](https://opennana.com/awesome-prompt-gallery/midnight-creme-vintage-movie-poster-new-composition) |
 | 公寓走廊跳舞的日系JK制服少女 |  | @johnAGI168 | [detail](https://opennana.com/awesome-prompt-gallery/dancing-east-asian-woman-jk-seifuku-apartment-hallway) |
-| 黑色维多利亚长裙高原草帽写真 |  | @oneviske | [detail](https://opennana.com/awesome-prompt-gallery/plateau-victorian-dress-portrait-generation) |
-| 万圣节派对女王大人Cosplay引人注目 |  | @kazubo6159 | [detail](https://opennana.com/awesome-prompt-gallery/halloween-party-queen-cosplay-eye-catching) |
-| 第二世界超现实摄影插画海报 |  | @xiaoxiaodong | [detail](https://opennana.com/awesome-prompt-gallery/second-world-surrealist-photo-illustration) |
-| 薰衣草色少女与石榴复古时尚写真 |  | @imeilin0520 | [detail](https://opennana.com/awesome-prompt-gallery/lavender-girl-pomegranate-retro-fashion-photography) |
-| 商业服饰隐形人台三视图设计指令 |  | @aisima2046 | [detail](https://opennana.com/awesome-prompt-gallery/invisible-mannequin-apparel-three-view-design-prompt) |
-| 真实照片与像素色彩索引对比海报 |  | @Hamburgerai | [detail](https://opennana.com/awesome-prompt-gallery/photo-to-pixel-color-index-poster) |
-| 迪拜与威尼斯融合水彩风格旅行海报 |  | @KrishnaBio1 | [detail](https://opennana.com/awesome-prompt-gallery/dubai-venice-fusion-watercolor-travel-poster) |
-| 日本住宅区普通女性秋季午后手机写真 |  | @Live_life_style | [detail](https://opennana.com/awesome-prompt-gallery/japanese-residential-area-autumn-casual-woman-smartphone-photo) |
-| 户外蓝天阳光下韩系质感女性人像 |  | @nawalsehar | [detail](https://opennana.com/awesome-prompt-gallery/ultra-photorealistic-korean-beauty-outdoor-portrait) |
-| 复古儿童文学插画设计 |  | @VoxcatAI | [detail](https://opennana.com/awesome-prompt-gallery/retro-childrens-literature-book-cover-illustration) |
-| 现代简约旅行艺术海报设计 |  | @weiinberg | [detail](https://opennana.com/awesome-prompt-gallery/contemporary-travel-art-poster-design) |
-| 甜美日系洛丽塔写实洋娃娃写真 |  | @jackzhang123vip | [detail](https://opennana.com/awesome-prompt-gallery/sweet-japanese-lolita-style-realistic-doll-portrait) |
-| 薄纱长裙纱帐逆光半跪人像 |  | @Hamburgerai | [detail](https://opennana.com/awesome-prompt-gallery/sheer-long-dress-backlit-kneeling-portrait) |
-| 真实摄影与白色手绘巨猫创意涂鸦插画 |  | @nima2qisi2 | [detail](https://opennana.com/awesome-prompt-gallery/photography-white-hand-drawn-cat-doodle-illustration) |
 
 > README only shows the first 50 items. See `data/chatgpt-prompts.json` for the full archive.
