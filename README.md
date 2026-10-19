@@ -5,10 +5,10 @@ An open archive of all prompts currently exposed by OpenNana's ChatGPT gallery.
 - Source page: https://opennana.com/awesome-prompt-gallery?model=ChatGPT
 - Source API: `https://api.opennana.com/api/prompts`
 - Sync schedule: every day at **00:00 Asia/Shanghai** via GitHub Actions
-- Reported by source: **14069**
-- Archived in this snapshot: **14069**
+- Reported by source: **14112**
+- Archived in this snapshot: **14112**
 - Failed this run: **0**
-- Fetched at: **2026-10-18T19:21:48.497Z**
+- Fetched at: **2026-10-19T22:13:56.233Z**
 
 ## Files
 
@@ -22,6 +22,7 @@ An open archive of all prompts currently exposed by OpenNana's ChatGPT gallery.
 
 | Title | Tags | Source | Link |
 |---|---|---|---|
+| 唯美海边公路立体弹出式写生本 |  | @Taaruk_ | [detail](https://opennana.com/awesome-prompt-gallery/coastal-road-watercolor-3d-popup-sketchbook) |
 | 英雄本色九十年代港产片风格海报 | 港风, 电影, 英雄, 复古 | - | [detail](https://opennana.com/awesome-prompt-gallery/a-better-tomorrow-90s-hk-poster) |
 | 西游记多人合作肉鸽地牢动作游戏画面 | 西游记, 动作游戏, 地牢肉鸽, 熔岩场景 | - | [detail](https://opennana.com/awesome-prompt-gallery/journey-to-the-west-coop-roguelike) |
 | 山海经神话：昆仑裂谷的生存建造奇旅 | 山海经, 开放世界, 生存建造, 东方神话 | - | [detail](https://opennana.com/awesome-prompt-gallery/shanhaijing-kunlun-rift-survival) |
@@ -49,28 +50,27 @@ An open archive of all prompts currently exposed by OpenNana's ChatGPT gallery.
 | 盛唐锦绣：雾蓝纱衣与牡丹团扇的古典美人 | 国风, 唐朝, 超写实, 古风 | - | [detail](https://opennana.com/awesome-prompt-gallery/tang-dynasty-beauty-silk-fan) |
 | 豪华游艇卧室内的粉色甜美自拍 | 游艇, 甜酷, 自拍, 韩系 | - | [detail](https://opennana.com/awesome-prompt-gallery/luxury-yacht-bedroom-pink-selfie) |
 | 深夜阁楼卧室里的奶油肌女孩低头自拍 | 奶油肌, 水光妆, 氛围感, 自拍照 | - | [detail](https://opennana.com/awesome-prompt-gallery/midnight-attic-creamy-girl-selfie) |
-| 晴朗午后日本街头女性俯视自拍照片 |  | @Live_life_style | [detail](https://opennana.com/awesome-prompt-gallery/japanese-street-downward-selfie-outfit-snapshot) |
-| 超写实夏日泳池时尚亚洲美女摄影 |  | @Adam38363368936 | [detail](https://opennana.com/awesome-prompt-gallery/hyper-realistic-summer-pool-fashion-asian-beauty) |
-| 深夜卧室慢生活独处情绪写实 |  | @liyue_ai | [detail](https://opennana.com/awesome-prompt-gallery/late-night-bedroom-solitude-loungewear) |
-| 橄榄绿情侣黑色背景影棚写真 |  | @Minahil42298354 | [detail](https://opennana.com/awesome-prompt-gallery/studio-portraits-couple-olive-green-attire) |
-| 奢华时尚杂志风东亚女性全身像 |  | @AIjee_tpe | [detail](https://opennana.com/awesome-prompt-gallery/luxury-fashion-editorial-east-asian-woman-black-blazer-dress) |
-| 通用写实角色三视图参考表生成 |  | @meAsifAi | [detail](https://opennana.com/awesome-prompt-gallery/universal-professional-character-sheet-reference-lock) |
-| 洛神赋新中式细线设色装饰插画海报 |  | @768150007 | [detail](https://opennana.com/awesome-prompt-gallery/luo-shen-fu-new-chinese-style-fine-line-illustration-poster) |
-| 极简黑白客厅黑色连衣裙私影感 |  | @nima2qisi2 | [detail](https://opennana.com/awesome-prompt-gallery/minimalist-black-and-white-living-room-private-photography) |
-| 夏夜床榻俯拍半身媚意女子 |  | @Hamburgerai | [detail](https://opennana.com/awesome-prompt-gallery/summer-night-overhead-shot-charming-woman-on-bed) |
-| 微缩手办透明树脂机械键盘 |  | @DeepBlueX0 | [detail](https://opennana.com/awesome-prompt-gallery/miniature-figure-transparent-resin-mechanical-keyboard) |
-| 晨雾蓝长裙古风回眸人像写真 |  | @chinagt1 | [detail](https://opennana.com/awesome-prompt-gallery/morning-mist-blue-ancient-style-portrait) |
-| 白色床上的银发年轻女性写实摄影 |  | @AndyLau42 | [detail](https://opennana.com/awesome-prompt-gallery/ultra-realistic-young-woman-white-bed-silver-hair) |
-| 巴洛克银甲年轻将领全身角色设计 |  | @liluocheng13 | [detail](https://opennana.com/awesome-prompt-gallery/young-chinese-warrior-general-character-design) |
-| 高端日系甜美粉蓝撞色时尚写真 |  | @imeilin0520 | [detail](https://opennana.com/awesome-prompt-gallery/high-end-japanese-fashion-pink-blue-contrast-aesthetic) |
-| 高端时尚社论风3D剪纸女性插画 |  | @ChillaiKalan__ | [detail](https://opennana.com/awesome-prompt-gallery/high-end-editorial-fashion-3d-paper-cut-illustration) |
-| 蓝色梦幻室内的甜美洛丽塔女孩 |  | @ViggoHayes | [detail](https://opennana.com/awesome-prompt-gallery/sweet-lolita-japanese-woman-blue-room-cakes) |
-| 日系夏日旅行杂志海报设计 |  | @nima2qisi2 | [detail](https://opennana.com/awesome-prompt-gallery/japanese-summer-travel-magazine-editorial) |
-| 中式凉亭九尾狐灵女性奇幻肖像 |  | @johnAGI168 | [detail](https://opennana.com/awesome-prompt-gallery/nine-tailed-fox-spirit-oriental-pavilion-portrait) |
-| 韩系美女豪华轿车派对抓拍Y2K写真 |  | @spark_chenlin | [detail](https://opennana.com/awesome-prompt-gallery/korean-style-luxury-car-party-y2k-photo) |
-| 秋日暖阁东亚仕女试簪回眸超写实摄影 |  | @sandmrk | [detail](https://opennana.com/awesome-prompt-gallery/autumn-pavilion-east-asian-lady-cinematic-portrait) |
-| 文艺复兴风格现代美女大理石雕塑 |  | @Adam38363368936 | [detail](https://opennana.com/awesome-prompt-gallery/renaissance-style-modern-beauty-marble-sculpture) |
-| 窗边包装礼盒的温柔丰腴少女 |  | @liyue_ai | [detail](https://opennana.com/awesome-prompt-gallery/weekend-surprise-gift-wrapping-girl) |
-| 摇滚少女演唱会海报写实风格摄影 |  | @afrinxai | [detail](https://opennana.com/awesome-prompt-gallery/rock-and-roll-concert-portrait-young-woman-neon-flames) |
+| 猫耳日本少女与蛋糕室内生活照 |  | @ViggoHayes | [detail](https://opennana.com/awesome-prompt-gallery/cute-japanese-woman-cat-ear-cake-gaming-room) |
+| 胶片直闪质感六宫格人像拼贴 |  | @MissDelulu9 | [detail](https://opennana.com/awesome-prompt-gallery/ultra-realistic-photo-collage-instagram-dump) |
+| 新中式古诗词细线设色艺术海报 |  | @MrLarus | [detail](https://opennana.com/awesome-prompt-gallery/new-chinese-style-poetry-art-poster-guide) |
+| 阳光海滨步道趣味人像写真 |  | @Minahil42298354 | [detail](https://opennana.com/awesome-prompt-gallery/sunny-beach-boardwalk-photo-series) |
+| 伦敦地铁超写实长腿风衣街拍摄影 |  | @DDJCXX | [detail](https://opennana.com/awesome-prompt-gallery/london-subway-street-photography-trench-coat-pantyhose) |
+| 电影感娇羞少女解开碎花长裙背影 |  | @lukeliu66926706 | [detail](https://opennana.com/awesome-prompt-gallery/cinematic-shy-asian-woman-floral-dress-unzipping) |
+| 户外夜景写实哥特风东亚美女街拍 |  | @AIjee_tpe | [detail](https://opennana.com/awesome-prompt-gallery/photorealistic-nighttime-gothic-fashion-east-asian-woman) |
+| 瑜伽坐姿拉伸成熟女性生活写实摄影 |  | @JohnSmith5912 | [detail](https://opennana.com/awesome-prompt-gallery/realistic-yoga-seated-stretch-woman-portrait) |
+| 1950年代复古红衣优雅女性时尚人像 |  | @Tanvir48992 | [detail](https://opennana.com/awesome-prompt-gallery/vintage-1950s-fashion-red-coat-elegant-woman) |
+| 日系创意美食杂志封面摄影手绘插画 |  | @MrLarus | [detail](https://opennana.com/awesome-prompt-gallery/whimsical-japanese-food-editorial-magazine-cover) |
+| 氛围感复古酒吧豹纹少女写真 |  | @VoxcatAI | [detail](https://opennana.com/awesome-prompt-gallery/retro-bar-leopard-print-woman-portrait) |
+| 室内楼梯间淡黄上衣韩系美女街拍 |  | @oneviske | [detail](https://opennana.com/awesome-prompt-gallery/indoor-staircase-korean-beauty-snapshot) |
+| 古朴石池中的东亚女性电影感人像 |  | @christosina | [detail](https://opennana.com/awesome-prompt-gallery/refined-east-asian-woman-stone-pool-cinematic) |
+| 象牙色绸缎衬衫优雅女性奢华酒店卧室肖像 |  | @JohnSmith5912 | [detail](https://opennana.com/awesome-prompt-gallery/elegant-woman-ivory-satin-shirt-luxury-hotel-portrait) |
+| 黄色西装东亚女子雨夜街头电影照 |  | @Minahil42298354 | [detail](https://opennana.com/awesome-prompt-gallery/cinematic-asian-woman-yellow-suit-rainy-night) |
+| 雨林湿发东亚女性特写人像 |  | @lishishen7i | [detail](https://opennana.com/awesome-prompt-gallery/rainforest-wet-hair-east-asian-woman-portrait) |
+| 90年代日本赛车围场红白赛车女郎全身像 |  | @AIjee_tpe | [detail](https://opennana.com/awesome-prompt-gallery/90s-japanese-motorsport-promotional-photo-woman-race-car) |
+| 创意极简3D剪贴簿纸艺海报 |  | @Taaruk_ | [detail](https://opennana.com/awesome-prompt-gallery/creative-minimalist-3d-scrapbook-composition-paper-art) |
+| 大卫风格古典大理石人体雕塑 |  | @huahuansfw1 | [detail](https://opennana.com/awesome-prompt-gallery/david-style-classical-marble-sculpture) |
+| 伦敦地铁斯隆广场站街头时尚人像 |  | @underwoodxie96 | [detail](https://opennana.com/awesome-prompt-gallery/sloane-square-london-underground-street-fashion-photography) |
+| 东方禅意极简清幽桂花古风女子海报 |  | @liyue_ai | [detail](https://opennana.com/awesome-prompt-gallery/oriental-zen-minimalist-osmanthus-girl-poster) |
+| 伊斯坦布尔街道旅行社论风格艺术画 |  | @KrishnaBio1 | [detail](https://opennana.com/awesome-prompt-gallery/istanbul-travel-editorial-artwork-galata-tower) |
 
 > README only shows the first 50 items. See `data/chatgpt-prompts.json` for the full archive.
