@@ -2,13 +2,557 @@
   "source": "https://opennana.com/awesome-prompt-gallery?model=ChatGPT",
   "api_base": "https://api.opennana.com/api/prompts",
   "model": "ChatGPT",
-  "fetched_at": "2026-11-24T03:53:15.159Z",
-  "total_reported": 15691,
-  "total_pages": 785,
-  "total_archived": 15691,
+  "fetched_at": "2026-11-25T01:24:40.137Z",
+  "total_reported": 15708,
+  "total_pages": 786,
+  "total_archived": 15708,
   "total_failed": 0,
   "failed": [],
   "items": [
+    {
+      "id": 29957,
+      "slug": "saber-alter-swimsuit-cruise-triptych-photography",
+      "title": "黑呆毛泳装度假邮轮三联画",
+      "description": "",
+      "model": "ChatGPT",
+      "media_type": "image",
+      "source_name": "@alanblogsooooo",
+      "source_url": "https://x.com/alanblogsooooo/status/2123688570460516397",
+      "tags": [],
+      "prompts": [
+        {
+          "text": "【Task & Paradigm】 9:16 vertical aspect ratio (top-middle-bottom horizontal triple-panel split-screen narrative); authentic optical medium format outdoor sunny seascape photo book and cold, pure desire elder sister-style Cosplay portrait photography (\"Fate/Grand Order\" Saber Alter swimsuit style); relying on intense natural sunlight from a clear sea surface and diffused light wrapping from a clear blue sky, capturing the girl's lazy posture on a luxury cruise deck through multi-dimensional perspectives, creating a visual photo book atmosphere where cold elegance and aloofness interweave with bright midsummer sunlight.\n\n【Composition & Camera Position】\nTop-middle-bottom three-horizontal-grid split-screen composition: the top grid is an eye-level slightly high-angle chest-up close-up selfie perspective (POV), with the character in a slightly tilted diagonal composition; the middle grid is an eye-level full-body side-lying composition, where the reclining slender body and crossed beautiful legs traverse the screen to form a stretched horizontal flow; the bottom grid is a low camera angle slightly low-angle side-rear half-body composition, with highly raised and stretched arms forming an elegant vertical upward extension line; using a combination of 35mm and 50mm focal lengths, the generous depth of field makes the character's skin texture and the distant horizon clear and transparent, with a large area of azure clear sky and white clouds in the upper part of the middle and bottom grids forming an open and pure negative space.\n\n【Scene Space & Props】\nSunny outdoor luxury ocean cruise sun deck, ground laid with warm brown teak striped decking; in the top grid background, rows of blue and white striped beach lounge chairs, cruise ship columns with spiral decorations, and glass doors and windows are visible; in the middle and bottom grids, the girl leans on a turquoise mesh beach lounge chair with silver-gray metal curved armrests (the middle grid chair seat is padded with a roll of purple-blue bath towel); in the middle grid, the girl's left hand lightly holds a pale beige fresh green coconut with a straw inserted and the top cut off (placed in the lower right foreground in the bottom grid); the background features white cruise ship railings, red and white lifebuoys, and the deep blue boundless sea.\n\n【Subject Styling & Interaction】 A cold, aloof yet curvy blonde black knight elder sister (Saber Alter swimsuit Cosplay), exquisite oval face structure, smooth and tight jawline, high nose bridge; pale blonde hair tied in an exquisite braided bun at the back of the head, tied with a black glossy leather bow hair accessory below the bun, straight bangs and sideburns on both sides fit the cheeks smoothly; wearing a black semi-matte soft leather (PU leather) halter-neck backless one-piece ultra-short swimsuit dress, the high-neck halter cut opens wide to the back, fully revealing smooth fair armpits, the curve of the side breast edges, and the entire butterfly bone beautiful back (the back is equipped with transparent invisible thin back straps), the tight leather garment wraps around an extremely full and upright three-dimensional chest curve and a slender waist and hips; in the top grid, the girl's right arm stretches forward for a selfie, looking at the lens with her head slightly tilted, amber-gold pupils squinting slightly under strong light and shimmering with brilliant water light, hydrated red lips slightly parted as if wanting to utter a lazy hum but stopping at the edge of the reserved and slightly pursed corners of the mouth; in the middle grid, the girl is in a side-lying reclining posture, right elbow resting on the metal armrest, left hand holding the coconut, a pair of fair and slender naked beautiful legs crossed and stretched towards the right, eyes looking down peacefully at the coconut in hand; in the bottom grid, the girl sits on the edge of the lounge chair from the side-rear, arms raised high above the head, slender fingers slightly curved and touching each other while stretching, back slightly arched showing a highly tense and graceful physiological micro-tension.\n\n【Color Light & Shadow】\nThe whole image is composed of core tones of clear azure blue, obsidian black, straw pale gold, and cold white thin-porcelain skin color, the deep black leather swimsuit forms a strong visual contrast under the bright blue sky and warm golden sunlight; abundant hard direct sunlight pours down from the clear midday sun high in the sky, supplemented by the vast diffused cold light from the sea and blue sky; in the top and middle grids, warm golden light condenses into brilliant and warm creamy highlights and leather diffuse reflection gloss on the girl's pale gold hair strands, smooth right shoulder, collarbone, high points of the full black leather bodice, and the knees and front edges of the shins of the long legs; the cold white skin reveals delicate pink-orange subsurface scattering and ruddy living blood color under the transmission of sunlight, with clear and transparent summer sunlight three-dimensional shadows cast at body transitions and under the lounge chair.\n\n【Texture & Style】\nMedium format digital combined with high-definition soft focus refined pure imaging, extremely high lens air transparency; wrapped in pure optical natural sunlight, the cold white thin-porcelain-like skin reveals delicate pink-orange subsurface scattering and warm capillary living blood color, with warm creamy highlights condensing at the light-receiving high points, presenting a jade-like breathing living skin texture; the fine texture and oily highlights of the black soft leather swimsuit, the silky luster of the blonde hair, and the natural fiber texture of the green coconut shell form rich micro-contrasts with the soft white cumulus clouds in the azure sky, the overall image is surrounded by an aesthetic aura of cold aloofness, tipsy hallucination, and midsummer life.\n\n【Optional Negative Prompts】\nDigital floating ash, dead black and muffled, low quality noise, distortion and collapse, digital high-frequency pseudo-sharpening, plastic doll face, 3D modeling CG feel, waxwork texture, dull puppet expression, stiff facial features, polydactyly, distorted limb anatomical structure.",
+          "type": "en",
+          "label": "英文提示词"
+        },
+        {
+          "text": "【任务与范式】 9:16纵向画幅（上中下水平三联拼图分镜叙事）；真实光学中画幅户外阳光海景画册与清冷纯欲御姐Cosplay人像摄影（《Fate/Grand Order》黑呆毛/Saber Alter泳装造型）；依托晴朗海面强烈自然阳光与澄澈蓝天漫射光包裹，通过多维视角捕捉少女于豪华邮轮甲板度假的慵懒身姿，营造冷艳孤傲与盛夏明媚阳光交织的视觉画册意境。\n\n【构图与机位】\n上中下三横格分镜拼图架构：上格为平视微俯胸上近景自拍视角（POV），人物呈微倾对角线构图；中格为平视全身侧面横卧构图，斜躺的修长身躯与交叠美腿横贯画面形成舒展的水平流线；下格为低机位微仰侧后方半身构图，高举伸展的双臂构成优雅的垂直向上延伸线；采用35mm与50mm焦段组合，宽容景深使人物肌理与远方海天一线清晰通透，中下两格上方大面积蔚蓝晴空与洁白云朵构成开阔纯粹的负空间留白。\n\n【场景空间与道具】\n阳光明媚的豪华远洋邮轮露天阳光甲板，地面铺设暖棕色柚木条纹甲板；上格背景可见成排的蓝白条纹沙滩躺椅、带螺旋纹饰的邮轮立柱与玻璃门窗；中格与下格中，少女倚坐于一把松石青绿色网布配银灰金属弧形扶手的沙滩躺椅上（中格椅面垫有一卷紫蓝色浴巾）；中格少女左手轻托一颗插着吸管、削去顶盖的浅米色新鲜青椰子（下格置于右下角前景）；远景为白色邮轮护栏、红白救生圈与深邃蔚蓝的无垠大海。\n\n【主体造型与互动】 清冷傲岸又兼具纯欲曲线美的金发黑骑士御姐（Saber Alter泳装Cosplay），精致鹅蛋脸骨相，下颌线流畅紧致，鼻梁高挺；浅金色秀发在脑后盘成精致的编发发髻，发髻下方系有黑色亮面皮革蝴蝶结发饰，齐刘海与两侧直发鬓角柔顺贴合脸颊；身着黑色半哑光软皮质（PU皮革）挂脖露背连体超短泳装裙，高领挂脖剪裁向后大幅度敞开，完整展露光滑白皙的腋下、侧乳边缘弧度与整片蝴蝶骨美背（背部配有透明隐形细背带），紧致的皮质衣身包裹出极其饱满挺拔的胸廓立体弧度与纤细腰臀；上格少女右臂前伸自拍，微侧首凝视镜头，琥珀金色美瞳双眸在强光下微眯并闪烁璀璨水光，水润红唇微启想要吐露一丝慵懒哼声却在矜持微抿的唇角边缘停驻；中格少女呈侧卧斜倚姿态，右肘支于金属扶手，左手托举椰子，一双白皙修长的赤裸美腿向右侧交叠舒展延伸，眼神恬静垂视手中椰子；下格少女侧后方坐于躺椅边缘，高高举起双臂过头顶、十指纤细微曲相互轻触伸展懒腰，脊背微弓展现出极具张力的柔美生理微张力。\n\n【色彩光影】\n全图由澄澈天青蓝、曜石黑、麦秆浅金与冷白薄瓷肤色构成核心主调，深邃黑皮泳装在明媚蓝天与暖金阳光下形成强烈的视觉反差；高空晴朗烈日倾洒下充沛的硬朗直射阳光，辅以海面与蓝天的广阔漫射冷光；上格与中格中，温暖金光在少女浅金发丝、光滑右肩头、锁骨、饱满的黑皮胸衣高点以及修长双腿的膝盖与胫骨前缘凝聚出璀璨温润的奶油高光与皮质漫反射光泽；冷白肌肤在阳光透射下透出细腻的粉橘色次表面漫反射与红润活体血色，身体转折处与躺椅下方投射出清晰通透的夏日阳光立体阴影。\n\n【质感风格】\n中画幅数码结合高清柔焦精修纯净结像，镜头空气透明度极高；纯光学自然阳光包裹下冷白如薄瓷的肌肤透出细腻粉橘色次表面漫反射与温润毛细血管活体血色，受光高点凝聚温润奶油高光，呈现温玉般的呼吸感活体皮质；黑色软皮革泳衣的细腻纹理与油润高光、金发的丝滑光泽、青椰壳的自然纤维肌理同湛蓝天空的柔白积云形成丰富微观反差，整体画面萦绕着清冷孤高、微醺幻觉与盛夏浮生的唯美气韵。\n\n【可选负面提示词】\n数码浮灰，死黑发闷，低画质噪点，畸变崩坏，数码高频伪锐化，塑料假人脸，3D建模CG感，蜡像质感，呆滞木偶表情，五官僵硬，多指畸形，肢体解剖结构扭曲。",
+          "type": "zh",
+          "label": "中文提示词"
+        }
+      ],
+      "images": [
+        "https://img.opennana.com/prompts/assets/202611/1795228955400-sue08wmb-1795228959866-1.jpg"
+      ],
+      "video_urls": [],
+      "thumbnail": "pthumbs/prompts/assets/202611/1795228955400-sue08wmb-1795228959866-1-480.jpg",
+      "url": "https://opennana.com/awesome-prompt-gallery/saber-alter-swimsuit-cruise-triptych-photography",
+      "reviewed_at": "2026-11-24T14:35:45.126Z",
+      "created_at": "2026-11-21T02:44:33.043Z",
+      "updated_at": "2026-11-24T14:35:45.126Z"
+    },
+    {
+      "id": 29956,
+      "slug": "cinematic-35mm-fashion-portrait-crimson-bustier-dress",
+      "title": "电影感胶片风深红礼服绝美影星肖像",
+      "description": "",
+      "model": "ChatGPT",
+      "media_type": "image",
+      "source_name": "@johnAGI168",
+      "source_url": "https://x.com/johnAGI168/status/2123635139473199611",
+      "tags": [],
+      "prompts": [
+        {
+          "text": "A cinematic fashion still photograph captured on a 35mm motion picture camera — an intimate medium portrait of an extraordinarily stunning, movie-star-caliber young woman in a deep crimson bustier dress, standing against a cool slate-gray staircase at night, framed vertically from the waist up in a sultry, breathtaking, and emotionally intense mood.\n\nShe possesses top-tier aristocratic bone structure with a razor-sharp V-line jaw, slender swan neck, deeply sculpted collarbones, and fair porcelain skin flushed with a vivid, feverish pink blush across her cheeks and the bridge of her nose. Her elongated, seductive cat-like almond eyes feature ruby-amber irises and heavy, drowsy eyelids looking forward in a breathless half-lidded gaze, paired with plump, glossy cherry-red lips parted slightly to reveal a glimpse of white upper teeth. Her voluminous strawberry-blonde hair flows in soft messy waves, with a single delicate curtain strand draping down between her eyes to the bridge of her nose.\n\nShe wears a tailored deep crimson wine-red sweetheart bustier slip dress crafted from rich matte stretch silk, supported by gossamer-thin spaghetti straps, featuring structured boning lines and delicate micro-ruching that accentuate her curvaceous, sculpted silhouette.\n\nThe setting is a minimalist, dimly lit architectural hallway in cool slate-blue tones, creating a stark, dramatic color contrast with her warm golden hair and crimson dress. Soft cinematic top-lighting sculpts her facial planes and shoulders, while floating golden dust particles catch the light like shimmering bokeh in the air.\n\nCaptured on an 85mm prime lens at f/1.6 for intense subject separation. Real human skin with fine visible pores, soft peach fuzz along the jawline, realistic biological subsurface scattering, detailed flying hair strands, and fine 35mm film grain. Balanced highlight roll-off and velvety shadow tones — photographed on real film, never CGI, never plastic, never 3D render.",
+          "type": "en",
+          "label": "英文提示词"
+        },
+        {
+          "text": "一张由35mm电影摄影机拍摄的电影感时尚剧照——一位拥有顶尖影星气质、极其迷人的年轻女性的亲密中景肖像，她穿着深红色紧身胸衣连衣裙，夜晚站在冷色调的板岩灰色楼梯旁，采用从腰部以上的垂直构图，营造出一种撩人、惊心动魄且情感强烈的情绪。\n\n她拥有顶级贵族般的骨相，拥有锐利的V型下颌线、纤细的天鹅颈、深邃的锁骨，以及白皙如瓷的皮肤，脸颊和鼻梁上透着生动、发烧般的粉红红晕。她那修长、迷人的猫系杏仁眼有着红宝石般的琥珀色虹膜，沉重的倦怠眼睑以呼吸急促的半开半合目光直视前方，配上丰满、透亮的樱桃红唇，微微张开，隐约露出洁白的上牙。她浓密的草莓金发呈柔软凌乱的波浪状流动，一缕精致的门帘状发丝垂落在双眼之间，直达鼻梁。\n\n她穿着一件量身定制的深红酒红色心形领紧身胸衣吊带裙，由华丽的哑光弹力丝绸制成，由蝉翼般纤细的细肩带支撑，具有结构化的鱼骨纹理和精细的微褶皱，突显出她凹凸有致、雕塑般的轮廓。\n\n场景是一个极简、昏暗、冷板岩蓝色调的建筑走廊，与她温暖的金发和深红色的裙子形成鲜明而戏剧性的色彩对比。柔和的电影感顶光雕琢着她的脸部平面和肩膀，而漂浮的金尘在空气中捕捉光线，如同闪烁的焦外虚化。\n\n使用85mm定焦镜头，在f/1.6光圈下拍摄，以实现强烈的主体分离。真实的皮肤，带有可见的细微毛孔，下颌线有柔软的桃色绒毛，真实的生物次表面散射，细致的飘逸发丝，以及细腻的35mm胶片颗粒。平衡的高光衰减和天鹅绒般的阴影色调——实片拍摄，绝非CGI，绝非塑料感，绝非3D渲染。",
+          "type": "zh",
+          "label": "中文提示词"
+        }
+      ],
+      "images": [
+        "https://img.opennana.com/prompts/assets/202611/1795229045883-vzhj8071-1795229050367-1.jpg"
+      ],
+      "video_urls": [],
+      "thumbnail": "pthumbs/prompts/assets/202611/1795229045883-vzhj8071-1795229050367-1-480.jpg",
+      "url": "https://opennana.com/awesome-prompt-gallery/cinematic-35mm-fashion-portrait-crimson-bustier-dress",
+      "reviewed_at": "2026-11-24T14:35:45.181Z",
+      "created_at": "2026-11-21T02:44:33.041Z",
+      "updated_at": "2026-11-24T14:35:45.181Z"
+    },
+    {
+      "id": 29955,
+      "slug": "young-chinese-woman-bathroom-selfie-knitwear",
+      "title": "简约室内中国美女针织衫自拍人像",
+      "description": "",
+      "model": "ChatGPT",
+      "media_type": "image",
+      "source_name": "@zhangjiajia1314",
+      "source_url": "https://x.com/zhangjiajia1314/status/2123635766320586771",
+      "tags": [],
+      "prompts": [
+        {
+          "text": "A young adult Chinese beauty, with exquisite and beautiful Oriental facial features, jet-black fluffy neat short hair, light and natural wispy bangs, deep and charming eyes, delicate smoky makeup, pink and moist lip makeup, fair and delicate skin. Wearing a cream-white slim-fit ribbed knit long-sleeved sweater, soft and delicate knit texture, moderate low-neck design, the neckline is natural and decent, wearing no earrings. The scene is a modern minimalist home bathroom, light beige-gray tiled walls, metal towel rack, white washbasin, realistic life environment. The character uses a smartphone front camera selfie perspective, one hand naturally raised above the head, the body slightly turned, shoulders naturally relaxed, face toward the camera, showing a sweet and natural smile, eyes gentle with a bit of playfulness, presenting an intimate girlfriend selfie atmosphere. Realistic photography style, close-up selfie composition, soft indoor warm light, real skin texture, clear hair strands and knit fabric details, natural light and shadow, avoiding excessive skin smoothing and obvious AI-generated traces. 9:16 vertical high-definition photo.",
+          "type": "en",
+          "label": "英文提示词"
+        },
+        {
+          "text": "一位年轻成年中国美女，精致漂亮的东方五官，乌黑蓬松的利落短发，轻盈自然的碎发刘海，深邃迷人的眼睛，精致烟熏妆，粉嫩水润的唇妆，白皙细腻的肌肤。\n\n穿着米白色修身罗纹针织长袖毛衣，柔软细腻的针织纹理，适度低领设计，领口自然得体，不佩戴耳环。\n\n场景为现代简约的家庭卫生间，浅米灰色瓷砖墙面，金属毛巾架，白色洗手台，真实生活化环境。\n\n人物采用手机前置摄像头自拍视角，一只手自然举过头顶，身体微微侧转，肩膀自然放松，脸部朝向镜头，露出甜美自然的微笑，眼神温柔又带一点俏皮，呈现亲切的女友自拍氛围。\n\n真实摄影风格，近距离自拍构图，柔和室内暖光，真实皮肤纹理，清晰发丝和针织面料细节，自然光影，避免过度磨皮和明显AI生成痕迹。\n\n9:16竖版高清照片。",
+          "type": "zh",
+          "label": "中文提示词"
+        }
+      ],
+      "images": [
+        "https://img.opennana.com/prompts/assets/202611/1795228949292-z13yxkk4-1795228953773-1.jpg"
+      ],
+      "video_urls": [],
+      "thumbnail": "pthumbs/prompts/assets/202611/1795228949292-z13yxkk4-1795228953773-1-480.jpg",
+      "url": "https://opennana.com/awesome-prompt-gallery/young-chinese-woman-bathroom-selfie-knitwear",
+      "reviewed_at": "2026-11-24T14:35:45.059Z",
+      "created_at": "2026-11-21T02:44:33.040Z",
+      "updated_at": "2026-11-24T14:35:45.059Z"
+    },
+    {
+      "id": 29954,
+      "slug": "cinematic-japanese-fashion-portrait",
+      "title": "日式时尚杂志风露背女性写实肖像",
+      "description": "",
+      "model": "ChatGPT",
+      "media_type": "image",
+      "source_name": "@MrLarus",
+      "source_url": "https://x.com/MrLarus/status/2123801586279616864",
+      "tags": [],
+      "prompts": [
+        {
+          "text": "Create a photorealistic 9:16 vertical portrait with cinematic low-key lighting and a Japanese-inspired fashion editorial aesthetic.\n\nCustomize:\n- Subject: [Adult East Asian woman, 25–30]\n- Hairstyle: [Black bob / side-parted bob / low ponytail]\n- Dress Color: [Charcoal black / burgundy / forest green / slate blue]\n- Expression: [Mysterious / confident / subtly alluring]\n\nPose & Composition\n\nThe woman wears a fitted, thin-strapped, open-back dress. She stands in a three-quarter back pose, looking over her shoulder directly at the camera.\n\nHer near shoulder partially conceals her lower face, leaving her expressive eyes visible. Emphasize the exposed back, slender waist, and natural S-shaped silhouette.\n\nUse a close, slightly low camera angle, a 65mm portrait lens, and tight head-to-hips framing.\n\nLighting & Atmosphere\n\nA single hard light from the upper right makes her shoulder and upper arm the brightest areas. Keep her face partially shadowed with subtle eye catchlights.\n\nCast a strong, realistic shadow onto a dark gray wall. Maintain deep blacks, soft gray gradients, and natural skin tones.\n\nRealism & Consistency\n\nPreserve natural skin texture, visible pores, realistic hair, accurate anatomy, and matte fabric details.\n\nKeep the pose, shoulder overlap, open-back design, camera angle, and lighting consistent across the series. Only change the hairstyle and dress color.\n\nNo CGI, plastic skin, excessive retouching, distorted anatomy, text, logos, or watermarks.",
+          "type": "en",
+          "label": "英文提示词"
+        },
+        {
+          "text": "创建一个写实的 9:16 垂直肖像，具有电影感的低调照明和受日本启发的时尚杂志美学。\n\n自定义：\n- 主体：[成年东亚女性，25–30岁]\n- 发型：[黑色波波头 / 侧分波波头 / 低马尾]\n- 裙子颜色：[炭黑色 / 酒红色 / 森林绿 / 石板蓝]\n- 表情：[神秘的 / 自信的 / 微妙迷人的]\n\n姿势与构图\n\n这位女性穿着一件合身的、细肩带、露背连衣裙。她以四分之三背部的姿势站立，回过头直接看向镜头。\n\n她靠近镜头的肩膀部分遮挡了她的下半部分脸，留出她富有表现力的眼睛可见。强调露出的背部、纤细的腰部和自然的S型轮廓。\n\n使用特写、略低的相机角度，65mm肖像镜头，以及紧凑的从头到臀部的构图。\n\n光影与氛围\n\n来自右上方的一束硬光使她的肩膀和上臂成为最亮的区域。保持她的脸部部分处于阴影中，带有细微的眼神光。\n\n在深灰色墙壁上投射出强烈、真实的阴影。保持深邃的黑色、柔和的灰色渐变和自然的肤色。\n\n真实感与一致性\n\n保留自然的皮肤纹理、可见的毛孔、真实的发丝、准确的解剖结构和哑光织物细节。\n\n在整个系列中保持姿势、肩膀重叠、露背设计、相机角度和光影的一致。仅更改发型和裙子颜色。\n\n无 CGI、塑料感皮肤、过度修饰、扭曲的解剖结构、文字、徽标或水印。",
+          "type": "zh",
+          "label": "中文提示词"
+        }
+      ],
+      "images": [
+        "https://img.opennana.com/prompts/assets/202611/1795229043674-s6gpunx2-1795229048110-1.jpg"
+      ],
+      "video_urls": [],
+      "thumbnail": "pthumbs/prompts/assets/202611/1795229043674-s6gpunx2-1795229048110-1-480.jpg",
+      "url": "https://opennana.com/awesome-prompt-gallery/cinematic-japanese-fashion-portrait",
+      "reviewed_at": "2026-11-24T14:35:44.924Z",
+      "created_at": "2026-11-21T02:44:33.038Z",
+      "updated_at": "2026-11-24T14:35:44.924Z"
+    },
+    {
+      "id": 29953,
+      "slug": "elegant-qipao-beauties-black-and-white-tea-room",
+      "title": "闺阁双姝黑白旗袍东方女性时尚写真",
+      "description": "",
+      "model": "ChatGPT",
+      "media_type": "image",
+      "source_name": "@chinagt1",
+      "source_url": "https://x.com/chinagt1/status/2123944678269784218",
+      "tags": [],
+      "prompts": [
+        {
+          "text": "Boudoir Beauties · Black and White Qipao\n\nEastern Elegance · Two Beauties in Qipao\n\nI. Aspect Ratio and Photography Style\n\n9:16 vertical composition, real-person ultra-realistic Eastern female double fashion photoshoot.\n\nUsing real mobile phone photography texture, similar to a natural snapshot taken by a high-end mobile phone in an indoor setting. Characters' faces are clear, skin retains natural pores, subtle textures, and real luster, rejecting CG rendering, plastic faces, and excessive skin smoothing.\n\nII. Character Settings\n\nThere are two clearly adult Eastern women around 25 years old in the frame.\n\nBoth possess exquisite and natural Eastern features, but their faces are distinctly different.\n\nLeft female:\nBlack long hair tied in an elegant low bun.\nGentle face, soft gaze.\nExquisite and natural makeup, light pink lip makeup.\n\nRight female:\nDark brown long hair tied in a low bun, with a few strands of loose hair falling naturally.\nDelicate features, gentle and intellectual temperament.\nClear makeup with a natural smile.\n\nThe two bodies are naturally close, looking at each other sideways, presenting a sense of relaxed and happy communication between close friends.\n\nIII. Clothing Design\n\nLeft female:\nBlack high-end custom Chinese short-sleeved qipao, stand collar, exquisite pankou design, the body of the garment features pink and light gold floral embroidery, side slits, and the hemline falls naturally.\nLegs wear smoky black ultra-thin sheer pantyhose, with the natural skin tone showing through.\nFeet wear black glossy pointed stiletto high heels with classic burgundy soles.\n\nRight female:\nIvory white Chinese short-sleeved qipao, stand collar, exquisite pankou, the body features light pink and light brown floral patterns, the fabric has a real silk texture.\nLegs are natural bare legs, maintaining real skin texture.\nFeet wear champagne beige glossy pointed stiletto high heels.\n\nThe two sets of qipao use echoing floral patterns, but the colors and cuts each have their own characteristics.\n\nIV. Character Poses and Interaction\n\nThe two women are sitting side by side on a dark brown Chinese solid wood bench.\n\nThe left female's body is slightly turned to the right, legs naturally crossed, hands lightly placed near her knees, head turned smiling at the right female.\n\nRight female's body is slightly facing the left, her left hand lightly holding a circular traditional Chinese round fan with light pink flower branch patterns painted on the surface, and her right hand naturally resting on her leg.\n\nTheir eyes meet, expressions are natural and relaxed, like friends being captured by a photographer while chatting in a tearoom.\n\nThe leg postures are natural, and the structure of the knees, ankles, and feet conforms to human anatomy.\n\nV. Scene Environment\n\nHigh-end Chinese classical tearoom or private room.\n\nBackground includes:\nDeep-colored carved solid wood screen.\nWarm yellow traditional palace lanterns.\nPink plum blossom branch decorations.\nDark brown Chinese solid wood furniture.\nEmbroidered floral cushions.\nSmall tea table on the right, with a blue and white porcelain teapot and teacups.\nThe floor uses vintage stone with traditional patterns.\n\nThe space has a real sense of depth, and environmental details are clear and natural.\n\nVI. Lighting and Photography\n\nUsing warm golden indoor ambient light combined with soft side fill light.\n\nCharacter faces, qipao embroidery, and leg details are clear.\n\nThe background retains real architectural and furniture textures, do not over-blur.\n\nUsing the natural perspective effect of a 50mm portrait lens to avoid body deformation caused by wide-angle.\n\nVII. Image Quality\n\nReal person photography, natural skin texture, real hair strands, fine silk texture, real embroidery, accurate finger structure, natural leg proportions.\n\nThe two women must have different faces, different clothing colors, and different hosiery pairings.\n\nProhibit repeated faces, deformed features, plastic skin, CG doll feel, extra limbs, wrong fingers, leg cross deformation, shoe deformity, blurry background architecture, text, watermarks, and logos.\n\nFinal Effect: Two elegant adult Eastern women wearing black and white floral qipaos, sitting side by side in a warm golden Chinese tearoom, smiling and looking at each other, presenting a real, natural, and exquisite Eastern boudoir photoshoot.",
+          "type": "en",
+          "label": "英文提示词"
+        },
+        {
+          "text": "闺阁双姝 · 黑白旗袍\n\nEastern Elegance · Two Beauties in Qipao\n\n一、画幅与摄影风格\n\n9:16竖版构图，真人超写实东方女性双人时尚写真。\n\n采用真实手机摄影质感，类似高端手机在室内自然抓拍的照片。人物面部清晰，皮肤保留自然毛孔、细微纹理和真实光泽，拒绝CG渲染、塑料脸和过度磨皮。\n\n二、人物设定\n\n画面中有两位明确成年的25岁左右东方女性。\n\n两人均拥有精致自然的东方五官，但面容明显不同。\n\n左侧女性：\n\n黑色长发盘成优雅低发髻。\n面容温婉，眼神柔和。\n妆容精致自然，淡粉色唇妆。\n\n右侧女性：\n\n深棕色长发盘成低位发髻，几缕碎发自然垂落。\n五官清秀，气质温柔知性。\n妆容清透，带有自然微笑。\n\n两人身体自然靠近，彼此侧头对视，呈现亲密好友之间轻松愉快的交流感。\n\n三、服装设计\n\n左侧女性：\n\n黑色高级定制中式短袖旗袍，立领、精致盘扣设计，衣身采用粉色与浅金色花卉刺绣，侧边开衩，裙摆自然垂落。\n\n腿部穿烟灰黑色超薄透肤连裤丝袜，皮肤底色自然透出。\n\n脚穿黑色亮面尖头细高跟鞋，经典酒红色鞋底。\n\n右侧女性：\n\n象牙白色中式短袖旗袍，立领、精致盘扣，衣身采用淡粉色、浅棕色花卉图案，面料具有真实丝绸质感。\n\n腿部为自然裸腿，保持真实肌肤质感。\n\n脚穿香槟米色亮面尖头细高跟鞋。\n\n两套旗袍采用相互呼应的花卉纹样，但颜色和剪裁各有特色。\n\n四、人物姿势与互动\n\n两位女性并排坐在深棕色中式实木长椅上。\n\n左侧女性身体略微转向右侧，双腿自然交叠，双手轻放在膝盖附近，侧头微笑看向右侧女性。\n\n右侧女性身体略微朝向左侧，左手轻握一把圆形中国传统团扇，团扇表面绘有淡粉色花枝图案，右手自然搭在腿部。\n\n两人目光相对，表情自然放松，像朋友在茶室闲聊时被摄影师抓拍。\n\n双腿姿态自然，膝盖、脚踝和脚部结构符合人体解剖。\n\n五、场景环境\n\n高档中式古典茶室或私人雅间。\n\n背景包括：\n\n深色雕花实木屏风。\n暖黄色传统宫灯。\n粉色梅花枝装饰。\n深棕色中式实木家具。\n刺绣花卉靠垫。\n右侧小型茶桌，摆放青花瓷茶壶与茶杯。\n地面采用具有传统花纹的复古石材。\n\n空间具有真实的纵深感，环境细节清晰自然。\n\n六、灯光与摄影\n\n采用暖金色室内环境光，结合柔和侧面补光。\n\n人物面部、旗袍刺绣和腿部细节清晰。\n\n背景保留真实建筑与家具纹理，不要过度虚化。\n\n使用50mm人像镜头的自然透视效果，避免广角造成的人体变形。\n\n七、画面质量\n\n真人摄影、自然肤质、真实发丝、精细丝绸纹理、真实刺绣、准确手指结构、自然腿部比例。\n\n两位女性必须拥有不同的面孔、不同的服装颜色和不同的丝袜搭配。\n\n禁止重复脸、畸形五官、塑料皮肤、CG人偶感、额外肢体、错误手指、腿部交叉变形、鞋履畸形、背景建筑模糊、文字、水印和Logo。\n\n最终效果：两位优雅的成年东方女性身穿黑白花卉旗袍，在暖金色中式茶室并肩而坐，彼此微笑对视，呈现真实、自然、精致的东方闺阁写真。",
+          "type": "zh",
+          "label": "中文提示词"
+        }
+      ],
+      "images": [
+        "https://img.opennana.com/prompts/assets/202611/1795228950385-st79q9ev-1795228955051-1.jpg"
+      ],
+      "video_urls": [],
+      "thumbnail": "pthumbs/prompts/assets/202611/1795228950385-st79q9ev-1795228955051-1-480.jpg",
+      "url": "https://opennana.com/awesome-prompt-gallery/elegant-qipao-beauties-black-and-white-tea-room",
+      "reviewed_at": "2026-11-24T14:35:44.973Z",
+      "created_at": "2026-11-21T02:44:32.884Z",
+      "updated_at": "2026-11-24T14:35:44.973Z"
+    },
+    {
+      "id": 29952,
+      "slug": "hand-painted-anime-girl-chestnut-hair-wink-portrait",
+      "title": "手绘动漫风栗发俏皮女孩人像",
+      "description": "",
+      "model": "ChatGPT",
+      "media_type": "image",
+      "source_name": "@Just_Anika_Here",
+      "source_url": "https://x.com/Just_Anika_Here/status/2123642786612474351",
+      "tags": [],
+      "prompts": [
+        {
+          "text": "{\n  \"prompt\": \"Create a beautiful 9:16 vertical hand-painted anime illustration of a cute young girl with short chestnut-brown hair, soft bangs and big sparkling hazel eyes. She is making a playful childish expression, one eye tightly closed in a wink, cheeks puffed slightly, and lips forming a tiny funny pout. Her head is tilted naturally toward the camera. She wears a pastel lavender oversized hoodie. Soft warm sunlight, delicate blush, expressive facial details, textured watercolor and hand-painted anime art style, muted natural background, charming imperfect details, close-up portrait, adorable and full of personality. Original character design, highly detailed, beautiful artistic finish.\"\n}",
+          "type": "en",
+          "label": "英文提示词"
+        },
+        {
+          "text": "创建一个美丽的9:16垂直手绘动漫插图，描绘一个可爱的年轻女孩，留着短栗色头发，柔顺的刘海和明亮的大淡褐色眼睛。她正做一个调皮的孩子气表情，一只眼睛紧闭着眨眼，脸颊微鼓，嘴唇嘟成一个搞笑的小嘴。她的头自然地倾向镜头。她穿着一件淡紫色的大号连帽衫。柔和温暖的阳光，精致的腮红，表现力丰富的面部细节，质感水彩和手绘动漫艺术风格，柔和的自然背景，迷人的不完美细节，近景肖像，可爱且充满个性。原创角色设计，细节丰富，美丽的艺术效果。",
+          "type": "zh",
+          "label": "中文提示词"
+        }
+      ],
+      "images": [
+        "https://img.opennana.com/prompts/assets/202611/1795229042192-xx8yz56u-1795229047110-1.jpg"
+      ],
+      "video_urls": [],
+      "thumbnail": "pthumbs/prompts/assets/202611/1795229042192-xx8yz56u-1795229047110-1-480.jpg",
+      "url": "https://opennana.com/awesome-prompt-gallery/hand-painted-anime-girl-chestnut-hair-wink-portrait",
+      "reviewed_at": "2026-11-24T14:35:45.056Z",
+      "created_at": "2026-11-21T02:44:32.877Z",
+      "updated_at": "2026-11-24T14:35:45.056Z"
+    },
+    {
+      "id": 29949,
+      "slug": "modern-bathroom-east-asian-woman-qipao-selfie",
+      "title": "现代浴室东亚旗袍少女镜面自拍",
+      "description": "",
+      "model": "ChatGPT",
+      "media_type": "image",
+      "source_name": "@Kunda623270",
+      "source_url": "https://x.com/Kunda623270/status/2123586934337618380",
+      "tags": [],
+      "prompts": [
+        {
+          "text": "Create an ultra-photorealistic cinematic vertical mirror-selfie photograph of a beautiful young adult East Asian woman in her early twenties, approximately 20 years old, posing confidently inside a modern bathroom with warm beige ceramic tiles. Capture the intimate, playful atmosphere of a spontaneous smartphone selfie, emphasizing realistic anatomy, natural feminine curves, authentic skin texture, delicate facial features, and intricate clothing details.\n\nThe woman has a softly rounded oval face, full cheeks, a gently tapered jawline, a small refined nose, naturally rosy-pink lips, and expressive dark brown almond-shaped eyes. Her complexion is fair ivory with subtle warm peach undertones, soft highlights, and realistic skin texture. Her understated makeup features softly defined eyebrows, delicate eyeliner, naturally curled eyelashes, subtle rosy blush, and muted pink lipstick. She wears thin, round, silver-toned eyeglasses with clear lenses. Her expression is sweet, confident, and slightly playful, with a gentle closed-mouth smile as she looks toward her smartphone screen through the mirror.\n\nHer exceptionally long, thick chestnut-brown hair features wispy bangs across her forehead and voluminous, softly tousled waves cascading over both shoulders, predominantly flowing down her left side toward her waist.\n\nShe has a curvy, feminine figure with a defined waist, naturally full bust, rounded hips, and proportionate limbs. She stands facing the mirror with her hips subtly shifted, her left hand resting firmly on her waist and her left elbow angled outward. Her right arm is raised, holding a champagne-gold smartphone with three rear camera lenses near her face, partially obscuring the right side of her reflection.\n\nShe wears a fitted, sleeveless, white satin-inspired Chinese qipao-style mini dress with a delicate floral jacquard texture, a high Mandarin collar, black piping, and decorative black floral frog closures. The dress features a distinctive keyhole opening beneath the collar, a deeply curved neckline outlined in black trim, and decorative vertical black trim running down the front. Its short hemline falls around the upper thighs, with dramatic high side slits revealing her outer thighs. Small black floral appliqués accent the waist, neckline, and slit edges. Preserve the garment's precise cut, exposed areas, fitted silhouette, and asymmetrical detailing without adding additional clothing.\n\nThe bathroom features a large wall-mounted mirror, a white paneled door with a lower ventilation grille on the left, a glass shower enclosure with a chrome handheld showerhead behind her, neatly hanging white towels on the right, and a small metallic pedal bin near the floor. A white sink and pinkish marble countertop occupy the lower foreground.\n\nUse warm overhead bathroom lighting, realistic mirror reflections, subtle ambient shadows, natural skin highlights, and gentle cinematic contrast. Simulate a modern smartphone camera with a 26mm equivalent wide-angle lens, deep environmental detail, balanced exposure, slightly warm white balance, realistic fabric sheen, and refined neutral-beige color grading. Maintain the authentic composition of a casual mirror selfie, framing her from above the head to the upper thighs.\n\nAspect ratio 9:16.",
+          "type": "en",
+          "label": "英文提示词"
+        },
+        {
+          "text": "创建一张超写实电影感的垂直镜面自拍照，主角是一位二十出头、大约20岁的漂亮东亚年轻成年女性，她自信地站在一间铺着温暖米色陶瓷瓷砖的现代浴室里。捕捉自发智能手机自拍的亲密、俏皮氛围，强调写实的解剖结构、自然的女性曲线、真实的皮肤纹理、精致的面部特征和复杂的衣物细节。\n\n这位女性拥有一张柔和圆润的鹅蛋脸、饱满的双颊、微微收窄的下颌线、精巧的鼻子、自然粉嫩的双唇以及富有表现力的深褐色杏眼。她的肤色是白皙的象牙色，带有微妙的暖桃色底色、柔和的高光和真实的皮肤纹理。她那低调的妆容包括柔和定义的眉毛、精致的眼线、自然卷曲的睫毛、微妙的粉色腮红和柔和的粉色口红。她戴着一副细边圆形的银色镜架透明镜片眼镜。她的表情甜美、自信且略带俏皮，带着温柔的闭嘴微笑，透过镜子看着她的智能手机屏幕。\n\n她那异常长且浓密的栗褐色头发在额头上留着细碎的刘海，蓬松、柔乱的波浪垂落在双肩上，主要沿着左侧流向腰部。\n\n她拥有曲线玲珑的女性身材，腰线分明，胸部自然丰满，臀部圆润，四肢比例协调。她面对镜子站立，臀部微微偏移，左手稳稳地叉在腰上，左肘向外倾斜。她的右臂抬起，手里拿着一部香槟金色的智能手机，手机背面有三个摄像头，靠近脸部，部分遮挡了右侧的倒影。\n\n她穿着一件贴身的无袖白色缎面风格中式旗袍短裙，带有精致的花卉提花纹理、高立领、黑色滚边和装饰性的黑色花卉盘扣。裙子在领口下方有一个独特的镂空开口，深曲线领口由黑色饰边勾勒，正面有装饰性的垂直黑色饰边。它的短下摆落在在大腿上方，戏剧性的高侧叉露出了她的外侧大腿。腰部、领口和开叉边缘点缀着微小的黑色花卉贴花。保持服装的精准裁剪、暴露区域、贴身剪裁和不对称细节，不添加额外的衣物。\n\n浴室里有一面大型壁挂镜，左侧有一扇带有底部通风栅格的白色嵌板门，身后有一个带有镀铬手持花洒的玻璃淋浴房，右侧整齐地挂着白色毛巾，地板附近有一个金属脚踏式垃圾桶。前景下方有一个白色洗脸盆和粉色大理石台面。\n\n使用温暖的浴室顶灯、真实的镜面反射、微妙的环境阴影、自然的皮肤高光和柔和的电影对比度。模拟现代智能手机摄像头，配备26mm等效广角镜头、深度的环境细节、平衡的曝光、略微温暖的白平衡、真实的织物光泽和精致的中性米色调色。保持随意镜面自拍的真实构图，取景范围从头顶上方到大腿上方。\n\n长宽比 9:16。",
+          "type": "zh",
+          "label": "中文提示词"
+        }
+      ],
+      "images": [
+        "https://img.opennana.com/prompts/assets/202611/1795228946747-xnttdzlw-1795228951375-1.jpg"
+      ],
+      "video_urls": [],
+      "thumbnail": "pthumbs/prompts/assets/202611/1795228946747-xnttdzlw-1795228951375-1-480.jpg",
+      "url": "https://opennana.com/awesome-prompt-gallery/modern-bathroom-east-asian-woman-qipao-selfie",
+      "reviewed_at": "2026-11-24T14:35:45.127Z",
+      "created_at": "2026-11-21T02:44:32.708Z",
+      "updated_at": "2026-11-24T14:35:45.127Z"
+    },
+    {
+      "id": 29948,
+      "slug": "young-woman-in-mint-tile-kitchen",
+      "title": "薄荷瓷砖厨房中的二十岁女性",
+      "description": "",
+      "model": "ChatGPT",
+      "media_type": "image",
+      "source_name": "@CyberTotal2026",
+      "source_url": "https://x.com/CyberTotal2026/status/2123705155459682321",
+      "tags": [],
+      "prompts": [
+        {
+          "text": "Theme: \nKitchen with mint tiles\n\nSubject: \nAn adult woman in her 20s. Sitting on the front edge of a wooden cooking counter, knees apart, upper body leaning forward. Arms reaching between knees, top of the head slightly towards the left side of the frame.\n\nPerson/Expression: \nLooking at the camera with brown eyes and long eyelashes. Slightly dull rose-colored lips slightly open. Deep brown mixed with bright brown streaks, wavy layered hairstyle longer than shoulders. Transparent bangs hanging in front of the forehead. Bright warm beige skin and pink cheeks. Bridge of the nose, thighs, and knees reflect front light.\n\nClothing/Pose: \nDull reddish-brown loose half-sleeved crop top. The neckline drops deep in front of the chest, with a small circular pattern on the chest on the right side of the frame. Deep teal shorts with a hint of green decorated with white piping. Ecru ribbed socks with two burgundy lines. Wrists close together in the center, hooking the edge of the front of the counter with fingers of both hands. Hips sitting on the counter, extending diagonally downwards from the separated thighs to the mid-calves. Toes are outside the frame.\n\nBackground/Light: \nFront is a wooden counter and storage cabinet doors. On the left are glass bottles, strawberries in a glass bowl, and a mug, along with leaves hanging from above. On the right are a cutting board, leaves in a white bowl, and snacks on a plate. The back is light mint-colored square tiles, with wooden cabinets and a metal range hood above.\n\nComposition/Camera: \nVertical 2:3. Shallowly looking down from slightly above the front of the face, filling the entire frame from the top of the head to the middle of both calves.\n\nTexture/Style: \nDirect frontal light lets the shadows of sleeves or leaves fall on the tiles. Preserve the warm tones of the wood and the cool tones of the tiles, clearly depicting the reflections on the skin and tiles, the folds of the top, and the ribbing of the socks.",
+          "type": "en",
+          "label": "英文提示词"
+        },
+        {
+          "text": "主题：  \n薄荷瓷砖的厨房\n\n主体：  \n20多岁的成年女性。坐在木质料理台的前缘，双膝分开，上身向前倾斜。双臂伸向膝盖之间，头顶稍稍向画面左侧。\n\n人物·表情：  \n用棕色的眼睛和长睫毛看着镜头。略带暗淡的玫瑰色嘴唇微微张开。  \n深棕色中夹杂亮棕色条纹、超过肩膀的波浪分层发型。透明的刘海束垂在额前。  \n明亮的暖色米色皮肤和粉红色的脸颊。鼻梁、大腿和膝盖反射正面光线。\n\n服装·姿势：  \n暗淡的红棕色宽松半袖短上衣。领口在胸前深垂，画面右侧胸部有一个圆形小图案。带绿意的深青色短裤饰以白色滚边。生成色的罗纹袜子上两条酒红色线条。  \n双手腕在中央靠近，用双手手指勾住台面前端的边缘。臀部坐在台面上，从分开的大腿到双小腿斜向下伸展。脚尖在画面外。\n\n背景·光线：  \n正面是木质台面和储物柜门。左侧有玻璃瓶、玻璃碗中的草莓和马克杯，以及从上方垂下的叶子。右侧有砧板和白色碗中的叶子、盘中的点心。背面是淡薄荷色的方格瓷砖，上方是木质橱柜和金属抽油烟机。\n\n构图·相机：  \n纵向2:3。从正面脸部稍上方浅浅俯视，从头顶到双小腿中段充满整个画面。\n\n质感·风格：  \n正面直射光让袖子或叶子的影子落在瓷砖上。保留木头的暖色调和瓷砖的冷色调，清晰描绘皮肤和瓷砖的反光、上衣的褶皱以及袜子的罗纹。",
+          "type": "zh",
+          "label": "中文提示词"
+        }
+      ],
+      "images": [
+        "https://img.opennana.com/prompts/assets/202611/1795228960802-u03vrn08-1795228965439-1.jpg"
+      ],
+      "video_urls": [],
+      "thumbnail": "pthumbs/prompts/assets/202611/1795228960802-u03vrn08-1795228965439-1-480.jpg",
+      "url": "https://opennana.com/awesome-prompt-gallery/young-woman-in-mint-tile-kitchen",
+      "reviewed_at": "2026-11-24T14:35:45.050Z",
+      "created_at": "2026-11-21T02:44:32.671Z",
+      "updated_at": "2026-11-24T14:35:45.050Z"
+    },
+    {
+      "id": 29947,
+      "slug": "rainy-night-bedroom-woman-portrait-medium-format",
+      "title": "雨幕玻璃后的卧室静谧女性人像",
+      "description": "",
+      "model": "ChatGPT",
+      "media_type": "image",
+      "source_name": "@christosina",
+      "source_url": "https://x.com/christosina/status/2123744776063467947",
+      "tags": [],
+      "prompts": [
+        {
+          "text": "Framed in a 4:5 vertical aspect ratio from an elevated high-angle perspective looking diagonally downward through a rain-streaked bedroom window at night, this intimate medium three-quarter shot captures a 28-year-old adult woman resting inside a dimly lit room while rain taps against the glass. Dense water droplets and faint condensation streaks along the foreground windowpane partially veil the frame, creating natural optical refraction around her figure.\n\nShe has deep espresso-brown hair styled in loose, lived-in bedhead waves spilling across her shoulders and pillow, with stray strands resting against her cheek. A small, settled fine-line botanical tattoo traces delicately just below her left collarbone, visible against natural skin marked by realistic pores, soft creases, and warm tonal warmth. She wears a bias-cut soft sand silk camisole with thin straps—one strap slipping slightly off her shoulder—paired with matching ivory silk lounge shorts, the lightweight fabric wrinkling naturally around her waist.\n\nReclining on the unmade bed, she props her upper body on one elbow while twisting her torso slightly upward toward the elevated camera angle, her free hand resting unhurriedly against her collarbone. One knee is bent casually beneath the rumpled bedding, creating an asymmetric, relaxed diagonal line across the frame. She looks up through her lashes directly toward the lens with a soft, half-lidded gaze and a faint, unguarded parting of her lips.\n\nThe private bedroom interior shows lived-in warmth and authentic clutter: rumpled off-white cotton sheets, a stack of paperback books on a worn wooden nightstand, a half-empty ceramic mug, and sheer curtains pulled loosely to the side of the window frame. Outside in the immediate foreground, dark wet window trim and trickling rain trails separate the cool night air from the warm indoor sanctuary.\n\nPhotographed on a Pentax 67 medium-format camera with the 105mm f/2.4 lens shot wide open, the setup produces signature 6x7 depth compression and a razor-thin plane of focus locked onto her eyes and collarbone. The foreground raindrops on the glass dissolve into soft, translucent bokeh orbs, while the background corners of the bedroom melt into smooth, velvety blur.\n\nMotivated lighting comes from a single warm tungsten bedside lamp casting a low, golden-amber pool across the side of her face, shoulder, and silk camisole, contrasted by the cool, muted slate-blue darkness of the rainy night pressing against the glass. Shadows fall softly across the hollow of her neck and the folds of the bedsheets, sculpting gentle three-dimensional depth.\n\nTactile details of woven silk, rumpled cotton fibers, fine skin texture, and wet glass droplets are preserved through Kodak Portra 800 film. The emulsion delivers rich, tactile medium-format grain, warm amber shadow undertones, and forgiving highlight roll-off on the lamp-lit curve of her shoulder.\n\nGolden interior warmth and cool midnight rain blues coexist in a grounded, analog color palette free of artificial saturation. The 28-year-old woman's quiet sensuality is conveyed entirely through her upward gaze, relaxed reclining posture, and the intimate framing through rainy glass, without explicit nudity, digital gloss, or posed artificiality.\n\nNegative: explicit nudity, genitalia, sexual acts, minors, ambiguous age, glossy plastic skin, airbrushed retouching, studio rim lighting, stiff high-fashion pose, neon colors, jewel tones, brand logos, watermark, deformed hands, extra limbs",
+          "type": "en",
+          "label": "英文提示词"
+        },
+        {
+          "text": "采用 4:5 的垂直纵横比，从高处对角线向下俯视，穿过雨水斑驳的卧室窗户，这张亲密的中景四分之三构图捕捉了一位 28 岁的成年女性在昏暗的房间里休息，雨水轻敲玻璃。窗户玻璃上前方的浓密水滴和微弱冷凝痕迹部分遮挡了画面，在她的身影周围营造出自然的物理折射。\n\n她留着深浓咖啡褐色的长发，发型是蓬松且富有生活感的起床头波浪，散落在肩膀和枕头上，几缕发丝贴在她的脸颊上。在左锁骨下方有一处精致的细线植物纹身，在具有真实毛孔、细微褶皱和温润色调的天然皮肤上清晰可见。她穿着一件斜裁的柔软沙色真丝吊带衫，一侧肩带微微滑落，搭配配套的象牙色真丝家居短裤，轻薄的面料在腰间自然起皱。\n\n她斜倚在未铺整的床上，用一只肘部撑起上半身，同时躯干略微向上扭动，朝向高处的相机角度，空闲的手悠闲地搭在锁骨上。一只膝盖随意地弯曲在凌乱的被褥下，在画面中形成一条不对称、放松的对角线。她透过睫毛直接看向镜头，目光柔和、半开半合，双唇微微张开，显得毫无防备。\n\n私密的卧室内部展示了生活化的温馨感和真实的杂乱：凌乱的米白色棉质床单、陈旧木质床头柜上堆叠的平装书、半满的陶瓷杯，以及松散地拉到窗框一侧的薄纱窗帘。在最前方的窗外，深色潮湿的窗框和流淌的雨迹将寒冷的夜空与温暖的室内避难所分隔开来。\n\n使用宾得 67 中画幅相机拍摄，搭配 105mm f/2.4 镜头全开光圈，这套设置产生了标志性的 6x7 景深压缩和锁定在她的眼睛和锁骨上的极薄焦平面。玻璃上的前景雨滴溶解成柔软、半透明的焦外圆斑，而卧室背景的角落则融化在平滑、天鹅绒般的模糊中。\n\n动力光源来自一盏温暖的钨丝床头灯，在她的脸侧、肩膀和真丝吊带衫上投下一片低调的金琥珀色光斑，与压在玻璃上的雨夜那种冷色调、柔和的板岩蓝黑暗形成对比。阴影柔和地落在她脖子的凹陷处和床单的褶皱中，雕琢出柔和的三维深度。\n\n柯达 Portra 800 胶片保留了真丝织物、凌乱棉纤维、细腻皮肤纹理和湿润玻璃滴的触感细节。该乳剂提供了丰富、具有质感的中画幅颗粒感、温暖的琥珀色阴影底色，以及灯光照射下的肩膀曲线处宽容的高光衰减。\n\n金色的室内温暖感与午夜雨水的冷蓝色调并存于一种接地气的模拟色彩组合中，没有人工饱和感。这位 28 岁女性静谧的感官吸引力完全通过她向上的注视、放松的斜倚姿态以及穿过雨窗的亲密取景来传达，没有露骨的裸露、数码光泽或摆拍的人工感。\n\n负面：露骨裸露、生殖器、性行为、未成年人、年龄模糊、光滑的塑料感皮肤、喷枪修图、影棚轮廓光、僵硬的高级时装姿势、霓虹色、宝石色调、品牌标志、水印、变形的手、多余的肢体",
+          "type": "zh",
+          "label": "中文提示词"
+        }
+      ],
+      "images": [
+        "https://img.opennana.com/prompts/assets/202611/1795228954392-m4j90xsc-1795228959032-1.jpg"
+      ],
+      "video_urls": [],
+      "thumbnail": "pthumbs/prompts/assets/202611/1795228954392-m4j90xsc-1795228959032-1-480.jpg",
+      "url": "https://opennana.com/awesome-prompt-gallery/rainy-night-bedroom-woman-portrait-medium-format",
+      "reviewed_at": "2026-11-24T14:35:45.112Z",
+      "created_at": "2026-11-21T02:44:32.669Z",
+      "updated_at": "2026-11-24T14:35:45.112Z"
+    },
+    {
+      "id": 29946,
+      "slug": "night-urban-black-leather-cat-ear-girl-portrait",
+      "title": "夜间都市黑漆皮猫耳少女全身摄影",
+      "description": "",
+      "model": "ChatGPT",
+      "media_type": "image",
+      "source_name": "@AIjee_tpe",
+      "source_url": "https://x.com/AIjee_tpe/status/2123415109594939734",
+      "tags": [],
+      "prompts": [
+        {
+          "text": "## **[Subject Description]**\n\nA photorealistic, full-body nighttime fashion cosplay portrait of an elegant adult East Asian woman with fair, smooth skin, anaturally full breasts, curvy feminine figure, a defined waist, and long, shapely legs. She has delicate facial features, large expressive reddish-brown eyes, softly defined eyebrows, subtle eyeliner, and naturally rosy lips. Her expression is calm, alluring, and slightly playful.\n\nHer long, straight, voluminous jet-black hair falls past her waist, with soft bangs framing her face. She wears a black pointed cat-ear headpiece with decorative silver hair clips. A large, fluffy black animal tail extends from behind her waist, curving gracefully outward.\n\nShe wears a provocative black glossy patent-leather catwoman-inspired cosplay outfit consisting of a cropped, long-sleeved, fitted leather jacket, a revealing black leather cutout bodysuit, and multiple decorative black leather harness straps with metallic buckles around her torso and waist. The outfit features an exposed midriff and upper chest, with coordinating leather hip straps and thigh garters. She wears sheer smoky-black pantyhose and glossy black pointed-toe stiletto pumps with high heels and red soles.\n\nA long black braided leather whip or leash hangs from her waist, trailing down onto the tiled pavement and forming a loose loop near her feet.\n\nShe possesses the best head-to-body ratio, naturally full breasts,a perfect, curvaceous, S-shaped female figure,Hourglass figure,long legs with perfect leg lines, and a slender waist, perfect foots,perfect foot lines\n\n**Pose:** She stands in a graceful, slightly bent-over three-quarter rear pose, with her hips angled backward and her upper body subtly twisted toward the camera. Her head turns over her shoulder to look directly at the viewer. Her legs remain close together, emphasizing an elegant silhouette. One hand rests near her upper thigh.\n\n## **[Scene / Background]**\n\nA nighttime outdoor urban setting with a tiled pedestrian walkway. A white metal crowd-control barrier stands directly behind the subject. In the background, a modern building features illuminated horizontal floors, softly glowing windows, and scattered out-of-focus lights. The right side includes a visible photography lighting stand and part of a large studio softbox, suggesting an outdoor cosplay photoshoot.\n\n## **[Lighting / Atmosphere]**\n\nProfessional nighttime fashion photography with a strong warm-white key light from the upper right, illuminating the subject's face, glossy leather outfit, and legs. Bright specular highlights reflect across the patent-leather surfaces. Soft ambient city lighting and subtle background bokeh create depth. A gentle rim light highlights her long black hair and fluffy tail. The atmosphere is dramatic, glamorous, and slightly mysterious.\n\n## **[Composition / View]**\n\nVertical full-body portrait, Eye-level camera angle with a slightly rear three-quarter perspective. The subject is positioned near the center of the frame, fully visible from head to heels, including the trailing leather whip on the ground. The white barrier provides a horizontal background element, while the illuminated building and nighttime environment create visual depth. Sharp focus on the subject, with a softly blurred background.\n\n## **[Style Reference]**\n\nHigh-end photorealistic cosplay fashion photography, Japanese-inspired catwoman aesthetic, glossy black leather styling, luxury alternative fashion editorial, realistic anatomy, natural facial proportions, detailed hair strands, lifelike skin texture, cinematic nighttime street photography.\n\n## **[Quality Parameters]**\n\nUltra-high resolution, photorealistic, highly detailed, realistic skin texture, precise facial features, natural body proportions, detailed patent-leather reflections, realistic sheer fabric transparency, intricate leather straps and metallic buckles, physically accurate lighting, cinematic color grading, professional DSLR photography, shallow depth of field, crisp subject focus, soft background bokeh, full-body composition, 8K quality,No cropped limbs or truncated feet.",
+          "type": "en",
+          "label": "英文提示词"
+        },
+        {
+          "text": "## **[主体描述]**\n\n一张写实的、全身夜间时尚角色扮演肖像，主角是一位优雅的成年东亚女性，拥有白皙平滑的皮肤，自然丰满的胸部，曲线优美的女性身姿，清晰的腰线以及修长匀称的双腿。她有着精致的面部特征，大而富有表现力的红褐色眼睛，柔和清晰的眉毛，微妙的眼线和自然红润的双唇。她的表情冷静、迷人且略带俏皮。\n\n她长而直、发量丰盈的乌黑长发垂过腰际，柔和的刘海修饰着脸型。她戴着一个带有装饰性银色发夹的黑色尖顶猫耳头饰。一条大而蓬松的黑色动物尾巴从她的腰后延伸出来，优雅地向外弯曲。\n\n她穿着一套撩人的黑色亮面漆皮猫女风格角色扮演服装，包括一件短款长袖修身皮夹克、一件性感的黑色皮革镂空连体衣，以及躯干和腰部周围的多条带有金属扣的装饰性黑色皮革束带。这套服装露出了腹部和上胸部，并配有协调的皮革髋部带和腿根袜带。她穿着半透明的烟黑色连体丝袜和带有红色底的亮黑色尖头细高跟鞋。\n\n一条长长的黑色编织皮革鞭子或牵引绳挂在她的腰间，拖在瓷砖路面上，并在她的脚边形成一个松散的环。\n\n她拥有最完美的头身比，自然丰满的胸部，完美的、曲线优美的S型女性身材，沙漏型身材，拥有完美腿部线条的长腿，以及纤细的腰部，完美的双脚，完美的足部线条。\n\n**姿势：** 她以一种优雅、略微弯腰的四分之三后视图姿势站立，臀部向后倾斜，上半身微妙地转向镜头。她的头从肩后转过来直接看向观众。她的双腿紧靠在一起，强调出优雅的轮廓。一只手靠在大腿上部。\n\n## **[场景 / 背景]**\n\n这是一个带有瓷砖人行道的夜间户外城市环境。一个白色的金属人群控制护栏直接立在主体身后。在背景中，一座现代建筑呈现出亮起的水平楼层、柔和发光的窗户和散落的焦外灯光。右侧包括一个可见的摄影灯架和大形演播室柔光箱的一部分，暗示这是一个户外角色扮演拍摄现场。\n\n## **[光影 / 氛围]**\n\n专业夜间时尚摄影，右上方有一束强烈的暖白色主光，照亮了主体的脸部、亮面皮革套装和双腿。明亮的镜面高光反射在漆皮表面。柔和的城市环境光和微妙的背景虚化营造出深度。一道柔和的轮廓光突出了她的黑色长发和蓬松的尾巴。氛围具有戏剧性、华丽且略显神秘。\n\n## **[构图 / 视角]**\n\n垂直全身肖像，眼平相机角度，带有略微的后方四分之三透视。主体位于画面中心附近，从头到脚跟完全可见，包括地面上拖着的皮鞭。白色护栏提供了水平的背景元素，而亮起的建筑和夜间环境创造了视觉深度。对焦准确聚焦在主体上，背景柔和模糊。\n\n## **[风格参考]**\n\n高端写实角色扮演时尚摄影，日系风格猫女审美，亮面黑皮革造型，豪华另类时尚社论，真实的解剖结构，自然的面部比例，细腻的发丝，逼真的皮肤纹理，电影般的夜间街头摄影。\n\n## **[质量参数]**\n\n超高分辨率，写实，高度细节，逼真的皮肤纹理，精确的面部特征，自然的身体比例，精细的漆皮反射，逼真的薄纱织物透明度，复杂的皮革肩带和金属扣，物理精确的光照，电影色调，专业单反摄影，浅景深，清晰的主体焦点，柔和的背景虚化，全身构图，8K画质，无裁剪肢体或断脚。",
+          "type": "zh",
+          "label": "中文提示词"
+        }
+      ],
+      "images": [
+        "https://img.opennana.com/prompts/assets/202611/1795229052719-t48npefk-1795229057386-1.jpg"
+      ],
+      "video_urls": [],
+      "thumbnail": "pthumbs/prompts/assets/202611/1795229052719-t48npefk-1795229057386-1-480.jpg",
+      "url": "https://opennana.com/awesome-prompt-gallery/night-urban-black-leather-cat-ear-girl-portrait",
+      "reviewed_at": "2026-11-24T14:35:45.058Z",
+      "created_at": "2026-11-21T02:44:32.657Z",
+      "updated_at": "2026-11-24T14:35:45.058Z"
+    },
+    {
+      "id": 29945,
+      "slug": "2000s-ccd-camera-oriental-beauty-modern-fashion",
+      "title": "2000年代CCD相机东方美女现代时尚反差",
+      "description": "",
+      "model": "ChatGPT",
+      "media_type": "image",
+      "source_name": "@DeepBlueX0",
+      "source_url": "https://x.com/DeepBlueX0/status/2123771040711266357",
+      "tags": [],
+      "prompts": [
+        {
+          "text": "2000s old CCD digital camera × adult Eastern beauty × modern fashion outfit × Eastern makeup and accessory contrast \n\n【Character and Styling】\n\nEach image randomly features one or more adult Eastern beauties in their twenties, tall and slender, with a slim waist, prominent and full bust, distinct curves, and natural proportions. Random faces, personalities, and character relationships.\n\nClothing is freely chosen from real-world modern fashion ready-to-wear, matching actual tailoring, materials, and wearing structures, naturally fitting the characters' body shapes. Each image uses at least one exquisite and distinct Eastern traditional makeup or accessory to create a contrast between ancient and modern.\n\n【Random Creation】\n\nRandom life events, scenes, atmospheres, interactions, expressions, clothing, makeup, props, and selfie compositions. Encourage rare yet reasonable combinations, natural and intimate interactions, accidental snapshots, and accidental moments full of story-telling, with each image independently conceived to avoid visual repetition.\n\n【CCD Photography Paradigm】\n\nDirectly shot using 2000s old CCD point-and-shoot digital cameras, with random selfie methods and experimental lenses. Genuine CCD colors, on-camera flash, slight color cast, limited dynamic range, and digital noise in shadows, presenting unretouched private life snapshots.\n\n【Output】\n\n9:16 vertical independent single image, generated one by one, no collages.",
+          "type": "en",
+          "label": "英文提示词"
+        },
+        {
+          "text": "2000年代舊款CCD數位相機 × 成年東方美人 × 現代時尚穿搭 × 東方妝飾反差 \n\n【人物與造型】\n\n每張隨機一位或多位二十多歲成年東方美女，高挑修長、細腰、豐滿突出上圍、曲線鮮明，比例自然。隨機面孔、個性與人物關係。\n\n服裝自由選擇現實中真實存在的現代時尚成衣，符合實際剪裁、材質與穿著結構，隨人物身形自然貼合。每張以至少一處精緻鮮明的東方傳統妝容或配飾形成古今反差。\n\n【隨機創作】\n\n隨機生活事件、場景、氛圍、互動、表情、服化道與自拍構圖。鼓勵罕見而合理的組合、自然親密互動、意外抓拍及富有故事感的偶然瞬間，每張獨立構思，避免視覺重複。\n\n【CCD 攝影範式】\n\n使用2000年代舊款CCD卡片數位相機直接拍攝，隨機自拍方式與實驗鏡頭。真實CCD色彩、機身直閃、輕微偏色、有限動態範圍與暗部數位噪點，呈現未經精修的私人生活快照。\n\n【輸出】\n\n9:16直式獨立單圖，逐張生成，不拼圖。",
+          "type": "zh",
+          "label": "中文提示词"
+        }
+      ],
+      "images": [
+        "https://img.opennana.com/prompts/assets/202611/1795228951873-bktf3kto-1795228956551-1.jpg"
+      ],
+      "video_urls": [],
+      "thumbnail": "pthumbs/prompts/assets/202611/1795228951873-bktf3kto-1795228956551-1-480.jpg",
+      "url": "https://opennana.com/awesome-prompt-gallery/2000s-ccd-camera-oriental-beauty-modern-fashion",
+      "reviewed_at": "2026-11-24T14:35:44.926Z",
+      "created_at": "2026-11-21T02:44:32.656Z",
+      "updated_at": "2026-11-24T14:35:44.926Z"
+    },
+    {
+      "id": 29944,
+      "slug": "ebru-marbling-split-art-poster",
+      "title": "湿拓流纹上下双拼艺术海报",
+      "description": "",
+      "model": "ChatGPT",
+      "media_type": "image",
+      "source_name": "@daaihq",
+      "source_url": "https://x.com/daaihq/status/2123659780518748671",
+      "tags": [],
+      "prompts": [
+        {
+          "text": "Turn the uploaded photo into a 3:4 vertical art poster, with top and bottom heights strictly 1:1, a clean straight join at the center line, and no borders or divider bars. The upper half retains the original image, with only slight color adjustment, maintaining the subject's identity, number of people, posture, orientation, and structure; backgrounds may be extended when adapting, without stretching, mirroring, or cutting off main characters. If the original image is an illustration, the upper half maintains the original appearance of the illustration. All stylistic treatments occur only in the lower half. The lower half reconstructs the same subject based on the original image, retaining identifying characteristics, character relationships, primary clothing colors, and key location features, while removing irrelevant backgrounds; it is not shrinking and pasting the original photo. The lower half redraws the subject as a flat colored shape with water-surface ebru marbling patterns, with the exterior of the subject kept completely white. The outline corresponds to the original photo, with two to three colors gently pushed inside, creating curved color bands of varying thickness and a few closed color pools; the flow follows clothing folds, ridges, or body turns, and cannot simply apply the same spiral pattern. The entire group is suspended horizontally in the middle slightly to the right, width 52%–60%, height 25%–33%, leaving a large blank area below. Use the color palette of the original photo, maintaining clear color boundaries and local dark intersections, without using rainbow gradients. The ebru pattern only exists within the subject, the outline is not drawn with black lines, avoiding marble backgrounds, oily dirty colors, full-page water ripples, and liquids in vessels. The target for white space in the lower half is 70%, and must exceed 50%; if details are crowded, remove backgrounds and decorations first, retaining main characters and key structures. The white space ratio is calculated based on the total area of the lower half, referring to white areas without obvious brushstrokes, color blocks, shadows, or decorations, with at least one connected blank space occupying 50% of the lower half. The base color is pure white or bright warm white, faint paper texture is allowed, without laying gray mist, old paper stains, or gradient backgrounds. Do not put the image into cards, book pages, vessels, or display frames. Do not add text, seals, logos, watermarks, decorative borders, and do not use cartoon big-heads, sticker outlines, or 3D model effects.",
+          "type": "en",
+          "label": "英文提示词"
+        },
+        {
+          "text": "将上传的照片制作成一张3:4竖版艺术海报，上下高度严格1:1，中线干净直拼，无边框或分隔条。上半幅保留原图，仅轻微调色，保持主体身份、人数、姿态、朝向与结构；适配时可扩展背景，不拉伸、不镜像、不裁掉主要人物。原图若为插画，上半幅保持插画原貌。所有风格处理仅发生在下半幅。下方根据原图重构同一主体，保留辨识特征、人物关系、服装主色及关键地点特征，删去无关背景；不是把原照缩小粘贴。\n\n下半幅把主体重绘成一块带水面湿拓流纹的平面色形，主体外部完全保持白色。轮廓对应原照，内部两至三种颜色轻轻推挤，产生粗细不一的弯曲色带和少量封闭色池；流向顺着衣褶、山脊或身体转折，不能随意套上同一螺旋纹。整组横向悬置在中间略偏右，宽52%–60%、高25%–33%，下方留出整片空白。使用原照色系，保留清透的颜色分界与局部深色交汇，不用彩虹渐变。湿拓纹样只在主体内存在，轮廓不画黑线，避免大理石背景、油污脏色、满纸水波和器皿中的液体。下半幅白色留白目标为70%，必须超过50%；若细节拥挤，先删背景和装饰，保留主要人物与关键结构。\n\n留白比例均以下半幅总面积计算，指没有明显笔触、色块、阴影或装饰的白色区域，至少有一块占下半幅50%的连通空白。底色纯白或明亮暖白，微弱纸纹可有，不铺灰雾、旧纸污渍或渐变底。不把画面装进卡片、书页、器皿或展框。不添加文字、印章、标志、水印、装饰边框，不用卡通大头、贴纸描边或3D模型效果。",
+          "type": "zh",
+          "label": "中文提示词"
+        }
+      ],
+      "images": [
+        "https://img.opennana.com/prompts/assets/202611/1795228952266-3qdmwczl-1795228956780-1.jpg"
+      ],
+      "video_urls": [],
+      "thumbnail": "pthumbs/prompts/assets/202611/1795228952266-3qdmwczl-1795228956780-1-480.jpg",
+      "url": "https://opennana.com/awesome-prompt-gallery/ebru-marbling-split-art-poster",
+      "reviewed_at": "2026-11-24T14:35:45.062Z",
+      "created_at": "2026-11-21T02:44:32.628Z",
+      "updated_at": "2026-11-24T14:35:45.062Z"
+    },
+    {
+      "id": 29943,
+      "slug": "japanese-fanart-european-clean-line-style-character-illustration",
+      "title": "日系同人欧式清线角色插画设计",
+      "description": "",
+      "model": "ChatGPT",
+      "media_type": "image",
+      "source_name": "@VoxcatAI",
+      "source_url": "https://x.com/VoxcatAI/status/2123764242516226417",
+      "tags": [],
+      "prompts": [
+        {
+          "text": "[Character], explicitly adult, retaining core hairstyle, facial features, representative colors, clothing silhouette and identity symbols, translated into Japanese fan character illustration × European clean line style.\n\nThe character proportions are slender and natural, facial features are exquisite, delicate, and restrained, facial structure is simple and clear, with clear eyes. Design calm, lazy, playful, or slightly provocative expressions based on the character's personality, with natural movements and accurate hand structures.\n\nUse medium-fine, clean, and smooth gray-purple, gray-blue, or cool brown line art, retaining a slight hand-drawn looseness, with clean, elegant, and light outlines. Large areas of low-saturation matte flat coloring, paired with a small amount of fine and soft gradients and thin shadows, forming a restrained 2.5D sense of dimensionality. Skin, hair, and clothing edges are clear, dark areas are pure, with a slight and gentle paper and scanned print texture.\n\nExtract the color scheme from the character's representative colors, incorporating gray-pink, gray-purple, blue-gray, dark cyan, mist white, and bone white, with a small amount of coordinated accent colors to highlight the eyes, accessories, or key props.\n\nBased on the character's experience, personality, or identity, independently design a clear and readable visual metaphor, transforming emotions into ingenious relationships between props, shadows, reflections, spaces, or materials. Metaphors are concentrated, subtle, and naturally associated with the character's actions.\n\nComposition, framing, perspective, and lens are freely chosen based on the narrative, including close-up, medium shot, half-body, full-body, or long shot, as well as high-angle, low-angle, side view, back-side view, tilted composition, foreground perspective, or framing. When generating in batches, vary the character, theme, metaphor, posture, and viewing distance for each image.\n\nThe background uses minimalist whitespace, light-colored bases, or a few geometric color planes, with environmental details serving the narrative. The overall style is gentle, restrained, and exquisite, combining the intimacy of private fan illustrations with the clean order of European clean lines.",
+          "type": "en",
+          "label": "英文提示词"
+        },
+        {
+          "text": "【角色】，明确成年，保留核心发型、五官、代表色、服装轮廓与身份符号，转译为日系同人角色插画 × 欧式清线风格。\n\n人物比例修长自然，五官精致、清秀、克制，面部结构简洁明确，眼睛清晰。根据角色性格设计冷静、慵懒、俏皮或轻微挑衅的神情，动作自然，手部结构准确。\n\n使用中细、干净、流畅的灰紫、灰蓝或冷棕色线稿，保留轻微手绘松动感，轮廓整洁、优雅、轻盈。大面积低饱和哑光平涂，搭配少量细腻柔和的渐变与轻薄阴影，形成克制的 2.5D 立体感。皮肤、头发与服装边缘清晰，暗部纯净，纸面与扫描印刷纹理轻微温和。\n\n从角色代表色中提取配色，融入灰粉、灰紫、蓝灰、暗青、雾白与骨白，少量协调跳色突出眼睛、配饰或关键道具。\n\n根据角色经历、性格或身份，自主设计一个清楚可读的视觉隐喻，将情绪转化为道具、影子、倒影、空间或材质之间的巧妙关系。隐喻集中、含蓄，与角色动作自然关联。\n\n构图、景别、视角与镜头依据叙事自由选择，可采用特写、近景、半身、全身或远景，以及俯视、仰视、侧面、背侧、倾斜构图、前景透视或框景。批量生成时，每张分别变化角色、主题、隐喻、姿态与观看距离。\n\n背景采用极简留白、浅色底或少量几何色面，环境细节服务于叙事。整体轻柔、克制、精致，兼具私人同人插画的亲密感与欧式清线的整洁秩序。",
+          "type": "zh",
+          "label": "中文提示词"
+        }
+      ],
+      "images": [
+        "https://img.opennana.com/prompts/assets/202611/1795228955491-tfsjanqa-1795228959967-1.jpg"
+      ],
+      "video_urls": [],
+      "thumbnail": "pthumbs/prompts/assets/202611/1795228955491-tfsjanqa-1795228959967-1-480.jpg",
+      "url": "https://opennana.com/awesome-prompt-gallery/japanese-fanart-european-clean-line-style-character-illustration",
+      "reviewed_at": "2026-11-24T14:35:44.682Z",
+      "created_at": "2026-11-21T02:44:32.606Z",
+      "updated_at": "2026-11-24T14:35:44.682Z"
+    },
+    {
+      "id": 29941,
+      "slug": "gta-vi-personalized-playable-character-poster",
+      "title": "侠盗猎车手6个性化可玩角色海报制作",
+      "description": "",
+      "model": "ChatGPT",
+      "media_type": "image",
+      "source_name": "@Goodmanprotocol",
+      "source_url": "https://x.com/Goodmanprotocol/status/2123483824868954239",
+      "tags": [],
+      "prompts": [
+        {
+          "text": "GTA VI | PERSONALIZED PLAYABLE CHARACTER POSTER\n\nTransform the person in the uploaded reference photo into a stunning, ultra-detailed Grand Theft Auto VI-inspired character poster, designed like an official Vice City character introduction screen.\n\nPreserve the person's recognizable facial identity, hairstyle, skin tone and natural features while adapting their appearance into GTA VI's signature illustrated, semi-realistic promotional artwork style.\n\nSCENE & BACKGROUND: Place the character in a vibrant Vice City-inspired tropical environment featuring a beautiful sunset, palm trees, luxury cars, waterfront views, modern skyscrapers and subtle cinematic details.\n\nCHARACTER DESIGN: Give the person a stylish outfit that suits their personality, with a confident natural pose and expressive attitude. Use rich colors, dramatic lighting, detailed textures and polished Rockstar-inspired artwork aesthetics.\n\nPOSTER LAYOUT:\n\n- Top corner: Bold Grand Theft Auto VI-inspired logo.\n- Opposite corner: Character's name in elegant neon-pink typography.\n- Side panel: PLAYABLE CHARACTER with customizable details:\n  - Age\n  - From\n  - Role\n  - Skills with visual progress bars (Driving, Shooting, Stealth, Charisma and other suitable abilities).\n- Bottom corner: A short, stylish character quote in neon handwritten typography.\n- Include a small gaming-inspired emblem near the bottom.\n\nIMPORTANT: Automatically personalize the character name, profile, role, outfit and quote based on the uploaded person wherever appropriate. Keep all text clean, correctly spelled and readable.\n\nFINAL STYLE: Premium GTA VI promotional poster, cinematic Vice City atmosphere, vibrant pink and purple sunset palette, sophisticated character illustration, crisp details, balanced composition and professional graphic design.\n\nFORMAT: 4:5 vertical poster, high resolution, no watermark.",
+          "type": "en",
+          "label": "英文提示词"
+        },
+        {
+          "text": "GTA VI | 个性化可玩角色海报\n\n将上传的参考照片中的人转变为一张令人惊叹、细节极其丰富的受《侠盗猎车手 VI》启发的角色海报，设计得像官方的罪恶都市角色介绍屏幕。\n\n保留人物可辨认的面部特征、发型、肤色和自然特征，同时将他们的外貌适配成 GTA VI 标志性的插画式、半写实宣传艺术风格。\n\n场景与背景：将角色置于充满活力的罪恶都市风格热带环境中，具有美丽的落日、棕榈树、豪车、海滨景观、现代摩天大楼和微妙的电影细节。\n\n角色设计：给人物穿上符合其个性的时尚装束，拥有自信的自然姿势和富有表现力的态度。使用丰富的色彩、戏剧性的灯光、细腻的纹理和考究的 Rockstar 风格艺术美学。\n\n海报布局：\n\n- 顶部角落：醒目的受《侠盗猎车手 VI》启发的徽标。\n- 对面角落：优雅的霓虹粉色字体显示角色的名字。\n- 侧边栏：具有可自定义详情的可玩角色：\n  - 年龄\n  - 来自\n  - 角色\n  - 带有视觉进度条的技能（驾驶、射击、潜行、魅力和其他合适的能力）。\n- 底部角落：一段简短、时尚的霓虹手写体角色语录。\n- 在底部附近包含一个小型游戏风格的徽章。\n\n重要提示：在适当的地方，根据上传的人物自动个性化角色名称、简介、角色、服装和语录。保持所有文本整洁、拼写正确且清晰易读。\n\n最终风格：优质 GTA VI 宣传海报，电影般的罪恶都市氛围，充满活力的粉紫色日落调色板，精致的角色插画，清晰的细节，平衡的构图和专业的平面设计。\n\n格式：4:5 垂直海报，高分辨率，无水印。",
+          "type": "zh",
+          "label": "中文提示词"
+        }
+      ],
+      "images": [
+        "https://img.opennana.com/prompts/assets/202611/1795229059960-rquyijxl-1795229065104-1.jpg"
+      ],
+      "video_urls": [],
+      "thumbnail": "pthumbs/prompts/assets/202611/1795229059960-rquyijxl-1795229065104-1-480.jpg",
+      "url": "https://opennana.com/awesome-prompt-gallery/gta-vi-personalized-playable-character-poster",
+      "reviewed_at": "2026-11-24T14:35:45.127Z",
+      "created_at": "2026-11-21T02:44:32.593Z",
+      "updated_at": "2026-11-24T14:35:45.127Z"
+    },
+    {
+      "id": 29940,
+      "slug": "rainy-day-city-rooftop-white-fashion-photography",
+      "title": "雨天都市天台白色系时尚摄影",
+      "description": "",
+      "model": "ChatGPT",
+      "media_type": "image",
+      "source_name": "@GenRyoma",
+      "source_url": "https://x.com/GenRyoma/status/2123951780488978663",
+      "tags": [],
+      "prompts": [
+        {
+          "text": "Hyper-realistic real-person fashion photography, 9:16 vertical version, rainy day urban rooftop snapshot, real camera texture, slight film grain.\n\nA clearly adult East Asian female model, slender posture, superior leg proportions, overall temperament is cold, restrained, with a bit of urban feel. Natural and real facial features, do not overemphasize facial details, avoid templated influencer faces.\n\nOutfit:\nWhite inner underwear, wearing a white shirt on the outside layered with a short jacket; the bottom is an ultra-short white pleated skirt, legs wearing 30D white pantyhose, the texture of the stockings is delicate, slightly sheer, evenly covering to the feet. The overall color scheme is mainly white, clean, light, with a bit of rainy day moisture.\nAction and Pose:\nThe model is leaning against the rooftop railing, body leaning forward slightly.\nOne hand is placed naturally on the railing to support the body, and the other hand is holding a white transparent umbrella, lightly resting the umbrella on the shoulder.\nLegs standing naturally, one leg bearing weight, the other leg slightly relaxed, forming natural waist, hip, and leg lines.\nThe head can be slightly turned to the side or looking down into the distance, no need to look directly at the camera, emphasizing the snapshot feel.\n\nScene:\nUrban rooftop in light rainy weather, railings are clearly visible, the ground has slight rain reflections. The background is a grayish-blue cloudy day, hazy buildings, and fine rain, the overall environment is clean, cool-toned, with a bit of urban cinematic feel.\nCamera Position and Composition:\nThe photographer is located on a lower floor or a position to the side and below, shooting from a low side angle looking up.\nThe focus of the image is on the overall posture of the model leaning against the railing, the layers of white outfits, the outline of the umbrella, and the long legs.\nKeep the rooftop railing, umbrella, person's body lines, and background city all in the frame; the composition has a clear sense of depth and upward extension.\nLighting and Texture:\nCloudy day natural diffused light, the overall environment is soft and cold in the light rain, white clothing and white stockings form clear layers against the grayish-blue background.\nPreserve real fabric texture, transparent umbrella material, stocking fiber texture, moist air feel, and slight ground reflections.",
+          "type": "en",
+          "label": "英文提示词"
+        },
+        {
+          "text": "超写实真人时尚摄影，9:16竖版，雨天都市天台抓拍，真实相机质感，轻微胶片颗粒。\n\n一位明确成年的东亚女性模特，体态修长，双腿比例优越，整体气质清冷、克制、带一点都市感。五官自然真实，不过度强调脸部细节，避免模板化网红脸。\n\n穿搭：\n白色内搭内衣，外穿白色衬衫并叠穿一件短款小外套；下身是超短白色百褶裙，双腿穿30D白色连裤丝袜，丝袜质感细腻、轻微透肤、均匀包覆至脚部。整体配色以白色系为主，干净、轻盈、带一点雨天湿润感。\n动作与姿势：\n模特趴靠在天台护栏上，身体微微前倾。\n一只手自然放在护栏上支撑身体，另一只手握着一把白色透明雨伞，将伞轻轻扛在肩上。\n双腿自然站立，一腿承重，另一腿轻微放松，形成自然的腰臀和腿部线条。\n头部可微微侧转或低头看向远处，不必直视镜头，突出抓拍感。\n\n场景：\n小雨天气的城市天台，护栏清晰可见，地面略有雨水反光。背景是灰蓝色阴天、朦胧楼群与细密雨丝，整体环境干净、冷调、有一点都市电影感。\n机位与构图：\n摄影师位于较低楼层或侧下方位置，从侧方低机位仰拍。\n画面重点呈现模特靠在护栏上的整体姿态、白色穿搭层次、雨伞轮廓和修长腿部。\n保持天台护栏、雨伞、人物身体线条与背景城市共同入镜，构图有明显纵深感和向上延伸感。\n光线与质感：\n阴天自然漫射光，小雨环境下整体柔和偏冷，白色服装与白色丝袜在灰蓝色背景中形成清晰层次。\n保留真实布料纹理、雨伞透明材质、丝袜纤维质感、湿润空气感和轻微地面反光。",
+          "type": "zh",
+          "label": "中文提示词"
+        }
+      ],
+      "images": [
+        "https://img.opennana.com/prompts/assets/202611/1795229045639-hs6bywd1-1795229050145-1.jpg"
+      ],
+      "video_urls": [],
+      "thumbnail": "pthumbs/prompts/assets/202611/1795229045639-hs6bywd1-1795229050145-1-480.jpg",
+      "url": "https://opennana.com/awesome-prompt-gallery/rainy-day-city-rooftop-white-fashion-photography",
+      "reviewed_at": "2026-11-24T14:35:44.928Z",
+      "created_at": "2026-11-21T02:44:32.591Z",
+      "updated_at": "2026-11-24T14:35:44.928Z"
+    },
+    {
+      "id": 29939,
+      "slug": "model-white-sheer-jacket-lingerie-grey-stockings-flash",
+      "title": "模特白色薄纱外套内衣灰色丝袜床边背对抓拍",
+      "description": "",
+      "model": "ChatGPT",
+      "media_type": "image",
+      "source_name": "@GenRyoma",
+      "source_url": "https://x.com/GenRyoma/status/2122709469771845802",
+      "tags": [],
+      "prompts": [
+        {
+          "text": "Model wearing a white sheer jacket, white lace-up lingerie set paired with grey hip-hugging stockings 20D, kneeling by the bedside with side back to the camera, night flash snapshot",
+          "type": "en",
+          "label": "英文提示词"
+        },
+        {
+          "text": "模特穿白色薄纱外套，白色绑带内衣套装搭配灰色包臀丝袜20D，跪立在床边侧背对镜头夜晚闪光灯抓拍",
+          "type": "zh",
+          "label": "中文提示词"
+        }
+      ],
+      "images": [
+        "https://img.opennana.com/prompts/assets/202611/1795065959214-5esfm4ry-1795065959914-1.jpg"
+      ],
+      "video_urls": [],
+      "thumbnail": "pthumbs/prompts/assets/202611/1795065959214-5esfm4ry-1795065959914-1-480.jpg",
+      "url": "https://opennana.com/awesome-prompt-gallery/model-white-sheer-jacket-lingerie-grey-stockings-flash",
+      "reviewed_at": "2026-11-24T14:35:45.092Z",
+      "created_at": "2026-11-19T05:26:02.604Z",
+      "updated_at": "2026-11-24T14:35:45.092Z"
+    },
+    {
+      "id": 29938,
+      "slug": "hyper-realistic-anime-cosplay-fashion-photography",
+      "title": "超写实动漫角色真人COS时尚摄影",
+      "description": "",
+      "model": "ChatGPT",
+      "media_type": "image",
+      "source_name": "@zhangjiajia1314",
+      "source_url": "https://x.com/zhangjiajia1314/status/2123277334258254193",
+      "tags": [],
+      "prompts": [
+        {
+          "text": "Generate a hyper-realistic anime character live-action COS fashion photography work, with the theme of [Character Name] from [Anime Name], performed by an adult female COSER.\n\nCharacter setting:\nAccurately restore the anime character's iconic hairstyle, hair color, eye color, facial features, accessories, and character temperament. Exquisite and natural facial contours, large and bright eyes, real and delicate skin texture, graceful and well-proportioned figure. The overall temperament is sexy, charming, confident, and fashionable, while maintaining the recognizability of the original character.\n\nClothing restoration:\nStrictly restore the character's classic clothing, accurately presenting the color, style, cut, material, and iconic accessories. Moderate fashionable improvements are allowed to highlight clothing texture and female curves, but cannot destroy the character's classic look.\n\nBackground anime poster (core requirement):\nA large anime-themed poster is hung behind the person. The same anime character must appear in the poster, using a high-quality anime illustration style. The live-action COSER and the anime character in the poster must wear exactly the same clothing, including color, style, hairstyle, accessories, and details. Ensure that the live-action and the anime poster form a sharp visual contrast between 2D and reality.\n\nEnvironmental scene:\nDesign a real and natural shooting environment based on the character's identity, story background, and anime worldview. You can choose a traditional Japanese courtyard, autumn deciduous forest, wooden building, bamboo forest, city street, seaside, retro industrial space, or other locations that match the character's setting. Add a small number of character-exclusive props and iconic decorations.\n\nEnvironmental authenticity:\nThe environment must be like a real photographer shooting in a real location, not a virtual studio built by AI. The building structure is natural, plant growth is reasonable, wood, stone, and metal have real textures, and lighting follows real physical laws. Avoid repetitive textures, plastic-textured plants, floating props, and obvious AI collage feeling.\n\nCharacter poses:\nChange movements freely each time to avoid repeating model poses. You can use full-body standing pose, one hand on hip, one hand stroking hair, different movements for both hands, looking back pose, side sitting pose, natural squatting pose, or holding character-exclusive weapons. Movements are natural and relaxed, body proportions are reasonable, finger structures are correct, and eyes are naturally expressive.\n\nPhotography style:\nHyper-realistic live-action COS photography, professional fashion magazine photography, high-end DSLR camera texture, real skin texture, delicate hair strands, real clothing materials, natural sunlight, cinematic shadows, real depth of field, high-end commercial photography colors.\n\nComposition requirements:\n9:16 vertical composition. The character is the main subject of the picture. The full-body standing pose must fully display the head, body, and feet. The background anime poster is clearly visible, and the clothing of the live-action person and the poster is strictly consistent.\n\nNegative constraints:\nAvoid character identity changes, inconsistent clothing, incorrect hairstyles, missing accessories, deformed fingers, extra limbs, incorrect human body proportions, distorted backgrounds, repetitive buildings, plastic skin, excessive skin smoothing, fake lighting, blurry posters, and obvious AI-generated feel.",
+          "type": "en",
+          "label": "英文提示词"
+        },
+        {
+          "text": "生成一张超写实的动漫角色真人 COS 时尚摄影作品，主题为【动漫名称】中的【角色名称】，由一位成年女性 COSER 演绎。\n\n人物设定：\n准确还原动漫角色的标志性发型、发色、瞳色、五官特征、配饰和人物气质。精致自然的面部轮廓，大而明亮的眼睛，真实细腻的皮肤纹理，优美匀称的身材。整体气质性感、妩媚、自信、时尚，同时保留原角色的辨识度。\n\n服装还原：\n严格还原角色的经典服装，准确呈现颜色、款式、剪裁、材质和标志性配饰。允许适度时尚化改良，突出服装质感和女性曲线，但不能破坏角色的经典造型。\n\n背景动漫海报（核心要求）：\n人物身后悬挂一张大型动漫主题海报，海报中必须出现同一个动漫角色，采用高质量动漫插画风格。\n真人 COSER 与海报中的动漫人物必须穿着完全一致的服装，包括颜色、款式、发型、配饰和细节。\n确保真人与动漫海报形成鲜明的二次元与现实视觉对照。\n\n环境场景：\n根据角色的身份、故事背景和动漫世界观，设计一个真实自然的拍摄环境。\n可以选择日式传统庭院、秋季落叶林、木质建筑、竹林、城市街道、海边、复古工业空间或其他符合角色设定的地点。\n加入少量角色专属道具和标志性装饰。\n\n环境真实性：\n环境必须像真实摄影师在现实地点拍摄，而不是 AI 搭建的虚拟摄影棚。建筑结构自然，植物生长合理，木材、石材、金属具有真实纹理，光影符合现实物理规律。避免重复纹理、塑料质感植物、悬浮道具和明显 AI 拼贴感。\n\n人物姿势：\n每次自由更换动作，避免重复模特姿势。\n可以采用全身站姿、单手叉腰、单手撩发、双手不同动作、回眸姿势、侧坐姿、自然蹲姿或手持角色专属武器。\n动作自然舒展，身体比例合理，手指结构正确，眼神自然有表现力。\n\n摄影风格：\n超写实真人 COS 摄影，专业时尚杂志摄影，高端 DSLR 相机质感，真实皮肤纹理，细腻发丝，真实服装材质，自然阳光，电影感阴影，真实景深，高级商业摄影色彩。\n\n构图要求：\n9:16 竖版构图。人物为画面主体，全身站姿必须完整展示头部、身体和双脚。背景动漫海报清晰可见，真人与海报服装严格一致。\n\n负面约束：\n避免人物身份变化、服装不一致、发型错误、配饰缺失、手指畸形、多余肢体、人体比例错误、背景扭曲、重复建筑、塑料皮肤、过度磨皮、虚假光影、海报模糊和明显 AI 生成感。",
+          "type": "zh",
+          "label": "中文提示词"
+        }
+      ],
+      "images": [
+        "https://img.opennana.com/prompts/assets/202611/1795065955550-olynki8y-1795065956687-1.jpg"
+      ],
+      "video_urls": [],
+      "thumbnail": "pthumbs/prompts/assets/202611/1795065955550-olynki8y-1795065956687-1-480.jpg",
+      "url": "https://opennana.com/awesome-prompt-gallery/hyper-realistic-anime-cosplay-fashion-photography",
+      "reviewed_at": "2026-11-24T14:35:44.959Z",
+      "created_at": "2026-11-19T05:26:02.580Z",
+      "updated_at": "2026-11-24T14:35:44.959Z"
+    },
     {
       "id": 29903,
       "slug": "premium-street-creator-editorial-poster",
@@ -7491,7 +8035,7 @@
       "url": "https://opennana.com/awesome-prompt-gallery/lightweight-silver-pearlescent-stage-outfit-1794532893513",
       "reviewed_at": "2026-11-17T01:21:59.833Z",
       "created_at": "2026-11-13T01:21:33.560Z",
-      "updated_at": "2026-11-18T18:18:01.131Z"
+      "updated_at": "2026-11-24T02:25:55.758Z"
     },
     {
       "id": 29621,
@@ -13510,7 +14054,7 @@
       "url": "https://opennana.com/awesome-prompt-gallery/woman-tying-hair-bedroom-moment",
       "reviewed_at": "2026-11-14T14:12:20.389Z",
       "created_at": "2026-11-10T05:00:11.938Z",
-      "updated_at": "2026-11-18T15:11:08.970Z"
+      "updated_at": "2026-11-24T12:47:11.268Z"
     },
     {
       "id": 29436,
@@ -19596,7 +20140,7 @@
       "url": "https://opennana.com/awesome-prompt-gallery/realistic-elevator-mirror-selfie-office-lady",
       "reviewed_at": "2026-11-12T00:27:47.582Z",
       "created_at": "2026-11-07T04:56:42.568Z",
-      "updated_at": "2026-11-18T14:51:16.309Z"
+      "updated_at": "2026-11-24T09:25:12.218Z"
     },
     {
       "id": 29233,
@@ -25788,7 +26332,7 @@
       "url": "https://opennana.com/awesome-prompt-gallery/morning-light-home-portrait-lace-nightgown",
       "reviewed_at": "2026-11-04T00:26:30.270Z",
       "created_at": "2026-10-28T14:52:14.560Z",
-      "updated_at": "2026-11-16T11:39:11.859Z"
+      "updated_at": "2026-11-23T06:47:38.987Z"
     },
     {
       "id": 29036,
@@ -47901,7 +48445,7 @@
       "url": "https://opennana.com/awesome-prompt-gallery/bedroom-direct-flash-retro-digital-portrait-east-asian-woman",
       "reviewed_at": "2026-10-20T00:36:30.154Z",
       "created_at": "2026-10-15T12:01:42.338Z",
-      "updated_at": "2026-11-17T00:11:22.824Z"
+      "updated_at": "2026-11-22T04:55:01.369Z"
     },
     {
       "id": 28250,
@@ -227878,7 +228422,7 @@
       "url": "https://opennana.com/awesome-prompt-gallery/shandong-cuisine-sea-cucumber-poster",
       "reviewed_at": "2026-08-11T14:34:18.910Z",
       "created_at": "2026-08-05T08:41:09.742Z",
-      "updated_at": "2026-11-14T04:29:55.073Z"
+      "updated_at": "2026-11-24T04:47:24.991Z"
     },
     {
       "id": 21862,
@@ -242671,7 +243215,7 @@
       "url": "https://opennana.com/awesome-prompt-gallery/tying-the-knot-of-longing",
       "reviewed_at": "2026-08-04T09:27:14.727Z",
       "created_at": "2026-08-03T16:28:29.107Z",
-      "updated_at": "2026-11-06T19:26:12.998Z"
+      "updated_at": "2026-11-22T20:49:19.154Z"
     },
     {
       "id": 21321,
@@ -349500,7 +350044,7 @@
       "url": "https://opennana.com/awesome-prompt-gallery/minimalist-cinematic-person-typography-poster",
       "reviewed_at": "2026-07-09T16:11:56.604Z",
       "created_at": "2026-07-08T10:47:11.777Z",
-      "updated_at": "2026-11-20T07:15:42.072Z"
+      "updated_at": "2026-11-22T17:30:35.789Z"
     },
     {
       "id": 17540,
@@ -448174,7 +448718,7 @@
       "url": "https://opennana.com/awesome-prompt-gallery/demon-slayer-style-full-body-character-generator",
       "reviewed_at": "2026-05-13T12:33:10.167Z",
       "created_at": "2026-05-11T14:56:02.077Z",
-      "updated_at": "2026-11-21T20:39:52.103Z"
+      "updated_at": "2026-11-24T12:55:50.387Z"
     },
     {
       "id": 14269,
